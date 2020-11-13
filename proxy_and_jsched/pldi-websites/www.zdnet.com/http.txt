@@ -1,0 +1,14 @@
+HTTP/1.0 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.zdnet.com/
+Date: Tue, 11 Feb 2020 03:22:35 GMT
+Connection: close
+Set-Cookie: fly_device=desktop; expires=Tue, 18-Feb-2020 03:22:35 GMT; path=/; domain=.zdnet.com; secure
+Set-Cookie: fly_geo={"countryCode": "us"}; expires=Tue, 18-Feb-2020 03:22:35 GMT; path=/; domain=.zdnet.com; secure
+Set-Cookie: fly_preferred_edition=us; path=/; domain=.zdnet.com; secure
+Set-Cookie: fly_default_edition=us; path=/; domain=.zdnet.com; secure
+Vary: Accept-Encoding, User-Agent
+
+ache-control: private
+

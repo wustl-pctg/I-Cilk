@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/assembly.h
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/x86_64/chkstk.S
+../assembly.h
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/assembly.h
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/x86_64/chkstk2.S
+../assembly.h
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/assembly.h
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/x86_64/floatundidf.S
+../assembly.h
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/assembly.h
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/x86_64/floatundisf.S
+../assembly.h
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/assembly.h
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/x86_64/floatundixf.S
+../assembly.h
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/assembly.h
+

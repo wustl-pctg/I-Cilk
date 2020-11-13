@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Tue, 11 Feb 2020 03:56:11 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+Location: https://www.education.com:443/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+</body>
+</html>
+cUqJSbilw7MSBArUWpSdcKBJ97OmfX-n6UgKZyg==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>
+x4QC6bk=; path=/; expires=Tue, 11-Feb-20 04:26:09 GMT; domain=.oanda.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 5633642d5ae6a63d-IND
+

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 2547
+Connection: close
+Date: Thu, 06 Feb 2020 02:43:02 GMT
+Cache-Control: public, max-age=14400
+Content-Encoding: gzip
+Last-Modified: Sat, 25 Jan 2020 07:03:11 GMT
+ETag: "e88aedc9d9a34d326fce3b34f56e8c4f"
+Server: AmazonS3
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3b3cb210495e4d1678591271d0921206.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD52-C1
+X-Amz-Cf-Id: U2MPayVL8pjgLmg9sVdJhg7Bgdq8pbFSJPrxw_-aPOjbe4ceIvrIvg==
+
+‹

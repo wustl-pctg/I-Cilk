@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Server: nginx/1.7.6
+Date: Tue, 11 Feb 2020 03:43:57 GMT
+Content-Type: text/html
+Content-Length: 0
+Last-Modified: Tue, 29 Jul 2014 14:26:54 GMT
+Connection: close
+ETag: "53d7af2e-0"
+Accept-Ranges: bytes
+
+nt
+Via: 1.1 bb8a4e32b7413c1fbb32dbaa86a9a575.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD52-C2
+X-Amz-Cf-Id: v_vHhvSDiaLMicfMfhqA9uvj0xbviQDExJrVICoiL2rmxQVWDtgwRQ==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>
+øMÍâYe=X!ğ™&ŒFå³}O™¡$L¨ÒÌÌz…™{g½½ıŒ¦lÖS2F÷H(3Ã2€æYÄÖ}2—BÈÕ¡SKÎV¹T¦qnÅ#“Ì"¶ä!óìKŸğŒN…§C*Øl4ö‰NÏ‘Şœ›Y&‘Â£GSÃ`—Œb4%ïY(UÄÔÔwËÂÉTQÛì•|Yø^×ë„‘TjCr™‚*ÉU&$…Ã «"¯ŒÉÉ¾dÄ¡æYL¼zóÁO‹³£
+Ät¨xn¸Ì:©THûºBÒ€³ˆúl0NöiÁùå‚mV ƒnâË•Ì™2›YOÆf“³†©2<lÙ·*8¬©Cçš¢}1µ"ÆS7™L

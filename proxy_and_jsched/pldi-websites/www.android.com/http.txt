@@ -1,0 +1,31 @@
+HTTP/1.0 302 Found
+Location: https://www.android.com/
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Tue, 11 Feb 2020 03:16:51 GMT
+Server: sffe
+Content-Length: 221
+X-XSS-Protection: 0
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="https://www.android.com/">here</A>.
+</BODY></HTML>
+body bgcolor="#ffffff" text="#000000" link="#ff0000" alink="#ff0000" vlink="#ff0000">
+ Document moved: <a href="https://badoo.com/">https://badoo.com/</a>
+ </body>
+</html>
+0
+
+a>.</p>
+</body></html>
+
+0
+
+YneLjzkcuANjDvoR0lUjTV0APtJvrNjXr+6Ai4dhWv5gp83NOCFhhABP10BkQ/Tf56T/YZTXdMpXelpnFO0LcKd8BGYe+PgiJXti2bQxmxGkHNnBRBoxUjrynOAOfbFx8g1QR4ur1EybHMY6pHLCAjUTAdk9Kg9eSewVusv4ykr14DXl~-1~-1~-1; Domain=.nordstrom.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:22 GMT; Max-Age=31536000
+
+00
+

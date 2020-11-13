@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Location: https://www.clarivate.com/
+Server: nginx
+X-Pantheon-Styx-Hostname: styx-fe3-b-c8f8fbbbb-q92t2
+X-Styx-Req-Id: bcc52caa-4c39-11ea-968c-96f42a6af28b
+Cache-Control: public, max-age=86400
+Content-Length: 178
+Date: Tue, 11 Feb 2020 04:02:28 GMT
+Connection: close
+X-Served-By: cache-mdw17328-MDW, cache-stl4848-STL
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1581393748.055207,VS0,VE10
+Vary: Cookie, Cookie
+Age: 31603
+Accept-Ranges: bytes
+Via: 1.1 varnish
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+Qmj£²²<ÿƒvş˜¶úB›}ú£êü„6ÿ¸2ÿ°2»¨?]Ö¯.î©®Ü¨,œØ£[ÜX»«;DŸŒ?‹×ÊÓ«¸¶G›¼‡®Í/Õ[×ènùíiíÎ1}ù¢>s{öø¥öl²|émeOŸ¾§z ¯LêË‡öè‹§*·&«WOT¯,ï)?~¦œÜƒáê‹kúù§åëhgş‡ÊÑ3{´§³h_öTŞÍi3÷ô©WÚí{ô'§´ûË{

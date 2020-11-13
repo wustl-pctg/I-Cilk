@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 04:14:10 GMT
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: max-age=3600
+Expires: Tue, 11 Feb 2020 05:14:10 GMT
+Location: https://www.miamidiario.com/
+Server: cloudflare
+CF-RAY: 56337e94dee9a619-IND
+
+0
+
+rol: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 11 Feb 2020 04:14:09 GMT
+Connection: close
+
+‹

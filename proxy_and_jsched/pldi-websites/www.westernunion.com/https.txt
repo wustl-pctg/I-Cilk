@@ -1,0 +1,29 @@
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.westernunion.com/us/en/
+Date: Tue, 11 Feb 2020 03:44:08 GMT
+Connection: close
+Set-Cookie: AKCountry=US; expires=Mon, 11-May-2020 03:44:08 GMT; path=/; domain=westernunion.com
+Set-Cookie: AKZip=63101-63141+63143-63147+63150-63151+63155-63158+63160+63163-63164+63166-63167+63169+63171+63177-63180+63182+63188+63195+63197+63199; expires=Mon, 11-May-2020 03:44:08 GMT; path=/; domain=westernunion.com
+Set-Cookie: AKRegioncode=MO; expires=Mon, 11-May-2020 03:44:08 GMT; path=/; domain=westernunion.com
+Set-Cookie: AKCity=SAINTLOUIS; expires=Mon, 11-May-2020 03:44:08 GMT; path=/; domain=westernunion.com
+Set-Cookie: AKAreacode=314; expires=Mon, 11-May-2020 03:44:08 GMT; path=/; domain=westernunion.com
+Set-Cookie: AKCounty=SAINTLOUISCITY; expires=Mon, 11-May-2020 03:44:08 GMT; path=/; domain=westernunion.com
+Set-Cookie: WUCountryCookie_=US; expires=Mon, 11-May-2020 03:44:08 GMT; path=/; domain=westernunion.com
+Set-Cookie: WULanguageCookie_=en; expires=Mon, 11-May-2020 03:44:08 GMT; path=/; domain=westernunion.com
+Set-Cookie: AK_TLS_Version=UNKNOWN; path=/; domain=.westernunion.com
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Set-Cookie: resolution_height=; path=/; domain=.www.westernunion.com;
+Set-Cookie: resolution_width=; path=/; domain=.www.westernunion.com;
+Set-Cookie: is_tablet=false; path=/; domain=.www.westernunion.com;
+Set-Cookie: is_mobile=false; path=/; domain=.www.westernunion.com;
+Access-Control-Max-Age: 86400
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: *
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Origin: *
+
+3`0Üt"»Å‚ÖXe=¶êk˜´i±¿ÕÙTg©«¶§ß¡¹2ˆGCÄûõl«Î§'ÿ¼K™µbª.)´ñ\6J¶=Z±@©˜AãÄ…ÏeÌ£l.D%PCƒE q0ç7‹`q¥é¾b›bTY:WÜÍ-Q<²L­D½Ëï$õWf™,€ˆ^œš\^o+îó2ËmIrk¤GSg¼h8Üoæ KUÂ~ÄCŠØ­Vİ.´>t°)õ½ÓÛ6ØˆEô•î
+j%Dã`¯»ä*u.èæ"2\T{Øpz4òÀ+ítR//ïl2zút8œMÆ''çg'»à0

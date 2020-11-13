@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:04:02 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d0affbb24266749fc66ad04a245dfce921581390242; expires=Thu, 12-Mar-20 03:04:02 GMT; path=/; domain=.narcity.com; HttpOnly; SameSite=Lax
+Cf-Railgun: direct (waiting for pending WAN connection)
+Location: https://www.narcity.com/
+CF-Cache-Status: DYNAMIC
+Alt-Svc: h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Server: cloudflare
+CF-RAY: 563317d4cfe8a607-IND
+
+ab
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.15.9 (Ubuntu)</center>
+</body>
+</html>
+
+0
+
+r><center>nginx</center>
+</body>
+</html>
+
+0
+
+à_hxôﬁü¢‡O≤v

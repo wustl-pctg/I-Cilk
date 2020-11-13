@@ -1,0 +1,20 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 04:05:57 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: close
+Server: nginx
+Set-Cookie: tt_canary=0.01644815827169;  Domain=.thumbtack.com; path=/; HttpOnly; Secure; Expires=Tue, 11-Feb-20 10:05:57 GMT
+Location: https://www.thumbtack.com/
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

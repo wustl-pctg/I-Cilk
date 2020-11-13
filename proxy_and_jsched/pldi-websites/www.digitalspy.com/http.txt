@@ -1,0 +1,13 @@
+HTTP/1.1 301 Moved Permanently
+Retry-After: 0
+Location: https://www.digitalspy.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 11 Feb 2020 03:29:24 GMT
+Connection: close
+X-Robots-Tag: all
+X-Cache: HIT
+X-Country: US
+strict-transport-security: max-age=3600; includeSubDomains
+Cache-Control: max-age=0, must-revalidate, private
+

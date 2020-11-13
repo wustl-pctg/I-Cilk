@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/clang/5.0.0/lib/linux/libclang_rt.asan-preinit-x86_64.a  CMakeFiles/RTAsan_preinit.x86_64.dir/asan_preinit.cc.o
+/usr/bin/ranlib ../../../../lib/clang/5.0.0/lib/linux/libclang_rt.asan-preinit-x86_64.a

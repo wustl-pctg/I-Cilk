@@ -1,0 +1,37 @@
+metacall_impl.lo: runtime/metacall_impl.c runtime/metacall_impl.h \
+  runtime/rts-common.h include/internal/metacall.h include/cilk/common.h \
+  /usr/include/assert.h /usr/include/features.h \
+  /usr/include/stdc-predef.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdint.h \
+  /usr/include/stdint.h /usr/include/x86_64-linux-gnu/bits/wchar.h
+
+runtime/metacall_impl.h:
+
+runtime/rts-common.h:
+
+include/internal/metacall.h:
+
+include/cilk/common.h:
+
+/usr/include/assert.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:

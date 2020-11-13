@@ -1,0 +1,1465 @@
+Determining if the include file malloc/malloc.h exists failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a16c3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a16c3.dir/build.make CMakeFiles/cmTC_a16c3.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a16c3.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_a16c3.dir/CheckIncludeFile.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:27: fatal error: malloc/malloc.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_a16c3.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_a16c3.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_a16c3.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a16c3/fast' failed
+make: *** [cmTC_a16c3/fast] Error 2
+
+
+Determining if the include file ndir.h exists failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_94e21/fast"
+/usr/bin/make -f CMakeFiles/cmTC_94e21.dir/build.make CMakeFiles/cmTC_94e21.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_94e21.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_94e21.dir/CheckIncludeFile.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:18: fatal error: ndir.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_94e21.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_94e21.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_94e21.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_94e21/fast' failed
+make: *** [cmTC_94e21/fast] Error 2
+
+
+Determining if the include file sys/ndir.h exists failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_db0d7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_db0d7.dir/build.make CMakeFiles/cmTC_db0d7.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_db0d7.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_db0d7.dir/CheckIncludeFile.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: sys/ndir.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_db0d7.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_db0d7.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_db0d7.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_db0d7/fast' failed
+make: *** [cmTC_db0d7/fast] Error 2
+
+
+Determining if the include file valgrind/valgrind.h exists failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_56523/fast"
+/usr/bin/make -f CMakeFiles/cmTC_56523.dir/build.make CMakeFiles/cmTC_56523.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_56523.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_56523.dir/CheckIncludeFile.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:31: fatal error: valgrind/valgrind.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_56523.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_56523.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_56523.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_56523/fast' failed
+make: *** [cmTC_56523/fast] Error 2
+
+
+Determining if the include file zlib.h exists failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1c286/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1c286.dir/build.make CMakeFiles/cmTC_1c286.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1c286.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_1c286.dir/CheckIncludeFile.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:18: fatal error: zlib.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_1c286.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_1c286.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_1c286.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1c286/fast' failed
+make: *** [cmTC_1c286/fast] Error 2
+
+
+Determining if the include file mach/mach.h exists failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0de16/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0de16.dir/build.make CMakeFiles/cmTC_0de16.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0de16.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_0de16.dir/CheckIncludeFile.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:23: fatal error: mach/mach.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_0de16.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_0de16.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_0de16.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_0de16/fast' failed
+make: *** [cmTC_0de16/fast] Error 2
+
+
+Determining if the include file histedit.h exists failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_040ed/fast"
+/usr/bin/make -f CMakeFiles/cmTC_040ed.dir/build.make CMakeFiles/cmTC_040ed.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_040ed.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_040ed.dir/CheckIncludeFile.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: histedit.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_040ed.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_040ed.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_040ed.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_040ed/fast' failed
+make: *** [cmTC_040ed/fast] Error 2
+
+
+Determining if the include file CrashReporterClient.h exists failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a1c72/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a1c72.dir/build.make CMakeFiles/cmTC_a1c72.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a1c72.dir/CheckIncludeFile.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_a1c72.dir/CheckIncludeFile.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:33: fatal error: CrashReporterClient.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_a1c72.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_a1c72.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_a1c72.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a1c72/fast' failed
+make: *** [cmTC_a1c72/fast] Error 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_30af7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_30af7.dir/build.make CMakeFiles/cmTC_30af7.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_30af7.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_30af7.dir/CheckSymbolExists.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_30af7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_30af7.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_30af7.dir/CheckSymbolExists.c.o  -o cmTC_30af7 -lm 
+CMakeFiles/cmTC_30af7.dir/CheckSymbolExists.c.o:CheckSymbolExists.c:function main: error: undefined reference to 'pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_30af7.dir/build.make:97: recipe for target 'cmTC_30af7' failed
+make[1]: *** [cmTC_30af7] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_30af7/fast' failed
+make: *** [cmTC_30af7/fast] Error 2
+
+File /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1a78e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1a78e.dir/build.make CMakeFiles/cmTC_1a78e.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1a78e.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_1a78e.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_1a78e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1a78e.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_1a78e.dir/CheckFunctionExists.c.o  -o cmTC_1a78e -lpthreads -lm 
+/usr/bin/ld: error: cannot find -lpthreads
+CMakeFiles/cmTC_1a78e.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_1a78e.dir/build.make:97: recipe for target 'cmTC_1a78e' failed
+make[1]: *** [cmTC_1a78e] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1a78e/fast' failed
+make: *** [cmTC_1a78e/fast] Error 2
+
+
+Determining if the function compress2 exists in the z failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b59ff/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b59ff.dir/build.make CMakeFiles/cmTC_b59ff.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b59ff.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=compress2   -o CMakeFiles/cmTC_b59ff.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_b59ff
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b59ff.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=compress2    CMakeFiles/cmTC_b59ff.dir/CheckFunctionExists.c.o  -o cmTC_b59ff -lz -lm 
+/usr/bin/ld: error: cannot find -lz
+CMakeFiles/cmTC_b59ff.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'compress2'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_b59ff.dir/build.make:97: recipe for target 'cmTC_b59ff' failed
+make[1]: *** [cmTC_b59ff] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b59ff/fast' failed
+make: *** [cmTC_b59ff/fast] Error 2
+
+
+Determining if the function setupterm exists in the tinfo failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_34407/fast"
+/usr/bin/make -f CMakeFiles/cmTC_34407.dir/build.make CMakeFiles/cmTC_34407.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_34407.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_34407.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_34407
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_34407.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_34407.dir/CheckFunctionExists.c.o  -o cmTC_34407 -ltinfo -lm 
+/usr/bin/ld: error: cannot find -ltinfo
+CMakeFiles/cmTC_34407.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'setupterm'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_34407.dir/build.make:97: recipe for target 'cmTC_34407' failed
+make[1]: *** [cmTC_34407] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_34407/fast' failed
+make: *** [cmTC_34407/fast] Error 2
+
+
+Determining if the function setupterm exists in the terminfo failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cb0b9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cb0b9.dir/build.make CMakeFiles/cmTC_cb0b9.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_cb0b9.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_cb0b9.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_cb0b9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cb0b9.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_cb0b9.dir/CheckFunctionExists.c.o  -o cmTC_cb0b9 -lterminfo -lm 
+/usr/bin/ld: error: cannot find -lterminfo
+CMakeFiles/cmTC_cb0b9.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'setupterm'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_cb0b9.dir/build.make:97: recipe for target 'cmTC_cb0b9' failed
+make[1]: *** [cmTC_cb0b9] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_cb0b9/fast' failed
+make: *** [cmTC_cb0b9/fast] Error 2
+
+
+Determining if the function setupterm exists in the curses failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_48464/fast"
+/usr/bin/make -f CMakeFiles/cmTC_48464.dir/build.make CMakeFiles/cmTC_48464.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_48464.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_48464.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_48464
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_48464.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_48464.dir/CheckFunctionExists.c.o  -o cmTC_48464 -lcurses -lm 
+/usr/bin/ld: error: cannot find -lcurses
+CMakeFiles/cmTC_48464.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'setupterm'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_48464.dir/build.make:97: recipe for target 'cmTC_48464' failed
+make[1]: *** [cmTC_48464] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_48464/fast' failed
+make: *** [cmTC_48464/fast] Error 2
+
+
+Determining if the function setupterm exists in the ncurses failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2e317/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2e317.dir/build.make CMakeFiles/cmTC_2e317.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2e317.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_2e317.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_2e317
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2e317.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_2e317.dir/CheckFunctionExists.c.o  -o cmTC_2e317 -lncurses -lm 
+/usr/bin/ld: error: cannot find -lncurses
+CMakeFiles/cmTC_2e317.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'setupterm'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_2e317.dir/build.make:97: recipe for target 'cmTC_2e317' failed
+make[1]: *** [cmTC_2e317] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_2e317/fast' failed
+make: *** [cmTC_2e317/fast] Error 2
+
+
+Determining if the function setupterm exists in the ncursesw failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7f466/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7f466.dir/build.make CMakeFiles/cmTC_7f466.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7f466.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=setupterm   -o CMakeFiles/cmTC_7f466.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_7f466
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7f466.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=setupterm    CMakeFiles/cmTC_7f466.dir/CheckFunctionExists.c.o  -o cmTC_7f466 -lncursesw -lm 
+/usr/bin/ld: error: cannot find -lncursesw
+CMakeFiles/cmTC_7f466.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'setupterm'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_7f466.dir/build.make:97: recipe for target 'cmTC_7f466' failed
+make[1]: *** [cmTC_7f466] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_7f466/fast' failed
+make: *** [cmTC_7f466/fast] Error 2
+
+
+Determining if the function xar_open exists in the xar failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e2f0e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e2f0e.dir/build.make CMakeFiles/cmTC_e2f0e.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e2f0e.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=xar_open   -o CMakeFiles/cmTC_e2f0e.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_e2f0e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e2f0e.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=xar_open    CMakeFiles/cmTC_e2f0e.dir/CheckFunctionExists.c.o  -o cmTC_e2f0e -lxar -lm 
+/usr/bin/ld: error: cannot find -lxar
+CMakeFiles/cmTC_e2f0e.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'xar_open'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_e2f0e.dir/build.make:97: recipe for target 'cmTC_e2f0e' failed
+make[1]: *** [cmTC_e2f0e] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e2f0e/fast' failed
+make: *** [cmTC_e2f0e/fast] Error 2
+
+
+Determining if the arc4random exist failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1d37a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1d37a.dir/build.make CMakeFiles/cmTC_1d37a.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1d37a.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_1d37a.dir/CheckSymbolExists.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: 'arc4random' undeclared (first use in this function)
+   return ((int*)(&arc4random))[argc];
+                   ^
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_1d37a.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_1d37a.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_1d37a.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1d37a/fast' failed
+make: *** [cmTC_1d37a/fast] Error 2
+
+File /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef arc4random
+  return ((int*)(&arc4random))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the mallctl exist failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a7ad4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a7ad4.dir/build.make CMakeFiles/cmTC_a7ad4.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a7ad4.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_a7ad4.dir/CheckSymbolExists.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:23: fatal error: malloc_np.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_a7ad4.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_a7ad4.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_a7ad4.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a7ad4/fast' failed
+make: *** [cmTC_a7ad4/fast] Error 2
+
+File /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc_np.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef mallctl
+  return ((int*)(&mallctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the malloc_zone_statistics exist failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_64b05/fast"
+/usr/bin/make -f CMakeFiles/cmTC_64b05.dir/build.make CMakeFiles/cmTC_64b05.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_64b05.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_64b05.dir/CheckSymbolExists.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:27: fatal error: malloc/malloc.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_64b05.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_64b05.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_64b05.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_64b05/fast' failed
+make: *** [cmTC_64b05/fast] Error 2
+
+File /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc/malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef malloc_zone_statistics
+  return ((int*)(&malloc_zone_statistics))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strerror_s exist failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_07665/fast"
+/usr/bin/make -f CMakeFiles/cmTC_07665.dir/build.make CMakeFiles/cmTC_07665.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_07665.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_07665.dir/CheckSymbolExists.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: 'strerror_s' undeclared (first use in this function)
+   return ((int*)(&strerror_s))[argc];
+                   ^
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_07665.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_07665.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_07665.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_07665/fast' failed
+make: *** [cmTC_07665/fast] Error 2
+
+File /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strerror_s
+  return ((int*)(&strerror_s))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the dladdr exist failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_95177/fast"
+/usr/bin/make -f CMakeFiles/cmTC_95177.dir/build.make CMakeFiles/cmTC_95177.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_95177.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_95177.dir/CheckSymbolExists.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: 'dladdr' undeclared (first use in this function)
+   return ((int*)(&dladdr))[argc];
+                   ^
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTC_95177.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_95177.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_95177.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_95177/fast' failed
+make: *** [cmTC_95177/fast] Error 2
+
+File /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <dlfcn.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef dladdr
+  return ((int*)(&dladdr))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C++ SOURCE FILE Test SUPPORTS_GNU_ZERO_VARIADIC_MACRO_ARGUMENTS_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_38da8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_38da8.dir/build.make CMakeFiles/cmTC_38da8.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_38da8.dir/src.cxx.o
+/usr/bin/c++     -DSUPPORTS_GNU_ZERO_VARIADIC_MACRO_ARGUMENTS_FLAG   -Wgnu-zero-variadic-macro-arguments -o CMakeFiles/cmTC_38da8.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wgnu-zero-variadic-macro-arguments'
+CMakeFiles/cmTC_38da8.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_38da8.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_38da8.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_38da8/fast' failed
+make: *** [cmTC_38da8/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0b25a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0b25a.dir/build.make CMakeFiles/cmTC_0b25a.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_0b25a.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_0b25a.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wcovered-switch-default'
+CMakeFiles/cmTC_0b25a.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_0b25a.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_0b25a.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_0b25a/fast' failed
+make: *** [cmTC_0b25a/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_664f8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_664f8.dir/build.make CMakeFiles/cmTC_664f8.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_664f8.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -DCXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_664f8.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wcovered-switch-default'
+CMakeFiles/cmTC_664f8.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_664f8.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_664f8.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_664f8/fast' failed
+make: *** [cmTC_664f8/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_SUPPORTS_DELETE_NON_VIRTUAL_DTOR_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4fa38/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4fa38.dir/build.make CMakeFiles/cmTC_4fa38.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4fa38.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_SUPPORTS_DELETE_NON_VIRTUAL_DTOR_FLAG   -Werror -Wdelete-non-virtual-dtor -o CMakeFiles/cmTC_4fa38.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc1: error: command line option '-Wdelete-non-virtual-dtor' is valid for C++/ObjC++ but not for C [-Werror]
+cc1: all warnings being treated as errors
+CMakeFiles/cmTC_4fa38.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_4fa38.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_4fa38.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_4fa38/fast' failed
+make: *** [cmTC_4fa38/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test C_WCOMMENT_ALLOWS_LINE_WRAP failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d5252/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d5252.dir/build.make CMakeFiles/cmTC_d5252.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d5252.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_WCOMMENT_ALLOWS_LINE_WRAP  -Werror -Wcomment   -o CMakeFiles/cmTC_d5252.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c:1:1: error: multi-line comment [-Werror=comment]
+ // \
+ ^
+cc1: all warnings being treated as errors
+CMakeFiles/cmTC_d5252.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_d5252.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_d5252.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_d5252/fast' failed
+make: *** [cmTC_d5252/fast] Error 2
+
+Source file was:
+// \
+//
+int main() {return 0;}
+Performing C SOURCE FILE Test C_SUPPORTS_STRING_CONVERSION_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f6eaa/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f6eaa.dir/build.make CMakeFiles/cmTC_f6eaa.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f6eaa.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -DC_SUPPORTS_STRING_CONVERSION_FLAG   -Werror -Wstring-conversion -o CMakeFiles/cmTC_f6eaa.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wstring-conversion'
+CMakeFiles/cmTC_f6eaa.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_f6eaa.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_f6eaa.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f6eaa/fast' failed
+make: *** [cmTC_f6eaa/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_STRING_CONVERSION_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3c75b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3c75b.dir/build.make CMakeFiles/cmTC_3c75b.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3c75b.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -DCXX_SUPPORTS_STRING_CONVERSION_FLAG   -Werror -Wstring-conversion -o CMakeFiles/cmTC_3c75b.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wstring-conversion'
+CMakeFiles/cmTC_3c75b.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_3c75b.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_3c75b.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3c75b/fast' failed
+make: *** [cmTC_3c75b/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_FNO_SANITIZE_SAFE_STACK_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d304d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d304d.dir/build.make CMakeFiles/cmTC_d304d.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d304d.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_FNO_SANITIZE_SAFE_STACK_FLAG   -fno-sanitize=safe-stack -o CMakeFiles/cmTC_d304d.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized argument to -fsanitize= option: 'safe-stack'
+CMakeFiles/cmTC_d304d.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_d304d.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_d304d.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_d304d/fast' failed
+make: *** [cmTC_d304d/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_MCRC_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_11711/fast"
+/usr/bin/make -f CMakeFiles/cmTC_11711.dir/build.make CMakeFiles/cmTC_11711.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_11711.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_MCRC_FLAG   -Werror -mcrc -o CMakeFiles/cmTC_11711.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-mcrc'
+CMakeFiles/cmTC_11711.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_11711.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_11711.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_11711/fast' failed
+make: *** [cmTC_11711/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_GR_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c522c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c522c.dir/build.make CMakeFiles/cmTC_c522c.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c522c.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_GR_FLAG   /GR -o CMakeFiles/cmTC_c522c.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /GR: No such file or directory
+CMakeFiles/cmTC_c522c.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_c522c.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_c522c.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c522c/fast' failed
+make: *** [cmTC_c522c/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_GS_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7e1a8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7e1a8.dir/build.make CMakeFiles/cmTC_7e1a8.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_7e1a8.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_GS_FLAG   /GS -o CMakeFiles/cmTC_7e1a8.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /GS: No such file or directory
+CMakeFiles/cmTC_7e1a8.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_7e1a8.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_7e1a8.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_7e1a8/fast' failed
+make: *** [cmTC_7e1a8/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_MT_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_327a4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_327a4.dir/build.make CMakeFiles/cmTC_327a4.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_327a4.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_MT_FLAG   /MT -o CMakeFiles/cmTC_327a4.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /MT: No such file or directory
+CMakeFiles/cmTC_327a4.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_327a4.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_327a4.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_327a4/fast' failed
+make: *** [cmTC_327a4/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_Oy_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_79ded/fast"
+/usr/bin/make -f CMakeFiles/cmTC_79ded.dir/build.make CMakeFiles/cmTC_79ded.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_79ded.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_Oy_FLAG   /Oy -o CMakeFiles/cmTC_79ded.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /Oy: No such file or directory
+CMakeFiles/cmTC_79ded.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_79ded.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_79ded.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_79ded/fast' failed
+make: *** [cmTC_79ded/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_GLINE_TABLES_ONLY_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5eb24/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5eb24.dir/build.make CMakeFiles/cmTC_5eb24.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5eb24.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_GLINE_TABLES_ONLY_FLAG   -gline-tables-only -o CMakeFiles/cmTC_5eb24.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+cc1plus: error: unrecognised debug output level 'line-tables-only'
+CMakeFiles/cmTC_5eb24.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_5eb24.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_5eb24.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5eb24/fast' failed
+make: *** [cmTC_5eb24/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_Zi_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f14a9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f14a9.dir/build.make CMakeFiles/cmTC_f14a9.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f14a9.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_Zi_FLAG   /Zi -o CMakeFiles/cmTC_f14a9.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /Zi: No such file or directory
+CMakeFiles/cmTC_f14a9.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_f14a9.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_f14a9.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f14a9/fast' failed
+make: *** [cmTC_f14a9/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WGLOBAL_CONSTRUCTORS_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f074a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f074a.dir/build.make CMakeFiles/cmTC_f074a.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f074a.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WGLOBAL_CONSTRUCTORS_FLAG   -Werror -Wglobal-constructors -o CMakeFiles/cmTC_f074a.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wglobal-constructors'
+CMakeFiles/cmTC_f074a.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_f074a.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_f074a.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f074a/fast' failed
+make: *** [cmTC_f074a/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WC99_EXTENSIONS_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d26b2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d26b2.dir/build.make CMakeFiles/cmTC_d26b2.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d26b2.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WC99_EXTENSIONS_FLAG   -Werror -Wc99-extensions -o CMakeFiles/cmTC_d26b2.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wc99-extensions'
+CMakeFiles/cmTC_d26b2.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_d26b2.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_d26b2.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_d26b2/fast' failed
+make: *** [cmTC_d26b2/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WGNU_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9193d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9193d.dir/build.make CMakeFiles/cmTC_9193d.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9193d.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WGNU_FLAG   -Werror -Wgnu -o CMakeFiles/cmTC_9193d.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wgnu'
+CMakeFiles/cmTC_9193d.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_9193d.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_9193d.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_9193d/fast' failed
+make: *** [cmTC_9193d/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WCOVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ab3b5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ab3b5.dir/build.make CMakeFiles/cmTC_ab3b5.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ab3b5.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WCOVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTC_ab3b5.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wcovered-switch-default'
+CMakeFiles/cmTC_ab3b5.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_ab3b5.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_ab3b5.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ab3b5/fast' failed
+make: *** [cmTC_ab3b5/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_W4_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a1cd9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a1cd9.dir/build.make CMakeFiles/cmTC_a1cd9.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a1cd9.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_W4_FLAG   /W4 -o CMakeFiles/cmTC_a1cd9.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /W4: No such file or directory
+CMakeFiles/cmTC_a1cd9.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_a1cd9.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_a1cd9.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a1cd9/fast' failed
+make: *** [cmTC_a1cd9/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WX_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_95641/fast"
+/usr/bin/make -f CMakeFiles/cmTC_95641.dir/build.make CMakeFiles/cmTC_95641.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_95641.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WX_FLAG   /WX -o CMakeFiles/cmTC_95641.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /WX: No such file or directory
+CMakeFiles/cmTC_95641.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_95641.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_95641.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_95641/fast' failed
+make: *** [cmTC_95641/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4146_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_818f3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_818f3.dir/build.make CMakeFiles/cmTC_818f3.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_818f3.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4146_FLAG   /wd4146 -o CMakeFiles/cmTC_818f3.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4146: No such file or directory
+CMakeFiles/cmTC_818f3.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_818f3.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_818f3.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_818f3/fast' failed
+make: *** [cmTC_818f3/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4291_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f42db/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f42db.dir/build.make CMakeFiles/cmTC_f42db.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f42db.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4291_FLAG   /wd4291 -o CMakeFiles/cmTC_f42db.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4291: No such file or directory
+CMakeFiles/cmTC_f42db.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_f42db.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_f42db.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f42db/fast' failed
+make: *** [cmTC_f42db/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4221_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_01298/fast"
+/usr/bin/make -f CMakeFiles/cmTC_01298.dir/build.make CMakeFiles/cmTC_01298.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_01298.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4221_FLAG   /wd4221 -o CMakeFiles/cmTC_01298.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4221: No such file or directory
+CMakeFiles/cmTC_01298.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_01298.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_01298.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_01298/fast' failed
+make: *** [cmTC_01298/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4391_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f93d4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f93d4.dir/build.make CMakeFiles/cmTC_f93d4.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f93d4.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4391_FLAG   /wd4391 -o CMakeFiles/cmTC_f93d4.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4391: No such file or directory
+CMakeFiles/cmTC_f93d4.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_f93d4.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_f93d4.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f93d4/fast' failed
+make: *** [cmTC_f93d4/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4722_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8524e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8524e.dir/build.make CMakeFiles/cmTC_8524e.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8524e.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4722_FLAG   /wd4722 -o CMakeFiles/cmTC_8524e.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4722: No such file or directory
+CMakeFiles/cmTC_8524e.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_8524e.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_8524e.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8524e/fast' failed
+make: *** [cmTC_8524e/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_RT_HAS_WD4800_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_165c1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_165c1.dir/build.make CMakeFiles/cmTC_165c1.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_165c1.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -DCOMPILER_RT_HAS_WD4800_FLAG   /wd4800 -o CMakeFiles/cmTC_165c1.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: /wd4800: No such file or directory
+CMakeFiles/cmTC_165c1.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_165c1.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_165c1.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_165c1/fast' failed
+make: *** [cmTC_165c1/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Determining if the __i686__ exist failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ce421/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ce421.dir/build.make CMakeFiles/cmTC_ce421.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ce421.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections   -m32   -o CMakeFiles/cmTC_ce421.dir/CheckSymbolExists.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_ce421
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ce421.dir/link.txt --verbose=1
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections   -m32   -Wl,-allow-shlib-undefined  CMakeFiles/cmTC_ce421.dir/CheckSymbolExists.c.o  -o cmTC_ce421 -lm 
+/usr/bin/ld: error: cannot open crt1.o: No such file or directory
+/usr/bin/ld: error: cannot open crti.o: No such file or directory
+/usr/bin/ld: error: CMakeFiles/cmTC_ce421.dir/CheckSymbolExists.c.o: incompatible target
+/usr/bin/ld: error: cannot open crtn.o: No such file or directory
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_ce421.dir/build.make:97: recipe for target 'cmTC_ce421' failed
+make[1]: *** [cmTC_ce421] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ce421/fast' failed
+make: *** [cmTC_ce421/fast] Error 2
+
+File /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef __i686__
+  return ((int*)(&__i686__))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the __i386__ exist failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_4e9d0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_4e9d0.dir/build.make CMakeFiles/cmTC_4e9d0.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_4e9d0.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections   -m32   -o CMakeFiles/cmTC_4e9d0.dir/CheckSymbolExists.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_4e9d0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4e9d0.dir/link.txt --verbose=1
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections   -m32   -Wl,-allow-shlib-undefined  CMakeFiles/cmTC_4e9d0.dir/CheckSymbolExists.c.o  -o cmTC_4e9d0 -lm 
+/usr/bin/ld: error: cannot open crt1.o: No such file or directory
+/usr/bin/ld: error: cannot open crti.o: No such file or directory
+/usr/bin/ld: error: CMakeFiles/cmTC_4e9d0.dir/CheckSymbolExists.c.o: incompatible target
+/usr/bin/ld: error: cannot open crtn.o: No such file or directory
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_4e9d0.dir/build.make:97: recipe for target 'cmTC_4e9d0' failed
+make[1]: *** [cmTC_4e9d0] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_4e9d0/fast' failed
+make: *** [cmTC_4e9d0/fast] Error 2
+
+File /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef __i386__
+  return ((int*)(&__i386__))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file tirpc/rpc/xdr.h exists failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_93243/fast"
+/usr/bin/make -f CMakeFiles/cmTC_93243.dir/build.make CMakeFiles/cmTC_93243.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_93243.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -Wall -Wno-unused-parameter    -o CMakeFiles/cmTC_93243.dir/CheckIncludeFile.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:27: fatal error: tirpc/rpc/xdr.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_93243.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_93243.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_93243.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_93243/fast' failed
+make: *** [cmTC_93243/fast] Error 2
+
+
+Testing compiler for supporting FLAGS-fxray-instrument:
+Command: /usr/bin/cc;;;;-fPIC;-Werror=date-time;-Wall;-W;-Wno-unused-parameter;-Wwrite-strings;-Wno-missing-field-initializers;-pedantic;-Wno-long-long;-Wno-comment;-ffunction-sections;-fdata-sections;-Wall;-Wno-unused-parameter;-fxray-instrument;-o;/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/test.o;;;-c;/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/src.c
+
+cc: error: unrecognized command line option '-fxray-instrument'
+
+1
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_UNUSED_LOCAL_TYPEDEF_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_abe17/fast"
+/usr/bin/make -f CMakeFiles/cmTC_abe17.dir/build.make CMakeFiles/cmTC_abe17.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_abe17.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_UNUSED_LOCAL_TYPEDEF_FLAG   -Wunused-local-typedef -o CMakeFiles/cmTC_abe17.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wunused-local-typedef'
+CMakeFiles/cmTC_abe17.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_abe17.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_abe17.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_abe17/fast' failed
+make: *** [cmTC_abe17/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fcd5c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fcd5c.dir/build.make CMakeFiles/cmTC_fcd5c.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fcd5c.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_COVERED_SWITCH_DEFAULT_FLAG   -Wcovered-switch-default -o CMakeFiles/cmTC_fcd5c.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wcovered-switch-default'
+CMakeFiles/cmTC_fcd5c.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_fcd5c.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_fcd5c.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_fcd5c/fast' failed
+make: *** [cmTC_fcd5c/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_DEPRECATED_REGISTER_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c6eeb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c6eeb.dir/build.make CMakeFiles/cmTC_c6eeb.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c6eeb.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_DEPRECATED_REGISTER_FLAG   -Wdeprecated-register -o CMakeFiles/cmTC_c6eeb.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wdeprecated-register'
+CMakeFiles/cmTC_c6eeb.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_c6eeb.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_c6eeb.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c6eeb/fast' failed
+make: *** [cmTC_c6eeb/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_GNU_ANONYMOUS_STRUCT_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_58798/fast"
+/usr/bin/make -f CMakeFiles/cmTC_58798.dir/build.make CMakeFiles/cmTC_58798.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_58798.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_GNU_ANONYMOUS_STRUCT_FLAG   -Wgnu-anonymous-struct -o CMakeFiles/cmTC_58798.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wgnu-anonymous-struct'
+CMakeFiles/cmTC_58798.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_58798.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_58798.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_58798/fast' failed
+make: *** [cmTC_58798/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_SELF_ASSIGN_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8f5cc/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8f5cc.dir/build.make CMakeFiles/cmTC_8f5cc.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8f5cc.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_SELF_ASSIGN_FLAG   -Wself-assign -o CMakeFiles/cmTC_8f5cc.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wself-assign'
+CMakeFiles/cmTC_8f5cc.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_8f5cc.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_8f5cc.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8f5cc/fast' failed
+make: *** [cmTC_8f5cc/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_VLA_EXTENSION_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f8849/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f8849.dir/build.make CMakeFiles/cmTC_f8849.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f8849.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_VLA_EXTENSION_FLAG   -Wvla-extension -o CMakeFiles/cmTC_f8849.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wvla-extension'
+CMakeFiles/cmTC_f8849.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_f8849.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_f8849.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f8849/fast' failed
+make: *** [cmTC_f8849/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_WNO_FORMAT_PEDANTIC_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8dcda/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8dcda.dir/build.make CMakeFiles/cmTC_8dcda.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8dcda.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_WNO_FORMAT_PEDANTIC_FLAG   -Wformat-pedantic -o CMakeFiles/cmTC_8dcda.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wformat-pedantic'
+CMakeFiles/cmTC_8dcda.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_8dcda.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_8dcda.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8dcda/fast' failed
+make: *** [cmTC_8dcda/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_MMIC_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_165e0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_165e0.dir/build.make CMakeFiles/cmTC_165e0.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_165e0.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_MMIC_FLAG -mmic   -mmic -o CMakeFiles/cmTC_165e0.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-mmic'
+cc: error: unrecognized command line option '-mmic'
+CMakeFiles/cmTC_165e0.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_165e0.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_165e0.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_165e0/fast' failed
+make: *** [cmTC_165e0/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test LIBOMP_HAVE_M32_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ec563/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ec563.dir/build.make CMakeFiles/cmTC_ec563.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ec563.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_M32_FLAG -m32   -m32 -o CMakeFiles/cmTC_ec563.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_ec563
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ec563.dir/link.txt --verbose=1
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DLIBOMP_HAVE_M32_FLAG -m32    CMakeFiles/cmTC_ec563.dir/src.c.o  -o cmTC_ec563 -rdynamic -lm 
+/usr/bin/ld: error: cannot open crt1.o: No such file or directory
+/usr/bin/ld: error: cannot open crti.o: No such file or directory
+/usr/bin/ld: error: CMakeFiles/cmTC_ec563.dir/src.c.o: incompatible target
+/usr/bin/ld: error: cannot open crtn.o: No such file or directory
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_ec563.dir/build.make:97: recipe for target 'cmTC_ec563' failed
+make[1]: *** [cmTC_ec563] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ec563/fast' failed
+make: *** [cmTC_ec563/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Determining if files windows.h;psapi.h exist failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ea80a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ea80a.dir/build.make CMakeFiles/cmTC_ea80a.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_ea80a.dir/CheckIncludeFiles.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections    -o CMakeFiles/cmTC_ea80a.dir/CheckIncludeFiles.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFiles.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/CheckIncludeFiles.c:2:21: fatal error: windows.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_ea80a.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_ea80a.dir/CheckIncludeFiles.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_ea80a.dir/CheckIncludeFiles.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ea80a/fast' failed
+make: *** [cmTC_ea80a/fast] Error 2
+
+Source:
+/* */
+#include <windows.h>
+#include <psapi.h>
+
+
+int main(void){return 0;}
+
+Determining if the function EnumProcessModules exists in the psapi failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6b28b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6b28b.dir/build.make CMakeFiles/cmTC_6b28b.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6b28b.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DCHECK_FUNCTION_EXISTS=EnumProcessModules   -o CMakeFiles/cmTC_6b28b.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_6b28b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6b28b.dir/link.txt --verbose=1
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DCHECK_FUNCTION_EXISTS=EnumProcessModules    CMakeFiles/cmTC_6b28b.dir/CheckFunctionExists.c.o  -o cmTC_6b28b -rdynamic -lpsapi -lm 
+/usr/bin/ld: error: cannot find -lpsapi
+CMakeFiles/cmTC_6b28b.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to 'EnumProcessModules'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_6b28b.dir/build.make:97: recipe for target 'cmTC_6b28b' failed
+make[1]: *** [cmTC_6b28b] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_6b28b/fast' failed
+make: *** [cmTC_6b28b/fast] Error 2
+
+
+Determining if the function __atomic_load_1 exists failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5d97f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5d97f.dir/build.make CMakeFiles/cmTC_5d97f.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5d97f.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DCHECK_FUNCTION_EXISTS=__atomic_load_1   -o CMakeFiles/cmTC_5d97f.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+<command-line>:0:23: warning: conflicting types for built-in function '__atomic_load_1'
+/usr/share/cmake-3.5/Modules/CheckFunctionExists.c:6:6: note: in expansion of macro 'CHECK_FUNCTION_EXISTS'
+ char CHECK_FUNCTION_EXISTS();
+      ^
+Linking C executable cmTC_5d97f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5d97f.dir/link.txt --verbose=1
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DCHECK_FUNCTION_EXISTS=__atomic_load_1    CMakeFiles/cmTC_5d97f.dir/CheckFunctionExists.c.o  -o cmTC_5d97f -rdynamic -lm 
+CMakeFiles/cmTC_5d97f.dir/CheckFunctionExists.c.o:CheckFunctionExists.c:function main: error: undefined reference to '__atomic_load_1'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_5d97f.dir/build.make:97: recipe for target 'cmTC_5d97f' failed
+make[1]: *** [cmTC_5d97f] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5d97f/fast' failed
+make: *** [cmTC_5d97f/fast] Error 2
+
+
+Performing C SOURCE FILE Test HAVE_DECL__BITSCANFORWARD failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_22af1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_22af1.dir/build.make CMakeFiles/cmTC_22af1.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_22af1.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DHAVE_DECL__BITSCANFORWARD   -o CMakeFiles/cmTC_22af1.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c:2:22: fatal error: intrin.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_22af1.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_22af1.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_22af1.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_22af1/fast' failed
+make: *** [cmTC_22af1/fast] Error 2
+
+Source file was:
+
+  #include <intrin.h>
+  int main() { (void)_BitScanForward(NULL, 0); return 0; }
+  
+Performing C SOURCE FILE Test HAVE_DECL__STRICMP failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9d9b8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9d9b8.dir/build.make CMakeFiles/cmTC_9d9b8.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9d9b8.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DHAVE_DECL__STRICMP   -o CMakeFiles/cmTC_9d9b8.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c: In function 'main':
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c:3:22: warning: implicit declaration of function '_stricmp' [-Wimplicit-function-declaration]
+   int main() { (void)_stricmp("", ""); return 0; }
+                      ^
+Linking C executable cmTC_9d9b8
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9d9b8.dir/link.txt --verbose=1
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DHAVE_DECL__STRICMP   -Wl,-allow-shlib-undefined  CMakeFiles/cmTC_9d9b8.dir/src.c.o  -o cmTC_9d9b8 -lm 
+CMakeFiles/cmTC_9d9b8.dir/src.c.o:src.c:function main: error: undefined reference to '_stricmp'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_9d9b8.dir/build.make:97: recipe for target 'cmTC_9d9b8' failed
+make[1]: *** [cmTC_9d9b8] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_9d9b8/fast' failed
+make: *** [cmTC_9d9b8/fast] Error 2
+
+Source file was:
+
+  #include <string.h>
+  int main() { (void)_stricmp("", ""); return 0; }
+  
+Performing C SOURCE FILE Test HAVE_DECL__STRNICMP failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f8b82/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f8b82.dir/build.make CMakeFiles/cmTC_f8b82.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f8b82.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DHAVE_DECL__STRNICMP   -o CMakeFiles/cmTC_f8b82.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c: In function 'main':
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c:3:22: warning: implicit declaration of function '_strnicmp' [-Wimplicit-function-declaration]
+   int main() { (void)_strnicmp("", "", 0); return 0; }
+                      ^
+Linking C executable cmTC_f8b82
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f8b82.dir/link.txt --verbose=1
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DHAVE_DECL__STRNICMP   -Wl,-allow-shlib-undefined  CMakeFiles/cmTC_f8b82.dir/src.c.o  -o cmTC_f8b82 -lm 
+CMakeFiles/cmTC_f8b82.dir/src.c.o:src.c:function main: error: undefined reference to '_strnicmp'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_f8b82.dir/build.make:97: recipe for target 'cmTC_f8b82' failed
+make[1]: *** [cmTC_f8b82] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f8b82/fast' failed
+make: *** [cmTC_f8b82/fast] Error 2
+
+Source file was:
+
+  #include <string.h>
+  int main() { (void)_strnicmp("", "", 0); return 0; }
+  
+Performing C SOURCE FILE Test HAVE_DECL__SNPRINTF failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b7972/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b7972.dir/build.make CMakeFiles/cmTC_b7972.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b7972.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DHAVE_DECL__SNPRINTF   -o CMakeFiles/cmTC_b7972.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c: In function 'main':
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c:3:16: warning: implicit declaration of function '_snprintf' [-Wimplicit-function-declaration]
+   int main() { _snprintf((void*)0, 0, " "); return 0; }
+                ^
+Linking C executable cmTC_b7972
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b7972.dir/link.txt --verbose=1
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DHAVE_DECL__SNPRINTF   -Wl,-allow-shlib-undefined  CMakeFiles/cmTC_b7972.dir/src.c.o  -o cmTC_b7972 -lm 
+CMakeFiles/cmTC_b7972.dir/src.c.o:src.c:function main: error: undefined reference to '_snprintf'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_b7972.dir/build.make:97: recipe for target 'cmTC_b7972' failed
+make[1]: *** [cmTC_b7972] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b7972/fast' failed
+make: *** [cmTC_b7972/fast] Error 2
+
+Source file was:
+
+  #include <stdio.h>
+  int main() { _snprintf((void*)0, 0, " "); return 0; }
+  
+Performing C SOURCE FILE Test HAVE_UINT8T failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_25def/fast"
+/usr/bin/make -f CMakeFiles/cmTC_25def.dir/build.make CMakeFiles/cmTC_25def.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_25def.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DHAVE_UINT8T   -o CMakeFiles/cmTC_25def.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c:3:5: error: unknown type name 'uint8_t'
+     uint8_t typeVar;
+     ^
+CMakeFiles/cmTC_25def.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_25def.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_25def.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_25def/fast' failed
+make: *** [cmTC_25def/fast] Error 2
+
+Source file was:
+
+    
+    uint8_t typeVar;
+    int main() {
+    return 0;
+    }
+    
+Performing C SOURCE FILE Test HAVE_SYS_INTTYPES_H failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_36464/fast"
+/usr/bin/make -f CMakeFiles/cmTC_36464.dir/build.make CMakeFiles/cmTC_36464.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_36464.dir/src.c.o
+/usr/bin/cc    -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -DHAVE_SYS_INTTYPES_H   -o CMakeFiles/cmTC_36464.dir/src.c.o   -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c
+/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.c:4:5: error: unknown type name 'uint8_t'
+     uint8_t typeVar;
+     ^
+CMakeFiles/cmTC_36464.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_36464.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_36464.dir/src.c.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_36464/fast' failed
+make: *** [cmTC_36464/fast] Error 2
+
+Source file was:
+
+    #include<sys/types.h>
+
+    uint8_t typeVar;
+    int main() {
+    return 0;
+    }
+    
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG failed with the following output:
+Change Dir: /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5f410/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5f410.dir/build.make CMakeFiles/cmTC_5f410.dir/build
+make[1]: Entering directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5f410.dir/src.cxx.o
+/usr/bin/c++     -fPIC -fvisibility-inlines-hidden -Werror=date-time -std=c++11 -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wdelete-non-virtual-dtor -Wno-comment -ffunction-sections -fdata-sections -fno-common -Woverloaded-virtual -fno-strict-aliasing -DCXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG   -Werror -Wnested-anon-types -o CMakeFiles/cmTC_5f410.dir/src.cxx.o -c /mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wnested-anon-types'
+CMakeFiles/cmTC_5f410.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_5f410.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_5f410.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/mnt/cilk-plus-futures/Tapir/src/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5f410/fast' failed
+make: *** [cmTC_5f410/fast] Error 2
+
+Source file was:
+int main() { return 0; }

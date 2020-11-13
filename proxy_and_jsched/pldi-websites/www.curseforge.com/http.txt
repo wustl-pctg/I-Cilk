@@ -1,0 +1,132 @@
+HTTP/1.1 403 Forbidden
+Date: Tue, 11 Feb 2020 03:16:53 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+CF-Chl-Bypass: 1
+Set-Cookie: __cfduid=d5c51430c3834c2e125ac65a5a1b5272d1581391013; expires=Thu, 12-Mar-20 03:16:53 GMT; path=/; domain=.curseforge.com; HttpOnly; SameSite=Lax; Secure
+Cache-Control: no-cache
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: __cf_bm=4579f9525dbc5b67f535a9430a6c81fc4ecc9dd4-1581391013-1800-AWFWelxbsJ75fNRLB/vuFNe6aunes3uHTe3ns/L0JAcof9yt0JNklOGPH3tFT66VOSUZTHuWDrtbGinvTiaJUFw=; path=/; expires=Tue, 11-Feb-20 03:46:53 GMT; domain=.curseforge.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 56332aab29aaa607-IND
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta name="captcha-bypass" id="captcha-bypass" />
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script><!--<![endif]-->
+
+
+
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="challenge_headline">One more step</h1>
+        <h2 class="cf-subheadline"><span data-translate="complete_sec_check">Please complete the security check to access</span> www.curseforge.com</h2>
+      </div><!-- /.header -->
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form class="challenge-form" id="challenge-form" action="/?__cf_chl_captcha_tk__=3153ff70e6f97bfe5b55aaf4f04412730ad18512-1581391013-0-AaW2YK_e7fhfQs8vyUYtpF6MJkS5_Bju-qANcGGEV-_aVt9gqPnkswscmWQzZpAdufJbDgfyi9r0vI3Xq_AfeJfQY_Tztt7h-Kh5aNzlhyBxR53YwDIuI4sCMu8O88ckx-3xWabkxctnEkHXzGCOdPwWqwSGJygAvxmIkdyQrGQY5Lzs3Ita73NRSQFJNHAsKZPFJmLUD-ibzB30U4lAiYIfTEnwhcdA7lVZYkmcTvqoKlsQ50tUO-KVlevztccLHfh7a2SQKiFV8p8v4EZvDYcbYuRf2eDyXnUZHueJQShzU6LsemzEteOVh7mTJvNdxV2VP164vqEdlBFPX7jOtzg0oD4SKTnzfXItz_jbndYtwxEDf2YHGuJFu3jByfqp1g" method="POST" enctype="application/x-www-form-urlencoded">
+  <input type="hidden" name="r" value="ff56f2caa6fbc86bd93c5eb1db27e1235f6aff11-1581391013-0-AW+ogRh9Dd3ptoaw5iNUjrUcf6JBUfT4eZ02ggidxDklfBO8xPQp2oa/XlUjDDmGLVvom9yiqTTbr21kanNM+gGEdAB57+5zH6Ta4XmHJFROCM5nvFfDojk3bCtCfSEtX/DSfVNb81A3XSh+CxX0BDgrAyXPNM7ElOjodT3091pieSi4Omb01eaRq79ipgwT39qT5GGjkbKiLcHZanzhbs1x8xsWIcrFwiJTGWRbqhjSKLgcmsoW6c3uu5Z6i/BEzBZF2uaM0ic3vKDu/9wT4TvWweqUulLDIU/lGuQMsS24Pst5tR7cu/QWfTRN8X/CpVi0A7FNWKaPDYRyzUvkfT6O0I5uBm3pne8vq+8aI5Muh9JkU32ukBA4zYCfdbqnn7ZYu+xS7XJXPqNH2fd57SFsmcD61bSvVEUMUNA1D0VyIygl3MO4Kck8i7zJwrgYHcOvWHDRV1z9g78hVhsTGbIUJfKpL4MMOA8vL3udNgzLeF5TTXcIzFf0prxbomc7frlDsV8++OevVIH0S7uaTas=">
+  <script type="text/javascript" src="/cdn-cgi/scripts/cf.challenge.js" data-type="normal"  data-ray="56332aab29aaa607" async data-sitekey="6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0"></script>
+  <div class="g-recaptcha"></div>
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+    <div><div style="width: 302px">
+      <div>
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;"></iframe>
+      </div>
+      <div style="width: 300px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+        <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;"></textarea>
+        <input type="submit" value="Submit"></input>
+      </div>
+    </div></div>
+  </noscript>
+</form>
+
+                
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div><!-- /.columns -->
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+            
+          </div>
+        </div>
+      </div><!-- /.section -->
+      
+
+      <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>56332aab29aaa607</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 128.252.203.8</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script type="text/javascript">
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+  
+</body>
+</html>

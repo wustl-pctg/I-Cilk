@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 04:14:25 GMT
+Server: Apache
+Location: https://blogos.com/
+Content-Length: 227
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://blogos.com/">here</a>.</p>
+</body></html>
+atus: DYNAMIC
+Server: cloudflare
+CF-RAY: 56337ee13b26a619-IND
+
+14d
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.stardewvalleywiki.com/">here</a>.</p>
+<hr>
+<address>Apache/2.4.10 (Debian) Server at www.stardewvalleywiki.com Port 80</address>
+</body></html>
+
+0
+
+*ëÂ¶{ŞÏí$âì_ß/«·Ïg°¬&ÈÔHãn±­Ë¾ïX¦K¹T§Ç á}]HúIªaz»`¢qZŒµ¨¬Q½&|tóÕQ4VFÖ–´’ñ|èõ|¥â4”}më;åBû©°[˜
+ûÙ™¿ÍÎüƒœZ€kK“­q5©ÆïÒ˜Ï]¶÷uã3ÿ8û9±+¿%İ…¡.ZºÄ­±¸PK8

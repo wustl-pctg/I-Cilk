@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Server: nginx
+Location: https://www.curbed.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 11 Feb 2020 03:43:48 GMT
+Via: 1.1 varnish
+Age: 1979
+Connection: close
+Set-Cookie: _chorus_geoip_continent=NA; expires=Wed, 12 Feb 2020 03:43:48 GMT; path=/;
+X-Served-By: cache-stl4826-STL
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1581392628.022531,VS0,VE0
+Vary: X-Forwarded-Proto, Cookie, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region
+
+dy>
+</html>
+ml>
+òë¯¦øMÍâYe=X!ð™&ŒFå³}O™¡$L¨ÒÌÌz…™{g½½ýŒ¦lÖS2F÷H(3Ã2€æYÄÖ}2—BÈÕ¡SKÎV¹T¦qnÅ#“Ì"¶ä!óìKŸðŒN…§C*Øl4ö‰NÏž‘Þœ›Y&‘Â£GSÃ`—Œb4%ïY(UÄÔÔwËÂÉTQÛì•|Yø^×ë„‘TjCr™‚*ÉU&$…Ã «"¯ŒÉÉ¾dÄ¡æYLž¼zóÁO‹³£
+Ät¨xn¸Ì:©THûºBÒ€³ˆúl0NöiÁùå‚mV ƒnâË•Ì™2›YOÆf“³†ž©2<lÙ·*8¬©Cçš¢}1µ"ÆS7™L

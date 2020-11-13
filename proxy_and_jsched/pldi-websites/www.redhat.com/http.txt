@@ -1,0 +1,20 @@
+HTTP/1.0 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.redhat.com/en
+Date: Tue, 11 Feb 2020 03:22:27 GMT
+Connection: close
+Strict-Transport-Security: max-age=31536000
+
+ cloudfront
+Via: 1.1 a5138224fa436e8d086be22468c19812.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD50-C1
+X-Amz-Cf-Id: d4KWDmJBHx8ohcG-KNAtVUl_JyyrIJZgXLHzzmCLUtcKypCL7NusRQ==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

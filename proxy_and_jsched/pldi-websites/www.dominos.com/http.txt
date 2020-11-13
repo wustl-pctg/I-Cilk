@@ -1,0 +1,16 @@
+HTTP/1.0 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.dominos.com/
+Date: Tue, 11 Feb 2020 04:02:19 GMT
+Connection: close
+
+Feb 2020 03:53:49 GMT
+ETag: W/"5e42254d-58246"
+X-Src: u-Beijing-cdn-1-1
+Cache-Control: max-age=60, s-maxage=90
+Content-Encoding: gzip
+X-Ser: BC51_dx-lt-yd-shandong-jinan-5-cache-6, BC131_lt-jiangsu-zhenjiang-1-cache-2
+
+3c2c
+‹

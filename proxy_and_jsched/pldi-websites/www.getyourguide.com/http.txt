@@ -1,0 +1,1076 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Content-Length: 178
+Connection: close
+Date: Tue, 11 Feb 2020 03:59:13 GMT
+Server: nginx
+Location: https://www.getyourguide.com/
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Cache: Miss from cloudfront
+Via: 1.1 8aaadc90b59c6024541e9b860cab0ddd.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD51-C3
+X-Amz-Cf-Id: Fer2ndCe_npxLBlQb0gcJ3K-nz0x0LcbtZqsolV9qzAyTtzkEryhOw==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+6.175.174
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+        <h1>Performance Tracking</h1>
+        <p>
+            The ultimate performance marketing platform. This server handles billions of events per day.
+        </p>
+        <h2>Key features include</h2>
+        <ul>
+            <li>Fraud Prevention</li>
+            <li>Smart Link Campaigns</li>
+            <li>Smart Alerts</li>
+            <li>Deep Analytics and Reporting</li>
+            <li>View Through Attribution</li>
+            <li>e-Commerce Support</li>
+        </ul>
+    </div>
+</body>
+
+</html>es=Tue, 11 Feb 2020 07:58:31 GMT; Max-Age=14400; HttpOnly
+Set-Cookie: _abck=71FBDC437DEB48EFD8EB28E20FC8D956~-1~YAAQDMIcuFcW6CVwAQAAqwVmMgNZTbvIyVtDcRy3+RApChBJ5F5V7WsuwUqG0ArnBJ5Hz6B/+H91n9R5+rdXALlsMoTqWke6Bdej1eO/oVUhMFb1uH+hCH7+cDdjVxsW6A+hM9rXLhpqTNXTkw821sLQaz8Y1o2jBUp64Lzg49Mx/hXeAaQHf078mMoqBJULzHpFw4s0GpyCC0vGer/usp1nzYdgpugm/+BYewqvg3D1XXnT+Dk962NMEDfS9v2Pm2J0iLUunSwkfHhlZCEOq5X0Kpx38q1wU46L~-1~-1~-1; Domain=.policybazaar.com; Path=/; Expires=Wed, 10 Feb 2021 03:58:31 GMT; Max-Age=31536000
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.policybazaar.com/">here</a>.</p>
+</body></html>
+r" href="https://ar.jaleco.com" />
+<link rel="alternate" hreflang="th" href="https://th.jaleco.com" />
+<link rel="alternate" hreflang="pt" href="https://br.jaleco.com" />
+<link rel="alternate" hreflang="de" href="https://de.jaleco.com" />
+<link rel="alternate" hreflang="hi" href="https://in.jaleco.com" />
+<link rel="alternate" hreflang="tr" href="https://tr.jaleco.com" />
+<link rel="alternate" hreflang="pl" href="https://pl.jaleco.com" />
+<link rel="alternate" hreflang="fa" href="https://fa.jaleco.com" />
+<link rel="alternate" hreflang="fr" href="https://fr.jaleco.com" />
+<link rel="alternate" hreflang="id" href="https://id.jaleco.com" />
+<link rel="alternate" hreflang="ms" href="https://my.jaleco.com" />
+<link rel="canonical" href="https://www.jaleco.com/" />
+<script src="//cdn.jalecdn.com/js/jquery.innerlib_20160413.js" type="text/javascript"></script>
+<script type="text/javascript">
+;
+	$(document).ready(function() {
+		$('.hproduct li a h5').limitText(23);
+		$('.hproduct li p').limitText(60);
+	});
+</script>
+<script type="text/javascript" src="//cdn.jalecdn.com/js/search-form.js"></script>
+<script type="text/javascript">
+	$.initSearchForm('.classic_search_section .search_btn', '.classic_search_section .search_box');
+</script>
+<script src="//cdn.jalecdn.com/js/gr2_footer_cats_splitter.js" type="text/javascript"></script>
+</head>
+<body>
+<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+			ga('create', 'UA-30374496-1', 'auto');
+			ga('send', 'pageview');
+		</script>
+<div class="wrapper2">
+<div id="wrapper">
+<header id="home_header">
+<div class="inner_home_header">
+<div class="main_wrap">
+<span class="logo"><a href="//www.jaleco.com/"><img src="//cdn.jalecdn.com/images/logo_en_US.png" alt="" /></a></span>
+<h1>
+Download software for...</h1>
+<section class="search_section">
+<span>
+<script type="text/javascript">
+							  (function() {
+							    var cx = '000373890413576627604:li9vuykjgla';
+							    var gcse = document.createElement('script');
+							    gcse.type = 'text/javascript';
+							    gcse.async = true;
+							    gcse.src = '//cse.google.com/cse.js?cx=' + cx;
+							    var s = document.getElementsByTagName('script')[0];
+							    s.parentNode.insertBefore(gcse, s);
+							  })();
+							</script>
+<div class="search-form-container" id="search-form-container"><gcse:search></gcse:search></div></span>
+</section>
+<span class="tips_section">
+<em>Tips:</em> Include words like "free" or "english" for a more accurate search</span>
+</div>
+</div>
+</header><section class="top_content">
+<div class="inner_top_content">
+<div class="main_wrap">
+<ul>
+<li>
+<div class="step_img"><span><img src="//cdn.jalecdn.com/images/num_1.png" alt=""></span><img src="//cdn.jalecdn.com/images/img1.png" alt=""></div>
+<p>Don't you know what is the best software for a purpose?</p>
+</li>
+<li class="second">
+<div class="step_img"><span><img src="//cdn.jalecdn.com/images/num_2.png" alt=""></span><img src="//cdn.jalecdn.com/images/img2.png" alt=""></div>
+<p>Write in the box above what you want to get</p>
+</li>
+<li class="third last">
+<div class="step_img"><span><img src="//cdn.jalecdn.com/images/num_3.png" alt=""></span><img src="//cdn.jalecdn.com/images/img3.png" alt=""></div>
+<p>Choose the best software for you and download it!</p>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</section>
+<section id="main_container">
+<div class="inner_main_container">
+<div class="main_wrap">
+<div class="whbanban">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4478677975127331" data-ad-slot="3846648202" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<h2 class="whban">
+<span>Most popular</span> programs this week</h2>
+<ul class="hproduct">
+<li>
+<a href="//easy-adblocker.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/easy-adblocker-100x100.png" alt="Easy AdBlocker" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Easy AdBlocker'>Easy AdBlocker</h5>
+<p class="description" title="Powerful and simple to use ad blocker">Powerful and simple to use ad blocker</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//driver-booster-free.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/driver-booster-free-100x100.png" alt="Driver Booster Free 7.1.0.533" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Driver Booster Free'>Driver Booster Free</h5>
+<p class="description" title="A useful free tool that can scan your PC to detect and update outdated drivers">A useful free tool that can scan your PC to detect and update outdated drivers</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//vlc-media-player.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/vlc-media-player-100x100.png" alt="VLC media player 3.0.8" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='VLC media player'>VLC media player</h5>
+<p class="description" title="A powerful open source multimedia application that streams audio and video in several formats">A powerful open source multimedia application that streams audio and video in several formats</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//daemon-tools.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/daemon-tools-100x100.png" alt="DAEMON Tools Lite 4.49.1.356" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='DAEMON Tools Lite'>DAEMON Tools Lite</h5>
+<p class="description" title="An application that converts physical CDs and DVDs into virtual disks">An application that converts physical CDs and DVDs into virtual disks</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//cheat-engine.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/cheat-engine-100x100.png" alt="Cheat Engine 6.4" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Cheat Engine'>Cheat Engine</h5>
+<p class="description" title="Customizes the difficulty of single player Windows games">Customizes the difficulty of single player Windows games</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//baidu-spark-browser.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/baidu-spark-browser-100x100.png" alt="Baidu Browser 40.17.1000.248" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Baidu Browser'>Baidu Browser</h5>
+<p class="description" title="Simple browser popular in China now available in English">Simple browser popular in China now available in English</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//opera.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/opera-100x100.png" alt="Opera Browser 60.0.3255.170" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Opera Browser'>Opera Browser</h5>
+<p class="description" title="Type of browser that lets you explore Internet sites easily and quickly">Type of browser that lets you explore Internet sites easily and quickly</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//megui-media-manipulator.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/megui-media-manipulator-100x100.png" alt="MeGUI Media Manipulator 2.3" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='MeGUI Media Manipulator'>MeGUI Media Manipulator</h5>
+<p class="description" title="Free software that both rips DVDs and converts the video">Free software that both rips DVDs and converts the video</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//iobit-malware-fighter.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/iobit-malware-fighter-100x100.png" alt="IObit Malware Fighter 7.3.0.5799" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='IObit Malware Fighter'>IObit Malware Fighter</h5>
+<p class="description" title="Anti spyware that scans, protects, and updates your computer, complete with an action center">Anti spyware that scans, protects, and updates your computer, complete with an action center</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//garena.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/garena-100x100.png" alt="Garena Beta" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Garena'>Garena</h5>
+<p class="description" title="Use this handy program to play your favorite video games with gamers all over the world">Use this handy program to play your favorite video games with gamers all over the world</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//free-mp3-cutter-and-editor.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/free-mp3-cutter-and-editor-100x100.png" alt="Free MP3 Cutter and Editor 2.6.0.1244" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Free MP3 Cutter and Editor'>Free MP3 Cutter and Editor</h5>
+<p class="description" title="A free program that enables you to download streaming video from multiple websites">A free program that enables you to download streaming video from multiple websites</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//whatsapp.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/whatsapp-100x100.png" alt="WhatsApp 0.3.4941" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='WhatsApp'>WhatsApp</h5>
+<p class="description" title="A messenger app that started life on mobile devices but is now available for PCs">A messenger app that started life on mobile devices but is now available for PCs</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//instagram.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/instagram-100x100.png" alt="Instagram varies-by-device" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Instagram'>Instagram</h5>
+<p class="description" title="Take, filter, and share photos on one of the most popular image viewing platforms available">Take, filter, and share photos on one of the most popular image viewing platforms available</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//telegram-for-desktop.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/telegram-for-desktop-100x100.png" alt="Telegram for Desktop 1.8.15" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Telegram for Desktop'>Telegram for Desktop</h5>
+<p class="description" title="A software program that allows you to get messages right on your desktop">A software program that allows you to get messages right on your desktop</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//mplayer-everything-star.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/mplayer-everything-star-100x100.png" alt="MPlayer Everything Star 3.61" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='MPlayer Everything Star'>MPlayer Everything Star</h5>
+<p class="description" title="A free media player that can work with hundreds of different file formats">A free media player that can work with hundreds of different file formats</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//tencent-gaming-buddy.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/tencent-gaming-buddy-100x100.png" alt="Tencent Gaming Buddy 1.0.12058.123" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Tencent Gaming Buddy'>Tencent Gaming Buddy</h5>
+<p class="description" title="Streamlined emulator that allows you to play PUBG and other games on your Windows PC">Streamlined emulator that allows you to play PUBG and other games on your Windows PC</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//mozilla-firefox.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/mozilla-firefox-100x100.png" alt="Mozilla Firefox 69.0" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Mozilla Firefox'>Mozilla Firefox</h5>
+<p class="description" title="Mozilla&#039;s Firefox is an open-source internet browser that works on most operating systems">Mozilla&#039;s Firefox is an open-source internet browser that works on most operating systems</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//kmplayer.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/kmplayer-100x100.png" alt="KMPlayer 4.2.2.32" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='KMPlayer'>KMPlayer</h5>
+<p class="description" title="Lightweight audio and video player supporting thirty six different languages and with millions of users all over the world">Lightweight audio and video player supporting thirty six different languages and with millions of users all over the world</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//windows-live-movie-maker.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/windows-live-movie-maker-100x100.png" alt="Windows Live Movie Maker 2012 16.4.3505.912" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Windows Live Movie Maker'>Windows Live Movie Maker</h5>
+<p class="description" title="A software suite for Windows that allows you to create movies and photo presentations">A software suite for Windows that allows you to create movies and photo presentations</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//picsart.jaleco.com/">
+ <span><img width="55" height="55" src="//cdn.jalecdn.com/gen/picsart-100x100.png" alt="PicsArt - Photo Studio 1.0.0" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='PicsArt - Photo Studio'>PicsArt - Photo Studio</h5>
+<p class="description" title="Photos on a user&#039;s phone can now be put to better use with this application">Photos on a user&#039;s phone can now be put to better use with this application</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//mobogenie.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/mobogenie-100x100.png" alt="Mobogenie 3.3.7" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Mobogenie'>Mobogenie</h5>
+<p class="description" title="Play not only windows games but Android games as well on your home PC">Play not only windows games but Android games as well on your home PC</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//vlc-windows-8.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/vlc-windows-8-100x100.png" alt="VLC for Windows 8 0.0.3 Beta" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='VLC for Windows 8'>VLC for Windows 8</h5>
+<p class="description" title="The updated version of this free media player lets users play their multimedia files">The updated version of this free media player lets users play their multimedia files</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//openpdf.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/openpdf-100x100.png" alt="openPDF 1" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='openPDF'>openPDF</h5>
+<p class="description" title="A free application for Windows that can open and allow you to read PDF files">A free application for Windows that can open and allow you to read PDF files</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//imo.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/imo-100x100.png" alt="Imo 1.2.60" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Imo'>Imo</h5>
+<p class="description" title="Free video calling and chat software for computers">Free video calling and chat software for computers</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//the-bubs-brothers.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/default.png" alt="The Bub&#039;s Brothers 1.6.2" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='The Bub&#039;s Brothers'>The Bub&#039;s Brothers</h5>
+<p class="description" title="Multi-player network clone of classic game Bubble Bobble">Multi-player network clone of classic game Bubble Bobble</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//notepad-plus.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/notepad-plus-100x100.png" alt="Notepad++ 7.7.1" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Notepad++'>Notepad++</h5>
+<p class="description" title="Enhanced source code viewer and editor that supports multiple languages">Enhanced source code viewer and editor that supports multiple languages</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//bloodshed-dev-c.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/bloodshed-dev-c-100x100.png" alt="Dev-C++ 5.11" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Dev-C++'>Dev-C++</h5>
+<p class="description" title="Feature rich integrated development environment for the C and C++ programming languages">Feature rich integrated development environment for the C and C++ programming languages</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//photoscape.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/photoscape-100x100.png" alt="Photoscape 3.7" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Photoscape'>Photoscape</h5>
+<p class="description" title="A photo editing software that enables the user to edit and fix photos">A photo editing software that enables the user to edit and fix photos</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//bluetooth-driver-installer.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/bluetooth-driver-installer-100x100.png" alt="Bluetooth Driver Installer 1.0.0.128" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Bluetooth Driver Installer'>Bluetooth Driver Installer</h5>
+<p class="description" title="Get the drivers you need in order to connect all of your Bluetooth enabled devices">Get the drivers you need in order to connect all of your Bluetooth enabled devices</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//anydesk.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/anydesk-100x100.png" alt="AnyDesk 5.3.3" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='AnyDesk'>AnyDesk</h5>
+<p class="description" title="Software that allows you to access your main computer remotely from anywhere in the world">Software that allows you to access your main computer remotely from anywhere in the world</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//windows-movie-maker-2012.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/windows-movie-maker-2012-100x100.png" alt="Windows Movie Maker 2012 16.4.3522.110" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Windows Movie Maker 2012'>Windows Movie Maker 2012</h5>
+<p class="description" title="One of the best free video editing tools just got better">One of the best free video editing tools just got better</p>
+</div>
+ </a>
+</li>
+<li>
+<a href="//office-online.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/office-online-100x100.png" alt="Office Online " class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Office Online'>Office Online</h5>
+<p class="description" title="An online version of Microsoft Office that offers users the same versatility and productivity as the desktop version">An online version of Microsoft Office that offers users the same versatility and productivity as the desktop version</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//gs-auto-clicker.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/gs-auto-clicker-100x100.png" alt="GS Auto Clicker 3.1.4" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='GS Auto Clicker'>GS Auto Clicker</h5>
+<p class="description" title="Time saving mouse clicking automation software tool">Time saving mouse clicking automation software tool</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//avast.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/avast-100x100.png" alt="Avast Free Antivirus 19.8.2393" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Avast Free Antivirus'>Avast Free Antivirus</h5>
+<p class="description" title="Free virus and spyware protection for Windows PCs">Free virus and spyware protection for Windows PCs</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//picsart-windows-8.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/picsart-windows-8-100x100.png" alt="PicsArt - Photo Studio for Windows 8 1.0.0" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='PicsArt - Photo Studio for Windows 8'>PicsArt - Photo Studio for Windows 8</h5>
+<p class="description" title="Image editing and drawing application for Windows that allows for easy sharing to social media">Image editing and drawing application for Windows that allows for easy sharing to social media</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//360-internet-security.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/360-internet-security-100x100.png" alt="360 Internet Security 4.9.0" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='360 Internet Security'>360 Internet Security</h5>
+<p class="description" title="Don&#039;t take the risk of gambling by surfing the Internet without this security program">Don&#039;t take the risk of gambling by surfing the Internet without this security program</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//typingmaster.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/typingmaster-100x100.png" alt="TypingMaster 10.1.1.849" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='TypingMaster'>TypingMaster</h5>
+<p class="description" title="Practice makes perfect, or close to perfect when typing, keep practicing with this typing software">Practice makes perfect, or close to perfect when typing, keep practicing with this typing software</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//tik-tok.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/tik-tok-100x100.png" alt="Tik Tok 4.9.1" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Tik Tok'>Tik Tok</h5>
+<p class="description" title="An insanely popular short-form video app with millions of active viewers and posters each day">An insanely popular short-form video app with millions of active viewers and posters each day</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//psiphon.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/psiphon-100x100.png" alt="Psiphon " class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Psiphon'>Psiphon</h5>
+<p class="description" title="Bid farewell to pesky website blocks by overriding them">Bid farewell to pesky website blocks by overriding them</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//prezi-desktop.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/prezi-100x100.png" alt="Prezi 5.2.5" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Prezi'>Prezi</h5>
+<p class="description" title="The top free title for making presentations">The top free title for making presentations</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//free-pdf-reader.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/free-pdf-reader-100x100.png" alt="Free PDF Reader 1.2" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Free PDF Reader'>Free PDF Reader</h5>
+<p class="description" title="Easily open any PDF file on your computer to view it in an efficient and quick manner">Easily open any PDF file on your computer to view it in an efficient and quick manner</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//microsoft-security-essentials-64bit.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/microsoft-security-essentials-64bit-100x100.png" alt="Microsoft Security Essentials 4.4.304.0" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Microsoft Security Essentials'>Microsoft Security Essentials</h5>
+<p class="description" title="Antivirus software protecting computers against spyware and trojans">Antivirus software protecting computers against spyware and trojans</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//viber-windows-8.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/viber-windows-8-100x100.png" alt="Viber for Windows 8 4.0" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Viber for Windows 8'>Viber for Windows 8</h5>
+<p class="description" title="You can use this program to call people around the world for free">You can use this program to call people around the world for free</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//winamp.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/winamp-100x100.png" alt="Winamp 5.666-full-b-3516" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Winamp'>Winamp</h5>
+<p class="description" title="Classic music player with customized visual themes called skins">Classic music player with customized visual themes called skins</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//windows-movie-maker-vista.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/windows-movie-maker-vista-100x100.png" alt="Windows Movie Maker 12" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Windows Movie Maker'>Windows Movie Maker</h5>
+<p class="description" title="Create and edit movies and photo slideshows in Vista">Create and edit movies and photo slideshows in Vista</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//pdf-reader.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/pdf-reader-100x100.png" alt="Free PDF reader 1" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Free PDF reader'>Free PDF reader</h5>
+<p class="description" title="A key piece of software that allows you to read and view PDF documents online">A key piece of software that allows you to read and view PDF documents online</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//bluetooth-driver-installer-1.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/bluetooth-driver-installer-1-100x100.png" alt="Bluetooth Driver Installer Beta (64 bit) 1.0.0.98" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Bluetooth Driver Installer'>Bluetooth Driver Installer</h5>
+<p class="description" title="Get the drivers that you need in order to connect your devices that have Bluetooth">Get the drivers that you need in order to connect your devices that have Bluetooth</p>
+</div>
+</a>
+</li>
+<li class='last'>
+<a href="//wechat.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/wechat-100x100.png" alt="WeChat 2.6.8" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='WeChat'>WeChat</h5>
+<p class="description" title="A free chat client that can be used on Windows desktops or various mobile devices">A free chat client that can be used on Windows desktops or various mobile devices</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//3utools.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/3utools-100x100.png" alt="3uTools 2.37" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='3uTools'>3uTools</h5>
+<p class="description" title="A free tool that is used to jail break your iOS devices">A free tool that is used to jail break your iOS devices</p>
+</div>
+</a>
+</li>
+<li>
+<a href="//free-easy-cd-dvd-burner.jaleco.com/">
+<span><img width="55" height="55" src="//cdn.jalecdn.com/gen/free-easy-cd-dvd-burner-100x100.png" alt="Free Easy CD DVD Burner 5.0" class="photo"></span>
+<div class="program_list">
+<h5 class="fn" title='Free Easy CD DVD Burner'>Free Easy CD DVD Burner</h5>
+<p class="description" title="Easily create and copy media files to disk with this utility">Easily create and copy media files to disk with this utility</p>
+</div>
+</a>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+</section>
+</div>
+<div class="push"></div>
+</div>
+<footer id="footer">
+<section class="top_footer">
+<div class="main_wrap">
+<div class="first_footer_menu">
+<h5>All categories</h5>
+<ul class=" sect-list sect-lvl-0 categorymenu withborder">
+<li class=' sect-li-1 fici'><a class="" href="//www.jaleco.com/windows/audio">Audio software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/browsers">Browsers</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/business-software">Business software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/communication">Communication software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/design-photography-software">Design &amp; photography software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/desktop-customization-software">Desktop customization software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/development-software">Development software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/downloading">Downloading software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/games">PC games</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/home-hobbies-software">Home &amp; hobby software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/networks">Networking software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/productivity-software">Productivity software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/science-education">Science &amp; education software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/security-software">Security software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/software-utilities">Software utilities</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/streaming-media">Streaming media</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/video-software">Video software</a></li>
+<li class=' sect-li-1'><a class="" href="//www.jaleco.com/windows/weblogs">Websites &amp; blogs</a></li>
+</ul></div>
+<div class="clear"></div>
+</div>
+</section>
+<section class="bottom_fo
+b86
+oter">
+<div class="main_wrap">
+<ul>
+<li class="no_bg">Copyright 2020 &copy; jaleco.com</li>
+<li><a href="//www.jaleco.com/windows/india">India</a></li>
+<li><a href="//www.jaleco.com/windows/philippines">Philippines</a></li>
+<li title="Mac"><a href="//www.jaleco.com/mac">Mac</a></li>
+<li title="Android"><a href="//www.jaleco.com/android">Android</a></li>
+<li title="Español"><a href="https://es.jaleco.com">Español</a></li>
+<li title="Svenska"><a href="https://se.jaleco.com">Svenska</a></li>
+<li title="日本語"><a href="https://jp.jaleco.com">日本語</a></li>
+<li title="한국어"><a href="https://kr.jaleco.com">한국어</a></li>
+<li title="Nederlands"><a href="https://nl.jaleco.com">Nederlands</a></li>
+<li title="Tagalog"><a href="https://ph.jaleco.com">Tagalog</a></li>
+<li title="Русский"><a href="https://ru.jaleco.com">Русский</a></li>
+<li title="Swahili"><a href="https://sw.jaleco.com">Swahili</a></li>
+<li title="العربية"><a href="https://ar.jaleco.com">العربية</a></li>
+<li title="ไทย"><a href="https://th.jaleco.com">ไทย</a></li>
+<li title="Português"><a href="https://br.jaleco.com">Português</a></li>
+<li title="Deutsch"><a href="https://de.jaleco.com">Deutsch</a></li>
+<li title="हिंदी"><a href="https://in.jaleco.com">हिंदी</a></li>
+<li title="Türkçe"><a href="https://tr.jaleco.com">Türkçe</a></li>
+<li title="Polski"><a href="https://pl.jaleco.com">Polski</a></li>
+<li title="Persian"><a href="https://fa.jaleco.com">Persian</a></li>
+<li title="Français"><a href="https://fr.jaleco.com">Français</a></li>
+<li title="Bahasa Indonesia"><a href="https://id.jaleco.com">Bahasa Indonesia</a></li>
+<li title="Bahasa Melayu"><a href="https://my.jaleco.com">Bahasa Melayu</a></li>
+<li><a href='//www.jaleco.com/contact' rel="nofollow" target="_blank">Contact us</a></li>
+<li><a href="//www.jaleco.com/uninstall" rel="nofollow" target="_blank">Uninstall</a></li>
+<li><a href="//www.jaleco.com/policy-en.html" rel="nofollow" target="_blank">Terms of use and privacy policy</a></li>
+</ul></div>
+</section>
+</footer><script type="text/javascript">
+	var sc_project=3439813;
+	var sc_invisible=1;
+	var sc_security="2ad7878e";
+	var sc_https=1;
+	var sc_remove_link=1;
+</script>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><img class="statcounter"
+src="https://c.statcounter.com/3439813/0/2ad7878e/1/"></div></noscript><script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"20046316"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+</body>
+</html>
+
+0
+
+   height:243px;
+  }
+  #lp-pom-image-203 .lp-pom-image-container img {
+    width:387px;
+    height:243px;
+  }
+  #lp-pom-image-206 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:263px;
+    height:42px;
+  }
+  #lp-pom-image-206 .lp-pom-image-container img {
+    width:263px;
+    height:42px;
+  }
+  #lp-pom-root-color-overlay {
+    position:absolute;
+    background:none;
+    top:0;
+    width:100%;
+    height:2238px;
+    min-height:100%;
+  }
+  #lp-pom-block-8-color-overlay {
+    position:absolute;
+    background:none;
+    height:66px;
+    width:100%;
+  }
+  #lp-pom-block-9-color-overlay {
+    position:absolute;
+    background:rgba(45,45,43,0.13);
+    -pie-background:rgba(45,45,43,0.13);
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    height:333px;
+    width:100%;
+  }
+  #lp-pom-block-10-color-overlay {
+    position:absolute;
+    background:none;
+    height:56px;
+    width:100%;
+  }
+  #lp-pom-block-11-color-overlay {
+    position:absolute;
+    background:none;
+    height:328px;
+    width:100%;
+  }
+  #lp-pom-block-12-color-overlay {
+    position:absolute;
+    background:none;
+    height:1258px;
+    width:100%;
+  }
+  #lp-pom-block-164-color-overlay {
+    position:absolute;
+    background:rgba(45,45,43,0.13);
+    -pie-background:rgba(45,45,43,0.13);
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    height:103px;
+    width:100%;
+  }
+  #lp-pom-block-16-color-overlay {
+    position:absolute;
+    background:none;
+    height:94px;
+    width:100%;
+  }
+  #lp-pom-box-85-color-overlay {
+    position:absolute;
+    background:none;
+    height:134px;
+    width:280px;
+  }
+  #lp-pom-box-86-color-overlay {
+    position:absolute;
+    background:none;
+    height:133px;
+    width:280px;
+  }
+  #lp-pom-box-94-color-overlay {
+    position:absolute;
+    background:none;
+    height:131px;
+    width:280px;
+  }
+  #lp-pom-box-95-color-overlay {
+    p
+3883
+osition:absolute;
+    background:none;
+    height:134px;
+    width:280px;
+  }
+}
+</style>
+<!-- lp:insertions start head -->
+<link href="//builder-assets.unbounce.com/published/page-defaults-13674f6.z.css" rel="stylesheet" media="screen" type="text/css" />
+
+<meta property='og:title' content='Any Search Manager'/>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="//d2xxq4ijfwetlm.cloudfront.net/m/lp-webapp/api/unbounce.js"></script>
+<script type="text/javascript">
+window.ub.page.id = "2713aec2-10c6-47f1-8d30-0c5e5ad480fa";
+window.ub.page.variantId = "a";
+window.ub.page.usedAs = "main";
+window.ub.page.name = "Any Search Manager - WWW";
+window.ub.page.url = "https://www.anysearchmanager.com/";
+window.ub.page.dimensions = {"desktop":{"height":2110,"width":940},"mobile":{"height":2238,"width":320}};
+</script>
+<script type="text/javascript">
+var lp = lp || {};
+lp.jQuery = jQuery.noConflict( true );
+</script>
+
+<script src="//builder-assets.unbounce.com/modules/lp-block/public/main-90cd9cc.z.js" type="text/javascript"></script>
+<script src="//builder-assets.unbounce.com/published/matchMedia-ba7af92.z.js" type="text/javascript"></script>
+<script src="//builder-assets.unbounce.com/modules/lp-image/public/main-8ff2ac3.z.js" type="text/javascript"></script>
+<script src="//builder-assets.unbounce.com/modules/lp-text/public/main-e1f2690.z.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+<script>
+lp = lp || {};
+lp.webFontLoad = {
+  google: {
+    families: ['Montserrat:regular,700','Open Sans:regular','Cabin:regular']
+  },
+  active: function() {
+   if(lp && lp.text && typeof lp.text.fixTextHeights === "function")  {
+     lp.text.runTextFixes(true)
+   }
+  }
+};
+window.WebFont.load(lp.webFontLoad);
+</script>
+<!--[if IE 7]>
+<script>
+(function() {
+  var sheet = document.styleSheets[1];
+  var rules = sheet.rules;
+  var rule;
+  var index = -1;
+  for (var i=0, l=rules.length; i<l; i++){
+    rule = rules[i];
+    if (rule.selectorText.toLowerCase() == 'div.lp-pom-root .lp-pom-text span') {
+      index = i;
+      break;
+    }
+  }
+  if (index > -1) {
+    sheet.removeRule(index);
+    sheet.addRule('div.lp-pom-root .lp-pom-text span', 'line-height:inherit');
+  }
+})();
+</script>
+<![endif]-->
+
+<script src="//builder-assets.unbounce.com/published/ub-browser-879f873.z.js" type="text/javascript"></script>
+
+<!-- lp:insertions end head -->
+
+</head>
+<body class="lp-pom-body ">
+<!-- lp:insertions start body:before -->
+<!-- lp:insertions end body:before -->
+
+<div class="lp-element lp-pom-root" id="lp-pom-root">
+<div id="lp-pom-root-color-overlay"></div>
+<div class="lp-positioned-content">
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-30">
+<p class="lplh-58" style="text-align: center;">
+<span style="font-size:36px;"><span style="color:#252525;"><span style="font-family:montserrat;"><strong>Features</strong></span></span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-50">
+<p class="lplh-77" style="line-height: 58px; text-align: center;">
+<span style="color:#ffffff;"><span style="font-size:64px;"><span style="font-family:montserrat;"><strong>Any Search Manager by SafeFinder&nbsp;</strong></span></span></span>
+</p>
+<p class="lplh-77" style="text-align: center;">
+<br>
+</p>
+</div>
+<div class="lp-element lp-pom-box" id="lp-pom-box-85">
+<div id="lp-pom-box-85-color-overlay"></div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-34">
+<p class="p1 lplh-19">
+<span style="font-family:open sans;"><span style="font-size:12px;">Search with the most popular search engines! &nbsp;Google, Bing, Yahoo and more! &nbsp;</span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-38">
+<p class="lplh-22">
+<span style="font-size:14px;"><span style="font-family:montserrat;"><strong><span style="color:#4a90e2;">All Popular Search Engines</span></strong></span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-196">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/99db0e14-pop_01z01z01z01z000000.png" alt=""></div>
+</div>
+</div>
+<div class="lp-element lp-pom-box" id="lp-pom-box-86">
+<div id="lp-pom-box-86-color-overlay"></div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-23">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/vo6llx-dulce-computer-icon_02m02202m022000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-35">
+<p class="p1 lplh-19">
+<font face="open sans"><span style="font-size: 12px;">Don't have to open the browser every time and go to the desired search engine page and then search. &nbsp;AnySearch is efficient and simple.&nbsp;</span></font>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-39">
+<p class="lplh-22">
+<span style="font-size:14px;"><span style="font-family:montserrat;"><strong><span style="color:#4a90e2;">Search right from your default search</span></strong></span></span>
+</p>
+</div>
+</div>
+<div class="lp-element lp-pom-box" id="lp-pom-box-94">
+<div id="lp-pom-box-94-color-overlay"></div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-22">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/8ad20b52-settings-icon.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-36">
+<p class="p1 lplh-19">
+<span style="font-family:open sans;"><span style="font-size:12px;">Switch between search engines easily in the menu bar! &nbsp;No more hassling with search settings in the browser.</span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-40">
+<p class="lplh-22">
+<span style="font-size:14px;"><span style="font-family:montserrat;"><strong><span style="color:#4a90e2;">Easily switch between Search engines</span></strong></span></span>
+</p>
+<p class="lplh-22">
+<br>
+</p>
+</div>
+</div>
+<div class="lp-element lp-pom-box" id="lp-pom-box-95">
+<div id="lp-pom-box-95-color-overlay"></div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-21">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/3762bb1a-map-icon_02a02t02902s000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-37">
+<p class="p1 lplh-19">
+<span style="font-family:open sans;"><span style="font-size:12px;">Your selected search engine will show in the search input field. &nbsp;No more guessing.</span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-41">
+<p class="lplh-22">
+<span style="font-size:14px;"><span style="font-family:montserrat;"><strong><span style="color:#4a90e2;">See where you are going</span></strong></span></span>
+</p>
+</div>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-165">
+<p class="lplh-38" style="text-align: center;">
+<span style="font-family:montserrat;"><span style="color: rgb(255, 255, 255); font-size: 36px; font-weight: bold; text-align: center;">A simpler way to manage your search.</span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-176">
+<p style="line-height: 58px; text-align: center;">
+<span style="color:#ffffff;"><span style="font-size: 36px;"><span style="font-family:montserrat;"><strong>Easily Search</strong></span><span style="font-family:montserrat;"><strong>&nbsp;</strong>from your desktop</span></span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-182">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/6864b9ae-laptop-transparent_0ef08r0ef08r000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-186">
+<p>
+<a data-action="url" data-params="false" href="clkn/http/www.anysearchmanager.com/" style="text-decoration:none;" target="_self"><span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">About</span></a>
+<span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+<a data-action="url" data-params="false" href="clkn/http/www.anysearchmanager.com/contact" style="text-decoration:none;" target="_self"><span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">Contact</span></a>
+<span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+<a data-action="url" data-params="false" href="clkn/http/www.anysearchmanager.com/uninstall" style="text-decoration:none;" target="_self"><span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">Uninstall</span></a>
+<span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+<a data-action="url" data-params="false" href="clkn/http/www.anysearchmanager.com/terms" style="text-decoration:none;" target="_self"><span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">Terms</span></a>
+<span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+<a data-action="url" data-params="false" href="clkn/http/www.anysearchmanager.com/privacy" style="text-decoration:none;" target="_self"><span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">Privacy</span></a>
+</p>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-193">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/9d0d6ab4-icon512_09u09u09u09u000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-194">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<a href="clkn/http/www.anysearchmanager.com/" target="_self"><img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/46644586-small-white-mag.png" alt=""></a>
+</div>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-197">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/bb5c61dd-icon128_023023023023000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-203">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/b6a6063e-macintosh-hd-drive-desktop_0as06r0ar06r000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-206">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/d66d78ac-by-safe-finder.png" alt=""></div>
+</div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-8">
+<div id="lp-pom-block-8-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-9">
+<div id="lp-pom-block-9-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-10">
+<div id="lp-pom-block-10-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-11">
+<div id="lp-pom-block-11-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-12">
+<div id="lp-pom-block-12-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-164">
+<div id="lp-pom-block-164-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-16">
+<div id="lp-pom-block-16-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+</div>
+<!-- lp:insertions start body:after -->
+<script type="text/javascript">
+  function updateViewport() {
+    var viewport = document.querySelector('meta[name="viewport"]');
+    if (viewport && window.innerWidth > 600 && window.innerWidth < 1024) {
+      var defaultDeviceWidth = window.innerWidth;
+      var defaultPageWidth = document.getElementById('lp-pom-root').offsetWidth;
+      var calculatedScale = (defaultDeviceWidth / defaultPageWidth);
+      var viewportContent = 'initial-scale=' + calculatedScale + ', user-scalable=yes';
+      if (defaultDeviceWidth >= defaultPageWidth) {
+        viewportContent = 'initial-scale=1.0, ' + 'width=device-width, ' + 'user-scalable=yes';
+      }
+      viewport.content = viewportContent;
+    }
+  }
+  lp.jQuery(document).ready(updateViewport);
+  window.addEventListener('orientationchange', updateViewport);
+</script>
+<script type="text/javascript">Array.prototype.slice
+  .call(document.querySelectorAll('.lp-pom-form form input[name^=ubafs-]'))
+  .forEach(function(input) {
+    input.parentNode.removeChild(input);
+  });
+
+Array.prototype.slice.call(document.querySelectorAll('.lp-pom-form form')).forEach(function(form) {
+  var jevField = document.createElement('input');
+  jevField.type = 'hidden';
+  jevField.name = 'ubafs-jev';
+  jevField.id = jevField.name;
+  jevField.value = JSON.stringify({
+    date: new Date(),
+    agent: navigator.userAgent,
+    screen: {
+      availWidth: screen.availWidth,
+      availHeight: screen.availHeight,
+      width: screen.width,
+      height: screen.height,
+    },
+    window: {
+      innerWidth: window.innerWidth,
+      innerHeight: window.innerHeight,
+    },
+    hasPlugins: 'length' in navigator.plugins && navigator.plugins.length > 0,
+  });
+
+  form.appendChild(jevField);
+});
+</script>
+<!-- lp:insertions end body:after -->
+
+</body>
+
+</html>
+
+0
+

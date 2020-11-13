@@ -1,0 +1,23 @@
+HTTP/1.1 308 Permanent Redirect
+Server: openresty/1.15.8.1
+Date: Tue, 11 Feb 2020 03:16:37 GMT
+Content-Type: text/html
+Content-Length: 177
+Connection: close
+Location: https://www.tomsguide.com/
+
+<html>
+<head><title>308 Permanent Redirect</title></head>
+<body>
+<center><h1>308 Permanent Redirect</h1></center>
+<hr><center>openresty/1.15.8.1</center>
+</body>
+</html>
+success_fraction":0,"failure_fraction":1.0, "include_subdomains": true}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://r.3gl.net/hawklogserver/554/re.p"}]}
+
+>
+wAQAAYm0/MgOkM1KhXCRwBJvqKewpxwseT9m1kICAOVAbdu3zV4wL2BUHZ7Zh3tCeE98PJoK4ls+Ti975SNPyIXTfBH5z3CsMYneLjzkcuANjDvoR0lUjTV0APtJvrNjXr+6Ai4dhWv5gp83NOCFhhABP10BkQ/Tf56T/YZTXdMpXelpnFO0LcKd8BGYe+PgiJXti2bQxmxGkHNnBRBoxUjrynOAOfbFx8g1QR4ur1EybHMY6pHLCAjUTAdk9Kg9eSewVusv4ykr14DXl~-1~-1~-1; Domain=.nordstrom.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:22 GMT; Max-Age=31536000
+
+00
+

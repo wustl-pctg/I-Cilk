@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRTInterception.test.x86_64.a  ../CMakeFiles/RTInterception.x86_64.dir/interception_linux.cc.o ../CMakeFiles/RTInterception.x86_64.dir/interception_mac.cc.o ../CMakeFiles/RTInterception.x86_64.dir/interception_win.cc.o ../CMakeFiles/RTInterception.x86_64.dir/interception_type_test.cc.o
+/usr/bin/ranlib libRTInterception.test.x86_64.a

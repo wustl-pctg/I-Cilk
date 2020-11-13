@@ -1,0 +1,1 @@
+/usr/bin/cc   -fPIC -Werror=date-time -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-comment -ffunction-sections -fdata-sections -O3 -DNDEBUG   -Wl,-allow-shlib-undefined CMakeFiles/polly-isl-test.dir/isl/isl_test.c.o  -o ../../../../bin/polly-isl-test ../../../../lib/libPollyISL.a 

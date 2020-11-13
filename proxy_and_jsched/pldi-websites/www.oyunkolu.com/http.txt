@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:56:08 GMT
+Connection: close
+Cache-Control: max-age=3600
+Expires: Tue, 11 Feb 2020 04:56:08 GMT
+Location: https://www.oyunkolu.com/
+Server: cloudflare
+CF-RAY: 5633642a1a71a607-IND
+

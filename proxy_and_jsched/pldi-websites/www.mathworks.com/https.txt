@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Server: Apache/2.2.15 (CentOS)
+Host-ID: wcxm7
+Location: https://www.mathworks.com/
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 193
+Content-Type: text/html; charset=iso-8859-1
+Cache-Control: max-age=14400
+Expires: Tue, 11 Feb 2020 07:03:09 GMT
+Date: Tue, 11 Feb 2020 03:03:09 GMT
+Connection: close
+
+‹

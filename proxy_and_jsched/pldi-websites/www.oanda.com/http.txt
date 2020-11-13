@@ -1,0 +1,12 @@
+HTTP/1.1 302 Found
+Date: Tue, 11 Feb 2020 03:56:09 GMT
+Content-Length: 0
+Connection: close
+Set-Cookie: __cfduid=dd3111eec2e3b80ef987f09deb54c13fd1581393369; expires=Thu, 12-Mar-20 03:56:09 GMT; path=/; domain=.oanda.com; HttpOnly; SameSite=Lax
+Location: https://www.oanda.com/
+CF-Cache-Status: BYPASS
+Set-Cookie: __cfruid=c1c016ea7751592bb45cdc84e14f67f563e27215-1581393369; path=/; domain=.oanda.com; HttpOnly
+Set-Cookie: __cf_bm=d08880ec0337b3ad3f02c5b32640c1d0ab162b8c-1581393369-1800-AfDAyBa4zGBn0sKI2J/cmZRasKYBnrwoOgDSCdjiHSi6nDxS8Kcu2hrkeIPfrecCW9QGlgfPs+VDT8fmlC6ZRBs=; path=/; expires=Tue, 11-Feb-20 04:26:09 GMT; domain=.oanda.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 5633642c8829a619-IND
+

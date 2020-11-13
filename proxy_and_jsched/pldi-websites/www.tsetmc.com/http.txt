@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Location: /Loader.aspx?ParTree=15
+Server: Microsoft-IIS/10.0
+Set-Cookie: ASP.NET_SessionId=3fkggklo0w5fm2esl5rhtcdc; path=/; HttpOnly
+X-Powered-By: ASP.NET
+X-Powered-By: ARR/3.0
+X-Powered-By: ASP.NET
+Date: Tue, 11 Feb 2020 03:20:31 GMT
+Connection: close
+Content-Length: 132
+
+‹

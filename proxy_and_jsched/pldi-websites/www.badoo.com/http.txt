@@ -1,0 +1,27 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 11 Feb 2020 03:16:50 GMT
+Content-Type: text/html; charset=utf-8
+Connection: close
+Location: https://badoo.com/
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Referrer-Policy: strict-origin-when-cross-origin
+
+
+<html>
+ <head>
+  <title>Status 301 - document moved</title>
+  <meta http-equiv="Refresh" content="0; url=https://badoo.com/">
+ </head>
+ <body bgcolor="#ffffff" text="#000000" link="#ff0000" alink="#ff0000" vlink="#ff0000">
+ Document moved: <a href="https://badoo.com/">https://badoo.com/</a>
+ </body>
+</html> href="https://www.pdfdrive.com/">here</a>.</p>
+</body></html>
+
+0
+
+YneLjzkcuANjDvoR0lUjTV0APtJvrNjXr+6Ai4dhWv5gp83NOCFhhABP10BkQ/Tf56T/YZTXdMpXelpnFO0LcKd8BGYe+PgiJXti2bQxmxGkHNnBRBoxUjrynOAOfbFx8g1QR4ur1EybHMY6pHLCAjUTAdk9Kg9eSewVusv4ykr14DXl~-1~-1~-1; Domain=.nordstrom.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:22 GMT; Max-Age=31536000
+
+00
+

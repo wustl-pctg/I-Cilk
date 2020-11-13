@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:56:28 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: close
+Set-Cookie: __cfduid=dce044909018579a70fd58e51df0f6ccd1581393388; expires=Thu, 12-Mar-20 03:56:28 GMT; path=/; domain=.hostinger.com; HttpOnly; SameSite=Lax
+Location: https://www.hostinger.com/
+X-Hostinger-Datacenter: imm
+X-Hostinger-Node: us-imm-websites2
+X-Frame-Options: sameorigin
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+CF-Cache-Status: MISS
+Set-Cookie: __cflb=02DiuHvtZGR6aXCsfLC5QhwwxDN4bikrvN6XBP33chrNz; SameSite=Lax; path=/; expires=Fri, 14-Feb-20 03:56:28 GMT; HttpOnly
+Server: cloudflare
+CF-RAY: 563364a80863a63d-IND
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+k; report=/xss-report?source%5Baction%5D=index&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=251ce736-3b0c-455b-9dae-1afac4852407
+X-Dc: gcp-us-east1,gcp-us-central1,gcp-us-central1
+NEL: {"report_to":"network-errors","max_age":2592000,"failure_fraction":0.01,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifycloud.com/v1/reports/nel/20190325/shopify"}]}
+X-Request-ID: 251ce736-3b0c-455b-9dae-1afac4852407
+NEL: {"report_to":"network-errors","max_age":2592000,"failure_fraction":0.01,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifycloud.com/v1/reports/nel/20190325/shopify"}]}
+CF-Cache-Status: DYNAMIC
+Alt-Svc: h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Server: cloudflare
+CF-RAY: 563364509b3ba613-IND
+
+58
+<html><body>You are being <a href="https://colourpop.com/">redirected</a>.</body></html>
+0
+

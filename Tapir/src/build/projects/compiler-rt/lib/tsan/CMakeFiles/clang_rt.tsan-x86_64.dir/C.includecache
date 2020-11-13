@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../projects/compiler-rt/lib/tsan/../sanitizer_common/sanitizer_asm.h
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/tsan/rtl/tsan_rtl_amd64.S
+sanitizer_common/sanitizer_asm.h
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/tsan/rtl/sanitizer_common/sanitizer_asm.h
+

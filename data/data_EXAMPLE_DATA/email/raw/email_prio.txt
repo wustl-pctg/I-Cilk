@@ -1,0 +1,60 @@
+ L 500, rho 2, util 0.9, Clients 90, Messages 270000, CompPeriod 250000, CompChunk 10
+Using dedicated core IO mode!
+Offset: 40
+9001
+Highest prio level: 5
+Max messages in mailbox: 1273
+Avg messages in mailbox: 1201.577778
+comp (raw), 43478.2, 2.55514e+06, 5021.57, 66095.7, 152.021, 25581.9, 100227, 134876, 219591
+comp (us/byte), 0.530739, 31.1906, 0.0612984, 0.806833, 152.021, 0.312279, 1.22347, 1.64643, 2.68056
+Total Execution Time: 23.137044
+Missed compression periods: 5651
+Total compression periods hit: 2672
+Avg Util: 16.1997
+Max Util: 20
+Avg L(us): 1348.68
+ L 500, rho 2, util 0.9, Clients 120, Messages 270000, CompPeriod 250000, CompChunk 10
+Using dedicated core IO mode!
+Offset: 40
+9002
+Highest prio level: 5
+Max messages in mailbox: 988
+Avg messages in mailbox: 899.533333
+comp (raw), 46380.6, 4.07553e+06, 4970.72, 91048.3, 196.307, 25447.8, 104569, 135389, 326926
+comp (us/byte), 0.566169, 49.7501, 0.0606777, 1.11143, 196.307, 0.310642, 1.27648, 1.6527, 3.9908
+Total Execution Time: 21.365583
+Missed compression periods: 7181
+Total compression periods hit: 3324
+Avg Util: 15.8495
+Max Util: 20
+Avg L(us): 1343.33
+ L 500, rho 2, util 0.9, Clients 150, Messages 270000, CompPeriod 250000, CompChunk 10
+Using dedicated core IO mode!
+Offset: 40
+9003
+Highest prio level: 5
+Max messages in mailbox: 799
+Avg messages in mailbox: 719.586667
+comp (raw), 47588.2, 3.1579e+06, 4977.59, 97258.9, 204.376, 22866.3, 105245, 137320, 363768
+comp (us/byte), 0.580911, 38.5485, 0.0607616, 1.18724, 204.376, 0.27913, 1.28473, 1.67627, 4.44053
+Total Execution Time: 20.047234
+Missed compression periods: 8122
+Total compression periods hit: 4262
+Avg Util: 15.1583
+Max Util: 20
+Avg L(us): 1345.27
+ L 500, rho 2, util 0.9, Clients 180, Messages 270000, CompPeriod 250000, CompChunk 10
+Using dedicated core IO mode!
+Offset: 40
+9004
+Highest prio level: 5
+Max messages in mailbox: 667
+Avg messages in mailbox: 599.850000
+comp (raw), 41773.8, 3.60974e+06, 4984.38, 85999.2, 205.869, 22459.4, 90153.1, 120371, 244382
+comp (us/byte), 0.509934, 44.0642, 0.0608444, 1.04979, 205.869, 0.274163, 1.1005, 1.46938, 2.98318
+Total Execution Time: 16.410446
+Missed compression periods: 7282
+Total compression periods hit: 3550
+Avg Util: 14.2933
+Max Util: 20
+Avg L(us): 1340.76

@@ -1,0 +1,13 @@
+HTTP/1.0 301 Moved Permanently
+Server: nginx
+Content-Type: text/html
+Location: https://www.seattletimes.com/
+Content-Encoding: gzip
+X-Varnish: 70618757
+Content-Length: 131
+Cache-Control: max-age=31
+Date: Tue, 11 Feb 2020 04:12:23 GMT
+Connection: close
+Set-Cookie: iss00=0; expires=Tue, 11-Feb-2020 04:32:23 GMT; path=/; domain=.seattletimes.com
+
+‹

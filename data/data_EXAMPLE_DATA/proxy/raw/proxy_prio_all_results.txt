@@ -1,0 +1,44 @@
+./drivercode/con --trace drivercode/run_sites/disk_source.txt --sites 4096 --requests 1500 --port 6005 -t 90 --seed 90 --prefetch --nworkers 20 --nexts 40 --ondisk --rnum 0 
+./proxy-prio --seed 90 --test --port 6005 --cons 90 --bgsec 10000000 --rnum 0 --quantlen 500 --cilkrho 2 --cilkutil .9 items,time(us)
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Response Time (avg of 134910), 248.062, 619774, 4.374, 5141.06, 2072.49, 16.676, 563.536, 580.565, 608.209
+Hit Timing (avg of 130904), 464.868, 619841, 16.467, 5217.62, 1122.39, 496.313, 1069.83, 1122.46, 1170.88
+Miss Timing (avg of 4006), 37345.1, 92002.5, 66.888, 21328.3, 57.1113, 39098.9, 59590.5, 68361.9, 68649
+Hit Timing (avg of 130904) [NORMALIZED], 19.3695, 25826.7, 0.686125, 217.401, 1122.39, 20.6797, 44.5762, 46.7691, 48.7865
+Miss Timing (avg of 4006) [NORMALIZED], 3.53981, 184.61, 0.000108928, 15.9702, 451.16, 0.078221, 1.13134, 20.5947, 89.0959
+Stat Timing (avg of 934), 387.944, 1366.33, 19.292, 426.694, 109.989, 31.985, 938.383, 959.782, 1004.73
+Stat Timing (avg of 934) [NORMALIZED], 0.130461, 4.63611, 0, 0.210225, 161.14, 0, 0.320445, 0.374063, 0.471355
+
+./drivercode/con --trace drivercode/run_sites/disk_source.txt --sites 4096 --requests 1500 --port 6005 -t 120 --seed 90 --prefetch --nworkers 20 --nexts 40 --ondisk --rnum 1 
+./proxy-prio --seed 90 --test --port 6005 --cons 120 --bgsec 10000000 --rnum 1 --quantlen 500 --cilkrho 2 --cilkutil .9 items,time(us)
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Response Time (avg of 179880), 296.781, 921126, 4.157, 3281.84, 1105.81, 15.582, 827.627, 848.465, 883.43
+Hit Timing (avg of 175904), 626.754, 921145, 16.695, 3335.21, 532.141, 738.666, 1588.98, 1653.62, 1708.91
+Miss Timing (avg of 3976), 38236.9, 83670.2, 69.504, 21240, 55.5484, 40268.9, 60411.5, 68373.8, 74472.3
+Hit Timing (avg of 175904) [NORMALIZED], 26.1147, 38381.1, 0.695625, 138.967, 532.141, 30.7778, 66.2075, 68.9007, 71.2046
+Miss Timing (avg of 3976) [NORMALIZED], 3.62786, 184.582, 8.554e-05, 16.4351, 453.025, 0.078257, 0.987248, 20.1772, 77.7447
+Stat Timing (avg of 918), 384.371, 1711.01, 19.338, 431.7, 112.313, 31.587, 939.634, 965.344, 1061.47
+Stat Timing (avg of 918) [NORMALIZED], 0.128959, 3.99506, 0, 0.194868, 151.108, 0, 0.328061, 0.383701, 0.460909
+
+./drivercode/con --trace drivercode/run_sites/disk_source.txt --sites 4096 --requests 1500 --port 6005 -t 150 --seed 90 --prefetch --nworkers 20 --nexts 40 --ondisk --rnum 2 
+./proxy-prio --seed 90 --test --port 6005 --cons 150 --bgsec 10000000 --rnum 2 --quantlen 500 --cilkrho 2 --cilkutil .9 items,time(us)
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Response Time (avg of 224850), 424.88, 497873, 4.292, 10128.5, 2383.85, 15.401, 713.246, 735.237, 769.548
+Hit Timing (avg of 220904), 694.055, 498384, 14.384, 10234.9, 1474.66, 347.943, 1239.18, 1427.2, 1488.87
+Miss Timing (avg of 3946), 37285.7, 69424.6, 67.134, 20829.2, 55.8637, 39618.9, 59589.3, 68366.9, 68435.5
+Hit Timing (avg of 220904) [NORMALIZED], 28.919, 20766, 0.599333, 426.455, 1474.66, 14.4976, 51.6324, 59.4666, 62.0362
+Miss Timing (avg of 3946) [NORMALIZED], 3.32022, 213.656, 8.12328e-05, 16.3113, 491.271, 0.0782335, 0.987078, 10.46, 77.1791
+Stat Timing (avg of 928), 388.766, 1256.42, 19.206, 430.1, 110.632, 31.743, 948.267, 968.578, 1043.48
+Stat Timing (avg of 928) [NORMALIZED], 0.127561, 2.34563, 0, 0.163561, 128.221, 0, 0.317908, 0.380722, 0.460697
+
+./drivercode/con --trace drivercode/run_sites/disk_source.txt --sites 4096 --requests 1500 --port 6005 -t 180 --seed 90 --prefetch --nworkers 20 --nexts 40 --ondisk --rnum 3 
+./proxy-prio --seed 90 --test --port 6005 --cons 180 --bgsec 10000000 --rnum 3 --quantlen 500 --cilkrho 2 --cilkutil .9 items,time(us)
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Response Time (avg of 269820), 461.265, 662733, 4.209, 12383.4, 2684.66, 15.549, 709.167, 732.158, 766.87
+Hit Timing (avg of 265904), 744.376, 663227, 15.472, 12480.3, 1676.62, 546.58, 1091.88, 1420.16, 1483.9
+Miss Timing (avg of 3916), 37435.1, 68733.4, 62.695, 20838.8, 55.6665, 40007.9, 59587.1, 68365.3, 68437.8
+Hit Timing (avg of 265904) [NORMALIZED], 31.0157, 27634.5, 0.644667, 520.014, 1676.62, 22.7742, 45.4951, 59.1734, 61.8292
+Miss Timing (avg of 3916) [NORMALIZED], 3.61838, 242.181, 8.56327e-05, 16.8399, 465.398, 0.0782331, 0.987867, 18.8198, 89.4223
+Stat Timing (avg of 1032), 376.401, 15668.8, 19.286, 644.581, 171.248, 31.252, 976.309, 1020.15, 1059.18
+Stat Timing (avg of 1032) [NORMALIZED], 0.123261, 4.745, 0, 0.235023, 190.672, 0, 0.317272, 0.376593, 0.460408
+

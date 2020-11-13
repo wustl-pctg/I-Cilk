@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Tue, 11 Feb 2020 03:12:42 GMT
+Content-Type: text/html
+Content-Length: 1023
+Last-Modified: Tue, 08 Jan 2019 14:40:04 GMT
+Connection: close
+Vary: Accept-Encoding
+ETag: "5c34b644-3ff"
+Expires: Wed, 12 Feb 2020 03:12:42 GMT
+Cache-Control: max-age=86400
+Accept-Ranges: bytes
+
+‰PNG
+

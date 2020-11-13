@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 11 Feb 2020 03:16:16 GMT
+Content-Type: text/html
+Content-Length: 178
+Connection: close
+Location: https://www.imooc.com
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+0 03:21:14 GMT; path=/; domain=.cbsnews.com
+Set-Cookie: fly_geo={"countryCode": "US","dma": "609", "connection": { "type": "broadband"}}; expires=Tue, 11 Feb 2020 03:21:14 GMT; path=/; domain=.cbsnews.com
+Set-Cookie: CBS_INTERNAL=0; expires=Tue, 11 Feb 2020 03:21:14 GMT; path=/; domain=.cbsnews.com
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+kZ7w+p7hPPQpgima7~-1~-1~-1; Domain=.usbank.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:10 GMT; Max-Age=31536000
+

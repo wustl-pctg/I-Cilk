@@ -1,0 +1,813 @@
+cilk-priority.lo: runtime/cilk-priority.cpp runtime/priority.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/inttypes.h \
+  /usr/include/inttypes.h /usr/include/features.h \
+  /usr/include/stdc-predef.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdint.h \
+  /usr/include/stdint.h /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/algorithm \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/utility \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/c++config.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/os_defines.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/cpu_defines.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_relops.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_pair.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/move.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/concept_check.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/type_traits \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/initializer_list \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_algobase.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/functexcept.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/exception_defines.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/cpp_type_traits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/type_traits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/numeric_traits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_iterator_base_types.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_iterator_base_funcs.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/debug/debug.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_iterator.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/ptr_traits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/predefined_ops.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_algo.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cstdlib \
+  /usr/include/stdlib.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stddef.h \
+  /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h /usr/include/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap-16.h \
+  /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/sys/types.h \
+  /usr/include/time.h /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/sigset.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/alloca.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/algorithmfwd.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_heap.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_tempbuf.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_construct.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/new \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/exception \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/atomic_lockfree_defines.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/exception_ptr.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/nested_exception.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/alloc_traits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/alloc_traits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/memoryfwd.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/random \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cmath \
+  /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+  /usr/include/x86_64-linux-gnu/bits/huge_val.h \
+  /usr/include/x86_64-linux-gnu/bits/huge_valf.h \
+  /usr/include/x86_64-linux-gnu/bits/huge_vall.h \
+  /usr/include/x86_64-linux-gnu/bits/inf.h \
+  /usr/include/x86_64-linux-gnu/bits/nan.h \
+  /usr/include/x86_64-linux-gnu/bits/mathdef.h \
+  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/string \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stringfwd.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/char_traits.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/postypes.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cwchar \
+  /usr/include/wchar.h /usr/include/stdio.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdarg.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cstdint \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/allocator.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/c++allocator.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/new_allocator.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/localefwd.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/c++locale.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/clocale \
+  /usr/include/locale.h /usr/include/x86_64-linux-gnu/bits/locale.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/iosfwd \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cctype \
+  /usr/include/ctype.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/ostream_insert.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/cxxabi_forced.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_function.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward/binders.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/range_access.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/basic_string.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/atomicity.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/gthr.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/gthr-default.h \
+  /usr/include/pthread.h /usr/include/sched.h \
+  /usr/include/x86_64-linux-gnu/bits/sched.h \
+  /usr/include/x86_64-linux-gnu/bits/timex.h \
+  /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/atomic_word.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/string_conversions.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cstdio \
+  /usr/include/libio.h /usr/include/_G_config.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cerrno \
+  /usr/include/errno.h /usr/include/x86_64-linux-gnu/bits/errno.h \
+  /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/functional_hash.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/hash_bytes.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/basic_string.tcc \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/limits \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/random.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/vector \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_uninitialized.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_vector.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_bvector.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/vector.tcc \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/uniform_int_dist.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/opt_random.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/x86intrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/ia32intrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/immintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/mmintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xmmintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/mm_malloc.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/emmintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/f16cintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/pmmintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/tmmintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/smmintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/wmmintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/__wmmintrin_aes.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/__wmmintrin_pclmul.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/clflushoptintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avxintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx2intrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/bmiintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/bmi2intrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/lzcntintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/fmaintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512fintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vlintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512bwintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512cdintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vpopcntdqintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512dqintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vlbwintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vlcdintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vldqintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512erintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512ifmaintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512ifmavlintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vbmiintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vbmivlintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512pfintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/pkuintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/rtmintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xtestintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/shaintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/fxsrintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xsaveintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xsaveoptintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xsavecintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xsavesintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/adxintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/mm3dnow.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/prfchwintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/popcntintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/rdseedintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/ammintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/fma4intrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xopintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/tbmintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/lwpintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/mwaitxintrin.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/clzerointrin.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/random.tcc \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/numeric \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_numeric.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/thread \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/chrono \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ratio \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ctime \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/parse_numbers.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/functional \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/typeinfo \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/tuple \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/array \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/stdexcept \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/uses_allocator.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/memory \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_raw_storage_iter.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/concurrence.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/unique_ptr.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/shared_ptr.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/shared_ptr_base.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/allocated_ptr.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/aligned_buffer.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/shared_ptr_atomic.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/atomic_base.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward/auto_ptr.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cstring \
+  /usr/include/string.h include/cilk/cilk_priority.h \
+  /usr/include/assert.h include/cilk/sync_handle.h \
+  include/cilk/handcomp-macros.h include/internal/abi.h \
+  include/cilk/common.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cassert \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/__stddef_max_align_t.h \
+  include/cilk/future.h include/internal/future_base.h \
+  include/cilk/cilk_io.h /usr/include/x86_64-linux-gnu/sys/socket.h \
+  /usr/include/x86_64-linux-gnu/sys/uio.h \
+  /usr/include/x86_64-linux-gnu/bits/uio.h \
+  /usr/include/x86_64-linux-gnu/bits/socket.h \
+  /usr/include/x86_64-linux-gnu/bits/socket_type.h \
+  /usr/include/x86_64-linux-gnu/bits/sockaddr.h \
+  /usr/include/x86_64-linux-gnu/asm/socket.h \
+  /usr/include/asm-generic/socket.h \
+  /usr/include/x86_64-linux-gnu/asm/sockios.h \
+  /usr/include/asm-generic/sockios.h runtime/global_state.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdbool.h \
+  runtime/frame_malloc.h runtime/worker_mutex.h runtime/rts-common.h \
+  /usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cstddef \
+  runtime/stats.h runtime/bug.h runtime/cilk_fiber.h \
+  runtime/cilk-tbb-interop.h runtime/spin_mutex.h runtime/cilk_malloc.h \
+  runtime/cilk_fiber_pool.h runtime/full_frame.h runtime/local_state.h \
+  runtime/record-replay.h runtime/signal_node.h runtime/c_deque.h \
+  runtime/pedigrees.h runtime/os.h runtime/cilk_str_mem.h \
+  runtime/sslib/safe_lib.h runtime/sslib/safe_types.h \
+  runtime/sslib/safe_lib_errno.h runtime/sslib/safe_str_lib.h \
+  runtime/sslib/snprintf_s.h runtime/config/x86/os-fence.h \
+  runtime/deque_pool.h runtime/idle_stats.h /usr/include/setjmp.h \
+  runtime/cilk-io-queue.h runtime/cilk-io-op.h runtime/scheduler.h \
+  runtime/reducer_impl.h
+
+runtime/priority.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/inttypes.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/algorithm:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/utility:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/c++config.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/os_defines.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/cpu_defines.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_relops.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_pair.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/move.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/concept_check.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/type_traits:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/initializer_list:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_algobase.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/functexcept.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/exception_defines.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/cpp_type_traits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/type_traits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/numeric_traits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_iterator_base_types.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_iterator_base_funcs.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/debug/debug.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_iterator.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/ptr_traits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/predefined_ops.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_algo.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cstdlib:
+
+/usr/include/stdlib.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stddef.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigset.h:
+
+/usr/include/x86_64-linux-gnu/bits/time.h:
+
+/usr/include/x86_64-linux-gnu/sys/sysmacros.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/algorithmfwd.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_heap.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_tempbuf.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_construct.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/new:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/exception:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/atomic_lockfree_defines.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/exception_ptr.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/nested_exception.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/alloc_traits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/alloc_traits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/memoryfwd.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/random:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cmath:
+
+/usr/include/math.h:
+
+/usr/include/x86_64-linux-gnu/bits/math-vector.h:
+
+/usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_val.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_valf.h:
+
+/usr/include/x86_64-linux-gnu/bits/huge_vall.h:
+
+/usr/include/x86_64-linux-gnu/bits/inf.h:
+
+/usr/include/x86_64-linux-gnu/bits/nan.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathdef.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathinline.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/string:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stringfwd.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/char_traits.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/postypes.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cwchar:
+
+/usr/include/wchar.h:
+
+/usr/include/stdio.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdarg.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cstdint:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/allocator.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/c++allocator.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/new_allocator.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/localefwd.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/c++locale.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/clocale:
+
+/usr/include/locale.h:
+
+/usr/include/x86_64-linux-gnu/bits/locale.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/iosfwd:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cctype:
+
+/usr/include/ctype.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/ostream_insert.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/cxxabi_forced.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_function.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward/binders.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/range_access.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/basic_string.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/atomicity.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/gthr.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/gthr-default.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/x86_64-linux-gnu/bits/sched.h:
+
+/usr/include/x86_64-linux-gnu/bits/timex.h:
+
+/usr/include/x86_64-linux-gnu/bits/setjmp.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/atomic_word.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/string_conversions.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cstdio:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cerrno:
+
+/usr/include/errno.h:
+
+/usr/include/x86_64-linux-gnu/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/x86_64-linux-gnu/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/functional_hash.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/hash_bytes.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/basic_string.tcc:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/limits:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/random.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/vector:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_uninitialized.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_vector.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_bvector.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/vector.tcc:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/uniform_int_dist.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/x86_64-linux-gnu/c++/5.4.0/bits/opt_random.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/x86intrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/ia32intrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/immintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/mmintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xmmintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/mm_malloc.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/emmintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/f16cintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/pmmintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/tmmintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/smmintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/wmmintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/__wmmintrin_aes.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/__wmmintrin_pclmul.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/clflushoptintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avxintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx2intrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/bmiintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/bmi2intrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/lzcntintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/fmaintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512fintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vlintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512bwintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512cdintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vpopcntdqintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512dqintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vlbwintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vlcdintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vldqintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512erintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512ifmaintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512ifmavlintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vbmiintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512vbmivlintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/avx512pfintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/pkuintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/rtmintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xtestintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/shaintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/fxsrintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xsaveintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xsaveoptintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xsavecintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xsavesintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/adxintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/mm3dnow.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/prfchwintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/popcntintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/rdseedintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/ammintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/fma4intrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/xopintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/tbmintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/lwpintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/mwaitxintrin.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/clzerointrin.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/random.tcc:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/numeric:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_numeric.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/thread:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/chrono:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ratio:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ctime:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/parse_numbers.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/functional:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/typeinfo:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/tuple:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/array:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/stdexcept:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/uses_allocator.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/memory:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/stl_raw_storage_iter.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/concurrence.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/unique_ptr.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/shared_ptr.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/shared_ptr_base.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/allocated_ptr.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/ext/aligned_buffer.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/shared_ptr_atomic.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/bits/atomic_base.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/backward/auto_ptr.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cstring:
+
+/usr/include/string.h:
+
+include/cilk/cilk_priority.h:
+
+/usr/include/assert.h:
+
+include/cilk/sync_handle.h:
+
+include/cilk/handcomp-macros.h:
+
+include/internal/abi.h:
+
+include/cilk/common.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cassert:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/__stddef_max_align_t.h:
+
+include/cilk/future.h:
+
+include/internal/future_base.h:
+
+include/cilk/cilk_io.h:
+
+/usr/include/x86_64-linux-gnu/sys/socket.h:
+
+/usr/include/x86_64-linux-gnu/sys/uio.h:
+
+/usr/include/x86_64-linux-gnu/bits/uio.h:
+
+/usr/include/x86_64-linux-gnu/bits/socket.h:
+
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:
+
+/usr/include/x86_64-linux-gnu/bits/sockaddr.h:
+
+/usr/include/x86_64-linux-gnu/asm/socket.h:
+
+/usr/include/asm-generic/socket.h:
+
+/usr/include/x86_64-linux-gnu/asm/sockios.h:
+
+/usr/include/asm-generic/sockios.h:
+
+runtime/global_state.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdbool.h:
+
+runtime/frame_malloc.h:
+
+runtime/worker_mutex.h:
+
+runtime/rts-common.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5.4.0/../../../../include/c++/5.4.0/cstddef:
+
+runtime/stats.h:
+
+runtime/bug.h:
+
+runtime/cilk_fiber.h:
+
+runtime/cilk-tbb-interop.h:
+
+runtime/spin_mutex.h:
+
+runtime/cilk_malloc.h:
+
+runtime/cilk_fiber_pool.h:
+
+runtime/full_frame.h:
+
+runtime/local_state.h:
+
+runtime/record-replay.h:
+
+runtime/signal_node.h:
+
+runtime/c_deque.h:
+
+runtime/pedigrees.h:
+
+runtime/os.h:
+
+runtime/cilk_str_mem.h:
+
+runtime/sslib/safe_lib.h:
+
+runtime/sslib/safe_types.h:
+
+runtime/sslib/safe_lib_errno.h:
+
+runtime/sslib/safe_str_lib.h:
+
+runtime/sslib/snprintf_s.h:
+
+runtime/config/x86/os-fence.h:
+
+runtime/deque_pool.h:
+
+runtime/idle_stats.h:
+
+/usr/include/setjmp.h:
+
+runtime/cilk-io-queue.h:
+
+runtime/cilk-io-op.h:
+
+runtime/scheduler.h:
+
+runtime/reducer_impl.h:

@@ -1,0 +1,16 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:56:28 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 229
+Connection: close
+Server: Apache
+Location: https://coinmill.com/
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://coinmill.com/">here</a>.</p>
+</body></html>
+?ö®¶¶íwˆã8zVÆ+M®ĞÜ1a!<ÂvYğt®ä|İy[İÍ

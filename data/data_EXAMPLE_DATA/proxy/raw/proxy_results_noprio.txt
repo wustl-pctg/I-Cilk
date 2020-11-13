@@ -1,0 +1,36 @@
+Using dedicated core IO mode!
+Offset: 40
+----------------------------------------------------
+Run: 0
+./proxy-noprio --seed 90 --test --port 6005 --cons 90 --bgsec 10000000 --rnum 0 items,time(us)
+
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Stat Timing (avg of %d), 363.556, 1150.03, 19.022, 374.039, 102.884, 79.581, 817.432, 833.81, 933.689
+Stat Timing (avg of %d) [NORMALIZED], 0.144094, 5.2608, 0, 0.213281, 148.015, 0.151325, 0.33574, 0.389122, 0.45804
+Using dedicated core IO mode!
+Offset: 40
+----------------------------------------------------
+Run: 1
+./proxy-noprio --seed 90 --test --port 6005 --cons 120 --bgsec 10000000 --rnum 1 items,time(us)
+
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Stat Timing (avg of %d), 364.053, 1568.43, 19.088, 378.488, 103.965, 84.451, 829.918, 860.962, 978.761
+Stat Timing (avg of %d) [NORMALIZED], 0.184343, 38.367, 0, 1.19959, 650.735, 0.155482, 0.33964, 0.392922, 0.463917
+Using dedicated core IO mode!
+Offset: 40
+----------------------------------------------------
+Run: 2
+./proxy-noprio --seed 90 --test --port 6005 --cons 150 --bgsec 10000000 --rnum 2 items,time(us)
+
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Stat Timing (avg of %d), 337.224, 1404.06, 19.041, 370.477, 109.861, 56.863, 816.016, 840.326, 927.748
+Stat Timing (avg of %d) [NORMALIZED], 0.152616, 10.203, 0, 0.399479, 261.755, 0.10681, 0.338847, 0.393674, 0.474552
+Using dedicated core IO mode!
+Offset: 40
+----------------------------------------------------
+Run: 3
+./proxy-noprio --seed 90 --test --port 6005 --cons 180 --bgsec 10000000 --rnum 3 items,time(us)
+
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Stat Timing (avg of %d), 307.943, 3293.85, 18.973, 378.796, 123.008, 31.14, 819.142, 842.697, 974.788
+Stat Timing (avg of %d) [NORMALIZED], 0.135049, 11.2225, 0, 0.367938, 272.448, 0, 0.341476, 0.389171, 0.46163

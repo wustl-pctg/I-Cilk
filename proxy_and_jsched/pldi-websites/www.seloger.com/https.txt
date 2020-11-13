@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 11 Feb 2020 03:56:23 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: close
+Location: https://www.seloger.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 8356c9c8ab28073f0e8c2a1f82938c22.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD52-C2
+X-Amz-Cf-Id: YCD04lwovksXkdDyrBv1Yl3POapnIJgujgFCaXfL0zwVkxFazmkRhw==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>
+n%5D=index&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=251ce736-3b0c-455b-9dae-1afac4852407
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=index&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=251ce736-3b0c-455b-9dae-1afac4852407
+X-Dc: gcp-us-east1,gcp-us-central1,gcp-us-central1
+NEL: {"report_to":"network-errors","max_age":2592000,"failure_fraction":0.01,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifycloud.com/v1/reports/nel/20190325/shopify"}]}
+X-Request-ID: 251ce736-3b0c-455b-9dae-1afac4852407
+NEL: {"report_to":"network-errors","max_age":2592000,"failure_fraction":0.01,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifycloud.com/v1/reports/nel/20190325/shopify"}]}
+CF-Cache-Status: DYNAMIC
+Alt-Svc: h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Server: cloudflare
+CF-RAY: 563364509b3ba613-IND
+
+58
+<html><body>You are being <a href="https://colourpop.com/">redirected</a>.</body></html>
+0
+

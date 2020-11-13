@@ -1,0 +1,20 @@
+HTTP/1.1 403 Forbidden
+Date: Tue, 11 Feb 2020 03:22:37 GMT
+Content-Type: text/html;charset=utf-8
+Connection: close
+Set-Cookie: __cfduid=d56ad1726e0a0b1aabd2e4273ffa890891581391356; expires=Thu, 12-Mar-20 03:22:36 GMT; path=/; domain=.brainly.com; HttpOnly; SameSite=Lax
+CF-Ray: 5633330d1b94a62b-IND
+Cache-Control: max-age=0, private, no-cache, no-store, must-revalidate
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: datadome=VV6OxbuA4pq6wY80K68w3tpW2vlPgHqX-I4B8l.fVdSgyD5w5JC509oJbiBVQZ4GaxwXANhHiMMSVUYStSCuVs.RmoA11SN6Ot0ykok_Iz; Path=/; Domain=.brainly.com; Expires=Wed, 10-Feb-2021 03:22:37 GMT; Max-Age=31536000; SameSite=Lax
+CF-Cache-Status: DYNAMIC
+Charset: utf-8
+Pragma: no-cache
+X-DataDome: protected
+X-DataDome-CID: AHrlqAAAAAMAckYGiIqMCxEAgPzLCA==
+X-DataDome-headers: X-DataDome Content-Type Charset Cache-Control Pragma X-DataDome-CID Set-Cookie
+X-DataDomeResponse: 403
+Server: cloudflare
+
+
+<html><head><title>You have been blocked</title><script src="/cdn-cgi/apps/head/kxuLVt4gdHeAk4_lPuAzL-UHGI4.js"></script><style>#cmsg{animation: A 1.5s;}@keyframes A{0%{opacity:0;}99%{opacity:0;}100%{opacity:1;}}</style></head><body style="margin:0"><p id="cmsg">Please enable JS and disable any ad blocker</p><script>var dd={'cid':'AHrlqAAAAAMAckYGiIqMCxEAgPzLCA==','hsh':'46A80E32CDDCFB70225B9AE3E850D5','t':'fe','host':'c.captcha-delivery.com'}</script><script src="https://ct.captcha-delivery.com/c.js"></script></body></html>

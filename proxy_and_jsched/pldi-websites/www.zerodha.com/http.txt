@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:03:59 GMT
+Content-Type: text/html
+Connection: close
+Set-Cookie: __cfduid=d1479483fa0c27d9a4cf790f9eedcb3591581390239; expires=Thu, 12-Mar-20 03:03:59 GMT; path=/; domain=.zerodha.com; HttpOnly; SameSite=Lax
+Location: https://zerodha.com/
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 563317c31a77a613-IND
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+±ñùı#3

@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:56:16 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d98922b03d830478600e2168f284a7b5a1581393375; expires=Thu, 12-Mar-20 03:56:15 GMT; path=/; domain=.minijuegos.com; HttpOnly; SameSite=Lax
+Location: https://www.minijuegos.com/
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 56336457a860a63d-IND
+
+0
+
+ion: https://colourpop.com/
+X-Shopify-Stage: production
+Content-Security-Policy: frame-ancestors *; report-uri /csp-report?source%5Baction%5D=index&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=251ce736-3b0c-455b-9dae-1afac4852407
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=index&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=251ce736-3b0c-455b-9dae-1afac4852407
+X-Dc: gcp-us-east1,gcp-us-central1,gcp-us-central1
+NEL: {"report_to":"network-errors","max_age":2592000,"failure_fraction":0.01,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifycloud.com/v1/reports/nel/20190325/shopify"}]}
+X-Request-ID: 251ce736-3b0c-455b-9dae-1afac4852407
+NEL: {"report_to":"network-errors","max_age":2592000,"failure_fraction":0.01,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifycloud.com/v1/reports/nel/20190325/shopify"}]}
+CF-Cache-Status: DYNAMIC
+Alt-Svc: h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Server: cloudflare
+CF-RAY: 563364509b3ba613-IND
+
+58
+<html><body>You are being <a href="https://colourpop.com/">redirected</a>.</body></html>
+0
+

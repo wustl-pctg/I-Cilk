@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libPollyPPCG.a  CMakeFiles/PollyPPCG.dir/ppcg/cuda.c.o CMakeFiles/PollyPPCG.dir/ppcg/cuda_common.c.o CMakeFiles/PollyPPCG.dir/ppcg/gpu_array_tile.c.o CMakeFiles/PollyPPCG.dir/ppcg/gpu.c.o CMakeFiles/PollyPPCG.dir/ppcg/gpu_group.c.o CMakeFiles/PollyPPCG.dir/ppcg/gpu_print.c.o CMakeFiles/PollyPPCG.dir/ppcg/gpu_tree.c.o CMakeFiles/PollyPPCG.dir/ppcg/ppcg.c.o CMakeFiles/PollyPPCG.dir/ppcg/ppcg_options.c.o CMakeFiles/PollyPPCG.dir/ppcg/schedule.c.o CMakeFiles/PollyPPCG.dir/ppcg/external.c.o
+/usr/bin/ranlib ../../../../lib/libPollyPPCG.a

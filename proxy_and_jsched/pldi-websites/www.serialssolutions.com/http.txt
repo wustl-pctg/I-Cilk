@@ -1,0 +1,17 @@
+HTTP/1.0 301 Moved Permanently
+Server: Apache
+Last-Modified: Tue, 11 Feb 2020 04:12:53 GMT
+Location: http://www.proquest.com/
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Server-Name: az-cmlive26
+Content-Type: text/plain; charset=UTF-8
+Content-Length: 26
+Cache-Control: no-cache, no-store
+Date: Tue, 11 Feb 2020 04:12:53 GMT
+Connection: close
+Set-Cookie: click_mobile=0; Domain=www.serialssolutions.com; Expires=Wed, 12-Feb-2020 04:12:53 GMT; Path=/
+Set-Cookie: f5avrbbbbbbbbbbbbbbbb=MFGBKCAKAMHKEOBHFKPCEIEBILBGGGOPFDJMHPGCOCOKNFLILMHILCJNPHNICHAPGNIGJIBJAIEDHEAMBBCCDGELBFDAMAIHKJKAIEDJAPBOFMKOHCECNLBHBCLDKLOD; HttpOnly; secure
+Set-Cookie: f5avrbbbbbbbbbbbbbbbb=EMGCNPECJMBKENBPKNECGHKIJCPLBLGFPHHGOCJEHFLMNGOGJINNIAOOIOPCNEILIDJBFNCONDODBJNAEDOHBIPKIONAKMCEKJFBGKBAFOLCEJOKHCFIPCINOLLMAEDI; HttpOnly; secure
+
+‹

@@ -1,0 +1,1871 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:58:19 GMT
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: max-age=3600
+Expires: Tue, 11 Feb 2020 04:58:19 GMT
+Location: https://www.timesofmalta.com/
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 5633675cac4fa61f-IND
+
+0
+
+_235503-1413
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+v3m.html");
+	} else {
+		jump("/cn/home/indexv3.html");
+	}
+	function jump(url) {
+		if (top.location != self.location) {
+			top.location = url
+		} else {
+			self.location = url
+		}
+	}
+
+</script>ns-serif; height:100%; background-color: #fff;">
+<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
+        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">301</h1>
+<h2 style="margin-top:20px;font-size: 30px;">Moved Permanently
+</h2>
+<p>The document has been permanently moved.</p>
+</div></div></body></html>
+
+0
+
+p-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="lp-version" content="v6.7.128">
+      <!--2713aec2-10c6-47f1-8d30-0c5e5ad480fa a-->
+<title>Any Search Manager</title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style title="page-styles" type="text/css" data-page-type="main_desktop">
+body { color:#9B9B9B; }
+a {
+  color:#4A90E2;
+  text-decoration:none;
+}
+#lp-pom-image-21-holder {
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/3762bb1a-map-icon_02a02t02902s000000.png);
+  position:absolute;
+  left:-1000000;
+  visibility:none;
+}
+#lp-pom-image-22-holder {
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/8ad20b52-settings-icon.png);
+  position:absolute;
+  left:-1000000;
+  visibility:none;
+}
+#lp-pom-image-23-holder {
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/vo6llx-dulce-computer-icon_02m02202m022000000.png);
+  position:absolute;
+  left:-1000000;
+  visibility:none;
+}
+#lp-pom-image-182-holder {
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/6864b9ae-laptop-transparent_0ef08r0ef08r000000.png);
+  position:absolute;
+  left:-1000000;
+  visibility:none;
+}
+#lp-pom-image-193-holder {
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/9d0d6ab4-icon512_09u09u09u09u000000.png);
+  position:absolute;
+  left:-1000000;
+  visibility:none;
+}
+#lp-pom-image-194-holder {
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/46644586-small-white-mag.png);
+  position:absolute;
+  left:-1000000;
+  visibility:none;
+}
+#lp-pom-image-196-holder {
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/99db0e14-pop_01z01z01z01z000000.png);
+  position:absolute;
+  left:-1000000;
+  visibility:none;
+}
+#lp-pom-image-197-holder {
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/bb5c61dd-icon128_023023023023000000.png);
+  position:absolute;
+  left:-1000000;
+  visibility:none;
+}
+#lp-pom-image-203-holder {
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/b6a6063e-macintosh-hd-drive-desktop_0as06r0ar06r000000.png);
+  position:absolute;
+  left:-1000000;
+  visibility:none;
+}
+#lp-pom-image-206-holder {
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/d66d78ac-by-safe-finder.png);
+  position:absolute;
+  left:-1000000;
+  visibility:none;
+}
+#lp-pom-root {
+  display:block;
+  background:rgba(238,238,238,1);
+  -pie-background:rgba(238,238,238,1);
+  border-style:none;
+  margin:auto;
+  padding-top:0px;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  min-width:940px;
+  height:2110px;
+}
+#lp-pom-block-8 {
+  display:block;
+  background:rgba(37,37,37,1);
+  -pie-background:rgba(37,37,37,1);
+  border-style:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:0px;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:100%;
+  height:35px;
+  position:relative;
+}
+#lp-pom-text-186 {
+  display:block;
+  background:rgba(37,37,37,0);
+  -pie-background:rgba(37,37,37,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:400px;
+  top:7px;
+  z-index:25;
+  width:498px;
+  height:44px;
+  position:absolute;
+}
+#lp-pom-image-194 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  left:50px;
+  top:7px;
+  z-index:23;
+  position:absolute;
+}
+#lp-pom-block-9 {
+  display:block;
+  background:rgba(45,45,43,0.13);
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/eae6e49e-mountain-range-scaled.jpg);
+  background-repeat:no-repeat;
+  background-position:center top;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  -ms-behavior:url(//d9hhrg4mnvzow.cloudfront.net/backgroundsize.min.htc);
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/backgroundsize.min.htc);
+  border-style:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:0px;
+  border-radius:0px;
+  width:100%;
+  height:765px;
+  position:relative;
+}
+#lp-pom-text-50 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:62px;
+  top:249px;
+  z-index:18;
+  width:845px;
+  height:209px;
+  position:absolute;
+}
+#lp-pom-text-176 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:62px;
+  top:168px;
+  z-index:20;
+  width:845px;
+  height:58px;
+  position:absolute;
+}
+#lp-pom-image-193 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  left:308px;
+  top:333px;
+  z-index:22;
+  position:absolute;
+}
+#lp-pom-image-206 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  left:586px;
+  top:562px;
+  z-index:27;
+  position:absolute;
+}
+#lp-pom-block-10 {
+  display:block;
+  background:rgba(255,255,255,1);
+  -pie-background:rgba(255,255,255,1);
+  border-style:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:0px;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:100%;
+  height:45px;
+  position:relative;
+}
+#lp-pom-block-11 {
+  display:block;
+  background:rgba(255,255,255,1);
+  -pie-background:rgba(255,255,255,1);
+  border-style:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:0px;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:100%;
+  height:378px;
+  position:relative;
+}
+#lp-pom-image-182 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  left:214px;
+  top:867px;
+  z-index:21;
+  position:absolute;
+}
+#lp-pom-image-203 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background
+1c48
+:rgba(255,255,255,0);
+  left:280px;
+  top:886px;
+  z-index:26;
+  position:absolute;
+}
+#lp-pom-block-12 {
+  display:block;
+  background:rgba(255,255,255,1);
+  -pie-background:rgba(255,255,255,1);
+  border-style:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:0px;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:100%;
+  height:593px;
+  position:relative;
+}
+#lp-pom-text-30 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:320px;
+  top:1265px;
+  z-index:17;
+  width:300px;
+  height:58px;
+  position:absolute;
+}
+#lp-pom-box-85 {
+  display:block;
+  background:rgba(255,255,255,1);
+  -pie-background:rgba(255,255,255,1);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:0px;
+  top:1395px;
+  z-index:5;
+  width:368px;
+  height:134px;
+  position:absolute;
+}
+#lp-pom-text-34 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:149px;
+  top:56px;
+  z-index:7;
+  width:219px;
+  height:38px;
+  position:absolute;
+}
+#lp-pom-text-38 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:149px;
+  top:4px;
+  z-index:6;
+  width:193px;
+  height:22px;
+  position:absolute;
+}
+#lp-pom-image-196 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  left:57px;
+  top:10px;
+  z-index:8;
+  position:absolute;
+}
+#lp-pom-box-86 {
+  display:block;
+  background:rgba(255,255,255,1);
+  -pie-background:rgba(255,255,255,1);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:562px;
+  top:1400px;
+  z-index:1;
+  width:378px;
+  height:133px;
+  position:absolute;
+}
+#lp-pom-image-23 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  left:6px;
+  top:24px;
+  z-index:4;
+  position:absolute;
+}
+#lp-pom-text-35 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:129px;
+  top:51px;
+  z-index:3;
+  width:219px;
+  height:76px;
+  position:absolute;
+}
+#lp-pom-text-39 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:129px;
+  top:0px;
+  z-index:2;
+  width:227px;
+  height:22px;
+  position:absolute;
+}
+#lp-pom-box-94 {
+  display:block;
+  background:rgba(255,255,255,1);
+  -pie-background:rgba(255,255,255,1);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:0px;
+  top:1629px;
+  z-index:12;
+  width:368px;
+  height:131px;
+  position:absolute;
+}
+#lp-pom-image-22 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  left:51px;
+  top:12px;
+  z-index:15;
+  position:absolute;
+}
+#lp-pom-text-36 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:149px;
+  top:46px;
+  z-index:13;
+  width:219px;
+  height:57px;
+  position:absolute;
+}
+#lp-pom-text-40 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:149px;
+  top:0px;
+  z-index:16;
+  width:176px;
+  height:82px;
+  position:absolute;
+}
+#lp-pom-box-95 {
+  display:block;
+  background:rgba(255,255,255,1);
+  -pie-background:rgba(255,255,255,1);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:572px;
+  top:1629px;
+  z-index:10;
+  width:368px;
+  height:134px;
+  position:absolute;
+}
+#lp-pom-image-21 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  left:21px;
+  top:0px;
+  z-index:14;
+  position:absolute;
+}
+#lp-pom-text-37 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:132px;
+  top:31px;
+  z-index:11;
+  width:219px;
+  height:38px;
+  position:absolute;
+}
+#lp-pom-text-41 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:132px;
+  top:0px;
+  z-index:9;
+  width:205px;
+  height:22px;
+  position:absolute;
+}
+#lp-pom-block-164 {
+  display:block;
+  background:rgba(45,45,43,0.13);
+  background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/d167bfbd-mountain-range.jpg);
+  background-repeat:no-repeat;
+  background-position:center bottom;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  -ms-behavior:url(//d9hhrg4mnvzow.cloudfront.net/backgroundsize.min.htc);
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/backgroundsize.min.htc);
+  border-style:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:0px;
+  border-radius:0px;
+  width:100%;
+  height:222px;
+  position:relative;
+}
+#lp-pom-text-165 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  left:224px;
+  top:1879px;
+  z-index:19;
+  width:492px;
+  height:76px;
+  position:absolute;
+}
+#lp-pom-block-16 {
+  display:block;
+  background:rgba(37,37,37,1);
+  -pie-background:rgba(37,37,37,1);
+  border-style:none;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:0px;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:100%;
+  height:72px;
+  position:relative;
+}
+#lp-pom-image-197 {
+  display:block;
+  background:rgba(255,255,255,0);
+  -pie-background:rgba(255,255,255,0);
+  left:30px;
+  top:2038px;
+  z-index:24;
+  position:absolute;
+}
+#lp-pom-root .lp-positioned-content {
+  top:0px;
+  width:940px;
+  margin-left:-470px;
+}
+#lp-pom-block-8 .lp-pom-block-content {
+  margin-left:auto;
+  margin-right:auto;
+  width:940px;
+  height:35px;
+}
+#lp-pom-block-9 .lp-pom-block-content {
+  margin-left:auto;
+  margin-right:auto;
+  width:940px;
+  height:765px;
+}
+#lp-pom-block-10 .lp-pom-block-content {
+  margin-left:auto;
+  margin-right:auto;
+  width:940px;
+  height:45px;
+}
+#lp-pom-block-11 .lp-pom-block-content {
+  margin-left:auto;
+  margin-right:auto;
+  width:940px;
+  height:378px;
+}
+#lp-pom-block-12 .lp-pom-block-content {
+  margin-left:auto;
+  margin-right:auto;
+  width:940px;
+  height:593px;
+}
+#lp-pom-block-164 .lp-pom-block-content {
+  margin-left:auto;
+  margin-right:auto;
+  width:940px;
+  height:222px;
+}
+#lp-pom-block-16 .lp-pom-block-conte
+5a80
+nt {
+  margin-left:auto;
+  margin-right:auto;
+  width:940px;
+  height:72px;
+}
+#lp-pom-image-21 .lp-pom-image-container {
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:81px;
+  height:100px;
+}
+#lp-pom-image-21 .lp-pom-image-container img {
+  width:81px;
+  height:100px;
+}
+#lp-pom-image-22 .lp-pom-image-container {
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:70px;
+  height:70px;
+}
+#lp-pom-image-22 .lp-pom-image-container img {
+  width:70px;
+  height:70px;
+}
+#lp-pom-image-23 .lp-pom-image-container {
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:94px;
+  height:74px;
+}
+#lp-pom-image-23 .lp-pom-image-container img {
+  width:94px;
+  height:74px;
+}
+#lp-pom-image-182 .lp-pom-image-container {
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:519px;
+  height:315px;
+}
+#lp-pom-image-182 .lp-pom-image-container img {
+  width:519px;
+  height:315px;
+}
+#lp-pom-image-193 .lp-pom-image-container {
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:354px;
+  height:354px;
+}
+#lp-pom-image-193 .lp-pom-image-container img {
+  width:354px;
+  height:354px;
+}
+#lp-pom-image-194 .lp-pom-image-container {
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:26px;
+  height:25px;
+}
+#lp-pom-image-194 .lp-pom-image-container img {
+  width:26px;
+  height:25px;
+}
+#lp-pom-image-196 .lp-pom-image-container {
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:71px;
+  height:71px;
+}
+#lp-pom-image-196 .lp-pom-image-container img {
+  width:71px;
+  height:71px;
+}
+#lp-pom-image-197 .lp-pom-image-container {
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:75px;
+  height:75px;
+}
+#lp-pom-image-197 .lp-pom-image-container img {
+  width:75px;
+  height:75px;
+}
+#lp-pom-image-203 .lp-pom-image-container {
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:387px;
+  height:243px;
+}
+#lp-pom-image-203 .lp-pom-image-container img {
+  width:387px;
+  height:243px;
+}
+#lp-pom-image-206 .lp-pom-image-container {
+  border-style:none;
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  border-radius:0px;
+  width:263px;
+  height:42px;
+}
+#lp-pom-image-206 .lp-pom-image-container img {
+  width:263px;
+  height:42px;
+}
+#lp-pom-root-color-overlay {
+  position:absolute;
+  background:none;
+  top:0;
+  width:100%;
+  height:2110px;
+  min-height:100%;
+}
+#lp-pom-block-8-color-overlay {
+  position:absolute;
+  background:none;
+  height:35px;
+  width:100%;
+}
+#lp-pom-block-9-color-overlay {
+  position:absolute;
+  background:rgba(45,45,43,0.13);
+  -pie-background:rgba(45,45,43,0.13);
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  height:765px;
+  width:100%;
+}
+#lp-pom-block-10-color-overlay {
+  position:absolute;
+  background:none;
+  height:45px;
+  width:100%;
+}
+#lp-pom-block-11-color-overlay {
+  position:absolute;
+  background:none;
+  height:378px;
+  width:100%;
+}
+#lp-pom-block-12-color-overlay {
+  position:absolute;
+  background:none;
+  height:593px;
+  width:100%;
+}
+#lp-pom-block-164-color-overlay {
+  position:absolute;
+  background:rgba(45,45,43,0.13);
+  -pie-background:rgba(45,45,43,0.13);
+  behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+  height:222px;
+  width:100%;
+}
+#lp-pom-block-16-color-overlay {
+  position:absolute;
+  background:none;
+  height:72px;
+  width:100%;
+}
+#lp-pom-box-85-color-overlay {
+  position:absolute;
+  background:none;
+  height:134px;
+  width:368px;
+}
+#lp-pom-box-86-color-overlay {
+  position:absolute;
+  background:none;
+  height:133px;
+  width:378px;
+}
+#lp-pom-box-94-color-overlay {
+  position:absolute;
+  background:none;
+  height:131px;
+  width:368px;
+}
+#lp-pom-box-95-color-overlay {
+  position:absolute;
+  background:none;
+  height:134px;
+  width:368px;
+}
+</style>
+<style title="page-styles" type="text/css" data-page-type="main_mobile">
+@media only screen and (max-width:600px) {
+  #lp-pom-image-21-holder {
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/3762bb1a-map-icon_02a02t02902s000000.png);
+    position:absolute;
+    left:-1000000;
+    visibility:none;
+  }
+  #lp-pom-image-22-holder {
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/8ad20b52-settings-icon.png);
+    position:absolute;
+    left:-1000000;
+    visibility:none;
+  }
+  #lp-pom-image-23-holder {
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/vo6llx-dulce-computer-icon_02m02202m022000000.png);
+    position:absolute;
+    left:-1000000;
+    visibility:none;
+  }
+  #lp-pom-image-182-holder {
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/6864b9ae-laptop-transparent_0ef08r0ef08r000000.png);
+    position:absolute;
+    left:-1000000;
+    visibility:none;
+  }
+  #lp-pom-image-193-holder {
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/9d0d6ab4-icon512_09u09u09u09u000000.png);
+    position:absolute;
+    left:-1000000;
+    visibility:none;
+  }
+  #lp-pom-image-194-holder {
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/46644586-small-white-mag.png);
+    position:absolute;
+    left:-1000000;
+    visibility:none;
+  }
+  #lp-pom-image-196-holder {
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/99db0e14-pop_01z01z01z01z000000.png);
+    position:absolute;
+    left:-1000000;
+    visibility:none;
+  }
+  #lp-pom-image-197-holder {
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/bb5c61dd-icon128_023023023023000000.png);
+    position:absolute;
+    left:-1000000;
+    visibility:none;
+  }
+  #lp-pom-image-203-holder {
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/b6a6063e-macintosh-hd-drive-desktop_0as06r0ar06r000000.png);
+    position:absolute;
+    left:-1000000;
+    visibility:none;
+  }
+  #lp-pom-image-206-holder {
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/d66d78ac-by-safe-finder.png);
+    position:absolute;
+    left:-1000000;
+    visibility:none;
+  }
+  #lp-pom-root {
+    display:block;
+    background:rgba(238,238,238,1);
+    -pie-background:rgba(238,238,238,1);
+    border-style:none;
+    margin:auto;
+    padding-top:0px;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    min-width:320px;
+    height:2238px;
+  }
+  #lp-pom-block-8 {
+    display:block;
+    background:rgba(37,37,37,1);
+    -pie-background:rgba(37,37,37,1);
+    border-style:none;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:0px;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:100%;
+    height:66px;
+    position:relative;
+  }
+  #lp-pom-text-186 {
+    display:block;
+    background:rgba(37,37,37,0);
+    -pie-background:rgba(37,37,37,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:400px;
+    top:7px;
+    z-index:25;
+    width:498px;
+    height:22px;
+    position:absolute;
+  }
+  #lp-pom-image-194 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    left:50px;
+    top:7px;
+    z-index:23;
+    position:absolute;
+  }
+  #lp-pom-block-9 {
+    display:block;
+    background:rgba(45,45,43,0.13);
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/eae6e49e-mountain-range-scaled.jpg);
+    background-repeat:no-repeat;
+    background-position:center top;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    -ms-behavior:url(//d9hhrg4mnvzow.cloudfront.net/backgroundsize.min.htc);
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/backgroundsize.min.htc);
+    border-style:none;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:0px;
+    border-radius:0px;
+    width:100%;
+    height:333px;
+    position:relative;
+  }
+  #lp-pom-text-50 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:20px;
+    top:86px;
+    z-index:18;
+    width:845px;
+    height:209px;
+    transform:scale(0.6422018348623854);
+    transform-origin:0 0;
+    -webkit-transform:scale(0.6422018348623854);
+    -webkit-transform-origin:0 0;
+    position:absolute;
+  }
+  #lp-pom-text-176 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:62px;
+    top:199px;
+    z-index:20;
+    width:845px;
+    height:58px;
+    position:absolute;
+  }
+  #lp-pom-image-193 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    left:308px;
+    top:364px;
+    z-index:22;
+    position:absolute;
+  }
+  #lp-pom-image-206 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    left:586px;
+    top:593px;
+    z-index:27;
+    position:absolute;
+  }
+  #lp-pom-block-10 {
+    display:block;
+    background:rgba(255,255,255,1);
+    -pie-background:rgba(255,255,255,1);
+    border-style:none;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:0px;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:100%;
+    height:56px;
+    position:relative;
+  }
+  #lp-pom-block-11 {
+    display:block;
+    background:rgba(255,255,255,1);
+    -pie-background:rgba(255,255,255,1);
+    border-style:none;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:0px;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:100%;
+    height:328px;
+    position:relative;
+  }
+  #lp-pom-image-182 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    left:214px;
+    top:477px;
+    z-index:21;
+    position:absolute;
+  }
+  #lp-pom-image-203 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    left:280px;
+    top:496px;
+    z-index:26;
+    position:absolute;
+  }
+  #lp-pom-block-12 {
+    display:block;
+    background:rgba(255,255,255,1);
+    -pie-background:rgba(255,255,255,1);
+    border-style:none;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:0px;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:100%;
+    height:1258px;
+    position:relative;
+  }
+  #lp-pom-text-30 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:20px;
+    top:803px;
+    z-index:17;
+    width:300px;
+    height:58px;
+    transform:scale(0.9333333333333333);
+    transform-origin:0 0;
+    -webkit-transform:scale(0.9333333333333333);
+    -webkit-transform-origin:0 0;
+    position:absolute;
+  }
+  #lp-pom-box-85 {
+    display:block;
+    background:rgba(255,255,255,1);
+    -pie-background:rgba(255,255,255,1);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:20px;
+    top:885px;
+    z-index:5;
+    width:280px;
+    height:134px;
+    position:absolute;
+  }
+  #lp-pom-text-34 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:30px;
+    top:153px;
+    z-index:7;
+    width:219px;
+    height:38px;
+    position:absolute;
+  }
+  #lp-pom-text-38 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:72px;
+    top:116px;
+    z-index:6;
+    width:193px;
+    height:44px;
+    position:absolute;
+  }
+  #lp-pom-image-196 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    left:57px;
+    top:10px;
+    z-index:8;
+    position:absolute;
+  }
+  #lp-pom-box-86 {
+    display:block;
+    background:rgba(255,255,255,1);
+    -pie-background:rgba(255,255,255,1);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:20px;
+    top:1179px;
+    z-index:1;
+    width:280px;
+    height:133px;
+    position:absolute;
+  }
+  #lp-pom-image-23 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    left:98px;
+    top:0px;
+    z-index:4;
+    position:absolute;
+  }
+  #lp-pom-text-35 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:30px;
+    top:142px;
+    z-index:3;
+    width:219px;
+    height:76px;
+    position:absolute;
+  }
+  #lp-pom-text-39 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:67px;
+    top:103px;
+    z-index:2;
+    width:227px;
+    height:44px;
+    position:absolute;
+  }
+  #lp-pom-box-94 {
+    display:block;
+    background:rgba(255,255,255,1);
+    -pie-background:rgba(255,255,255,1);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:20px;
+    top:1463px;
+    z-index:12;
+    width:280px;
+    height:131px;
+    position:absolute;
+  }
+  #lp-pom-image-22 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    left:106px;
+    top:0px;
+    z-index:15;
+    position:absolute;
+  }
+  #lp-pom-text-36 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:30px;
+    top:160px;
+    z-index:13;
+    width:219px;
+    height:57px;
+    position:absolute;
+  }
+  #lp-pom-text-40 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:89px;
+    top:127px;
+    z-index:16;
+    width:176px;
+    height:82px;
+    position:absolute;
+  }
+  #lp-pom-box-95 {
+    display:block;
+    background:rgba(255,255,255,1);
+    -pie-background:rgba(255,255,255,1);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:21px;
+    top:1753px;
+    z-index:10;
+    width:280px;
+    height:134px;
+    position:absolute;
+  }
+  #lp-pom-image-21 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    left:106px;
+    top:0px;
+    z-index:14;
+    position:absolute;
+  }
+  #lp-pom-text-37 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:31px;
+    top:160px;
+    z-index:11;
+    width:219px;
+    height:38px;
+    position:absolute;
+  }
+  #lp-pom-text-41 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:94px;
+    top:124px;
+    z-index:9;
+    width:205px;
+    height:22px;
+    position:absolute;
+  }
+  #lp-pom-block-164 {
+    display:block;
+    background:rgba(45,45,43,0.13);
+    background-image:url(//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/d167bfbd-mountain-range.jpg);
+    background-repeat:no-repeat;
+    background-position:center bottom;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+    background-size:cover;
+    -ms-behavior:url(//d9hhrg4mnvzow.cloudfront.net/backgroundsize.min.htc);
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/backgroundsize.min.htc);
+    border-style:none;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:0px;
+    border-radius:0px;
+    width:100%;
+    height:103px;
+    position:relative;
+  }
+  #lp-pom-text-165 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    left:20px;
+    top:2071px;
+    z-index:19;
+    width:492px;
+    height:76px;
+    transform:scale(0.5691056910569106);
+    transform-origin:0 0;
+    -webkit-transform:scale(0.5691056910569106);
+    -webkit-transform-origin:0 0;
+    position:absolute;
+  }
+  #lp-pom-block-16 {
+    display:block;
+    background:rgba(37,37,37,1);
+    -pie-background:rgba(37,37,37,1);
+    border-style:none;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:0px;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:100%;
+    height:94px;
+    position:relative;
+  }
+  #lp-pom-image-197 {
+    display:block;
+    background:rgba(255,255,255,0);
+    -pie-background:rgba(255,255,255,0);
+    left:30px;
+    top:2144px;
+    z-index:24;
+    position:absolute;
+  }
+  body { color:#9B9B9B; }
+  a {
+    color:#4A90E2;
+    text-decoration:none;
+  }
+  #lp-pom-root .lp-positioned-content {
+    top:0px;
+    width:320px;
+    margin-left:-160px;
+  }
+  #lp-pom-block-8 .lp-pom-block-content {
+    margin-left:auto;
+    margin-right:auto;
+    width:320px;
+    height:66px;
+  }
+  #lp-pom-block-9 .lp-pom-block-content {
+    margin-left:auto;
+    margin-right:auto;
+    width:320px;
+    height:333px;
+  }
+  #lp-pom-block-10 .lp-pom-block-content {
+    margin-left:auto;
+    margin-right:auto;
+    width:320px;
+    height:56px;
+  }
+  #lp-pom-block-11 .lp-pom-block-content {
+    margin-left:auto;
+    margin-right:auto;
+    width:320px;
+    height:328px;
+  }
+  #lp-pom-block-12 .lp-pom-block-content {
+    margin-left:auto;
+    margin-right:auto;
+    width:320px;
+    height:1258px;
+  }
+  #lp-pom-block-164 .lp-pom-block-content {
+    margin-left:auto;
+    margin-right:auto;
+    width:320px;
+    height:103px;
+  }
+  #lp-pom-block-16 .lp-pom-block-content {
+    margin-left:auto;
+    margin-right:auto;
+    width:320px;
+    height:94px;
+  }
+  #lp-pom-image-21 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:81px;
+    height:100px;
+  }
+  #lp-pom-image-21 .lp-pom-image-container img {
+    width:81px;
+    height:100px;
+  }
+  #lp-pom-image-22 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:70px;
+    height:70px;
+  }
+  #lp-pom-image-22 .lp-pom-image-container img {
+    width:70px;
+    height:70px;
+  }
+  #lp-pom-image-23 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:94px;
+    height:74px;
+  }
+  #lp-pom-image-23 .lp-pom-image-container img {
+    width:94px;
+    height:74px;
+  }
+  #lp-pom-image-182 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:519px;
+    height:315px;
+  }
+  #lp-pom-image-182 .lp-pom-image-container img {
+    width:519px;
+    height:315px;
+  }
+  #lp-pom-image-193 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:354px;
+    height:354px;
+  }
+  #lp-pom-image-193 .lp-pom-image-container img {
+    width:354px;
+    height:354px;
+  }
+  #lp-pom-image-194 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:26px;
+    height:25px;
+  }
+  #lp-pom-image-194 .lp-pom-image-container img {
+    width:26px;
+    height:25px;
+  }
+  #lp-pom-image-196 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:71px;
+    height:71px;
+  }
+  #lp-pom-image-196 .lp-pom-image-container img {
+    width:71px;
+    height:71px;
+  }
+  #lp-pom-image-197 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:75px;
+    height:75px;
+  }
+  #lp-pom-image-197 .lp-pom-image-container img {
+    width:75px;
+    height:75px;
+  }
+  #lp-pom-image-203 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:387px;
+    height:243px;
+  }
+  #lp-pom-image-203 .lp-pom-image-container img {
+    width:387px;
+    height:243px;
+  }
+  #lp-pom-image-206 .lp-pom-image-container {
+    border-style:none;
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    border-radius:0px;
+    width:263px;
+    height:42px;
+  }
+  #lp-pom-image-206 .lp-pom-image-container img {
+    width:263px;
+    height:42px;
+  }
+  #lp-pom-root-color-overlay {
+    position:absolute;
+    background:none;
+    top:0;
+    width:100%;
+    height:2238px;
+    min-height:100%;
+  }
+  #lp-pom-block-8-color-overlay {
+    position:absolute;
+    background:none;
+    height:66px;
+    width:100%;
+  }
+  #lp-pom-block-9-color-overlay {
+    position:absolute;
+    background:rgba(45,45,43,0.13);
+    -pie-background:rgba(45,45,43,0.13);
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    height:333px;
+    width:100%;
+  }
+  #lp-pom-block-10-color-overlay {
+    position:absolute;
+    background:none;
+    height:56px;
+    width:100%;
+  }
+  #lp-pom-block-11-color-overlay {
+    position:absolute;
+    background:none;
+    height:328px;
+    width:100%;
+  }
+  #lp-pom-block-12-color-overlay {
+    position:absolute;
+    background:none;
+    height:1258px;
+    width:100%;
+  }
+  #lp-pom-block-164-color-overlay {
+    position:absolute;
+    background:rgba(45,45,43,0.13);
+    -pie-background:rgba(45,45,43,0.13);
+    behavior:url(//d9hhrg4mnvzow.cloudfront.net/PIE.htc);
+    height:103px;
+    width:100%;
+  }
+  #lp-pom-block-16-color-overlay {
+    position:absolute;
+    background:none;
+    height:94px;
+    width:100%;
+  }
+  #lp-pom-box-85-color-overlay {
+    position:absolute;
+    background:none;
+    height:134px;
+    width:280px;
+  }
+  #lp-pom-box-86-color-overlay {
+    position:absolute;
+    background:none;
+    height:133px;
+    width:280px;
+  }
+  #lp-pom-box-94-color-overlay {
+    position:absolute;
+    background:none;
+    height:131px;
+    width:280px;
+  }
+  #lp-pom-box-95-color-overlay {
+    p
+3883
+osition:absolute;
+    background:none;
+    height:134px;
+    width:280px;
+  }
+}
+</style>
+<!-- lp:insertions start head -->
+<link href="//builder-assets.unbounce.com/published/page-defaults-13674f6.z.css" rel="stylesheet" media="screen" type="text/css" />
+
+<meta property='og:title' content='Any Search Manager'/>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="//d2xxq4ijfwetlm.cloudfront.net/m/lp-webapp/api/unbounce.js"></script>
+<script type="text/javascript">
+window.ub.page.id = "2713aec2-10c6-47f1-8d30-0c5e5ad480fa";
+window.ub.page.variantId = "a";
+window.ub.page.usedAs = "main";
+window.ub.page.name = "Any Search Manager - WWW";
+window.ub.page.url = "https://www.anysearchmanager.com/";
+window.ub.page.dimensions = {"desktop":{"height":2110,"width":940},"mobile":{"height":2238,"width":320}};
+</script>
+<script type="text/javascript">
+var lp = lp || {};
+lp.jQuery = jQuery.noConflict( true );
+</script>
+
+<script src="//builder-assets.unbounce.com/modules/lp-block/public/main-90cd9cc.z.js" type="text/javascript"></script>
+<script src="//builder-assets.unbounce.com/published/matchMedia-ba7af92.z.js" type="text/javascript"></script>
+<script src="//builder-assets.unbounce.com/modules/lp-image/public/main-8ff2ac3.z.js" type="text/javascript"></script>
+<script src="//builder-assets.unbounce.com/modules/lp-text/public/main-e1f2690.z.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+<script>
+lp = lp || {};
+lp.webFontLoad = {
+  google: {
+    families: ['Montserrat:regular,700','Open Sans:regular','Cabin:regular']
+  },
+  active: function() {
+   if(lp && lp.text && typeof lp.text.fixTextHeights === "function")  {
+     lp.text.runTextFixes(true)
+   }
+  }
+};
+window.WebFont.load(lp.webFontLoad);
+</script>
+<!--[if IE 7]>
+<script>
+(function() {
+  var sheet = document.styleSheets[1];
+  var rules = sheet.rules;
+  var rule;
+  var index = -1;
+  for (var i=0, l=rules.length; i<l; i++){
+    rule = rules[i];
+    if (rule.selectorText.toLowerCase() == 'div.lp-pom-root .lp-pom-text span') {
+      index = i;
+      break;
+    }
+  }
+  if (index > -1) {
+    sheet.removeRule(index);
+    sheet.addRule('div.lp-pom-root .lp-pom-text span', 'line-height:inherit');
+  }
+})();
+</script>
+<![endif]-->
+
+<script src="//builder-assets.unbounce.com/published/ub-browser-879f873.z.js" type="text/javascript"></script>
+
+<!-- lp:insertions end head -->
+
+</head>
+<body class="lp-pom-body ">
+<!-- lp:insertions start body:before -->
+<!-- lp:insertions end body:before -->
+
+<div class="lp-element lp-pom-root" id="lp-pom-root">
+<div id="lp-pom-root-color-overlay"></div>
+<div class="lp-positioned-content">
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-30">
+<p class="lplh-58" style="text-align: center;">
+<span style="font-size:36px;"><span style="color:#252525;"><span style="font-family:montserrat;"><strong>Features</strong></span></span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-50">
+<p class="lplh-77" style="line-height: 58px; text-align: center;">
+<span style="color:#ffffff;"><span style="font-size:64px;"><span style="font-family:montserrat;"><strong>Any Search Manager by SafeFinder&nbsp;</strong></span></span></span>
+</p>
+<p class="lplh-77" style="text-align: center;">
+<br>
+</p>
+</div>
+<div class="lp-element lp-pom-box" id="lp-pom-box-85">
+<div id="lp-pom-box-85-color-overlay"></div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-34">
+<p class="p1 lplh-19">
+<span style="font-family:open sans;"><span style="font-size:12px;">Search with the most popular search engines! &nbsp;Google, Bing, Yahoo and more! &nbsp;</span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-38">
+<p class="lplh-22">
+<span style="font-size:14px;"><span style="font-family:montserrat;"><strong><span style="color:#4a90e2;">All Popular Search Engines</span></strong></span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-196">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/99db0e14-pop_01z01z01z01z000000.png" alt=""></div>
+</div>
+</div>
+<div class="lp-element lp-pom-box" id="lp-pom-box-86">
+<div id="lp-pom-box-86-color-overlay"></div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-23">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/vo6llx-dulce-computer-icon_02m02202m022000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-35">
+<p class="p1 lplh-19">
+<font face="open sans"><span style="font-size: 12px;">Don't have to open the browser every time and go to the desired search engine page and then search. &nbsp;AnySearch is efficient and simple.&nbsp;</span></font>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-39">
+<p class="lplh-22">
+<span style="font-size:14px;"><span style="font-family:montserrat;"><strong><span style="color:#4a90e2;">Search right from your default search</span></strong></span></span>
+</p>
+</div>
+</div>
+<div class="lp-element lp-pom-box" id="lp-pom-box-94">
+<div id="lp-pom-box-94-color-overlay"></div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-22">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/8ad20b52-settings-icon.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-36">
+<p class="p1 lplh-19">
+<span style="font-family:open sans;"><span style="font-size:12px;">Switch between search engines easily in the menu bar! &nbsp;No more hassling with search settings in the browser.</span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-40">
+<p class="lplh-22">
+<span style="font-size:14px;"><span style="font-family:montserrat;"><strong><span style="color:#4a90e2;">Easily switch between Search engines</span></strong></span></span>
+</p>
+<p class="lplh-22">
+<br>
+</p>
+</div>
+</div>
+<div class="lp-element lp-pom-box" id="lp-pom-box-95">
+<div id="lp-pom-box-95-color-overlay"></div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-21">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/3762bb1a-map-icon_02a02t02902s000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-37">
+<p class="p1 lplh-19">
+<span style="font-family:open sans;"><span style="font-size:12px;">Your selected search engine will show in the search input field. &nbsp;No more guessing.</span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-41">
+<p class="lplh-22">
+<span style="font-size:14px;"><span style="font-family:montserrat;"><strong><span style="color:#4a90e2;">See where you are going</span></strong></span></span>
+</p>
+</div>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-165">
+<p class="lplh-38" style="text-align: center;">
+<span style="font-family:montserrat;"><span style="color: rgb(255, 255, 255); font-size: 36px; font-weight: bold; text-align: center;">A simpler way to manage your search.</span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-176">
+<p style="line-height: 58px; text-align: center;">
+<span style="color:#ffffff;"><span style="font-size: 36px;"><span style="font-family:montserrat;"><strong>Easily Search</strong></span><span style="font-family:montserrat;"><strong>&nbsp;</strong>from your desktop</span></span></span>
+</p>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-182">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/6864b9ae-laptop-transparent_0ef08r0ef08r000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-text nlh" id="lp-pom-text-186">
+<p>
+<a data-action="url" data-params="false" href="clkn/http/www.anysearchmanager.com/" style="text-decoration:none;" target="_self"><span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">About</span></a>
+<span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+<a data-action="url" data-params="false" href="clkn/http/www.anysearchmanager.com/contact" style="text-decoration:none;" target="_self"><span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">Contact</span></a>
+<span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+<a data-action="url" data-params="false" href="clkn/http/www.anysearchmanager.com/uninstall" style="text-decoration:none;" target="_self"><span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">Uninstall</span></a>
+<span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+<a data-action="url" data-params="false" href="clkn/http/www.anysearchmanager.com/terms" style="text-decoration:none;" target="_self"><span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">Terms</span></a>
+<span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+<a data-action="url" data-params="false" href="clkn/http/www.anysearchmanager.com/privacy" style="text-decoration:none;" target="_self"><span style="font-family: Cabin; font-size: 16px; background-color: rgba(255, 255, 255, 0); color: rgb(255, 255, 255);">Privacy</span></a>
+</p>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-193">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/9d0d6ab4-icon512_09u09u09u09u000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-194">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<a href="clkn/http/www.anysearchmanager.com/" target="_self"><img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/46644586-small-white-mag.png" alt=""></a>
+</div>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-197">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/bb5c61dd-icon128_023023023023000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-203">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/b6a6063e-macintosh-hd-drive-desktop_0as06r0ar06r000000.png" alt=""></div>
+</div>
+<div class="lp-element lp-pom-image" id="lp-pom-image-206">
+<div class="lp-pom-image-container" style="overflow: hidden;">
+<img src="//d9hhrg4mnvzow.cloudfront.net/www.anysearchmanager.com/d66d78ac-by-safe-finder.png" alt=""></div>
+</div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-8">
+<div id="lp-pom-block-8-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-9">
+<div id="lp-pom-block-9-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-10">
+<div id="lp-pom-block-10-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-11">
+<div id="lp-pom-block-11-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-12">
+<div id="lp-pom-block-12-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-164">
+<div id="lp-pom-block-164-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+<div class="lp-element lp-pom-block" id="lp-pom-block-16">
+<div id="lp-pom-block-16-color-overlay"></div>
+<div class="lp-pom-block-content"></div>
+</div>
+</div>
+<!-- lp:insertions start body:after -->
+<script type="text/javascript">
+  function updateViewport() {
+    var viewport = document.querySelector('meta[name="viewport"]');
+    if (viewport && window.innerWidth > 600 && window.innerWidth < 1024) {
+      var defaultDeviceWidth = window.innerWidth;
+      var defaultPageWidth = document.getElementById('lp-pom-root').offsetWidth;
+      var calculatedScale = (defaultDeviceWidth / defaultPageWidth);
+      var viewportContent = 'initial-scale=' + calculatedScale + ', user-scalable=yes';
+      if (defaultDeviceWidth >= defaultPageWidth) {
+        viewportContent = 'initial-scale=1.0, ' + 'width=device-width, ' + 'user-scalable=yes';
+      }
+      viewport.content = viewportContent;
+    }
+  }
+  lp.jQuery(document).ready(updateViewport);
+  window.addEventListener('orientationchange', updateViewport);
+</script>
+<script type="text/javascript">Array.prototype.slice
+  .call(document.querySelectorAll('.lp-pom-form form input[name^=ubafs-]'))
+  .forEach(function(input) {
+    input.parentNode.removeChild(input);
+  });
+
+Array.prototype.slice.call(document.querySelectorAll('.lp-pom-form form')).forEach(function(form) {
+  var jevField = document.createElement('input');
+  jevField.type = 'hidden';
+  jevField.name = 'ubafs-jev';
+  jevField.id = jevField.name;
+  jevField.value = JSON.stringify({
+    date: new Date(),
+    agent: navigator.userAgent,
+    screen: {
+      availWidth: screen.availWidth,
+      availHeight: screen.availHeight,
+      width: screen.width,
+      height: screen.height,
+    },
+    window: {
+      innerWidth: window.innerWidth,
+      innerHeight: window.innerHeight,
+    },
+    hasPlugins: 'length' in navigator.plugins && navigator.plugins.length > 0,
+  });
+
+  form.appendChild(jevField);
+});
+</script>
+<!-- lp:insertions end body:after -->
+
+</body>
+
+</html>
+
+0
+

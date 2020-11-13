@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/cilk-plus-futures/Tapir/src/utils/PerfectShuffle/PerfectShuffle.cpp
+cassert
+-
+cstdlib
+-
+iomanip
+-
+iostream
+-
+vector
+-
+

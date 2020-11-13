@@ -1,0 +1,24 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 249
+Connection: close
+Date: Tue, 11 Feb 2020 03:43:57 GMT
+Server: Apache
+Location: https://www.cox.com/residential/home.html
+Set-Cookie: visid_incap_1334424=LEKXZYICTQGR+AY3Htsyd/0iQl4AAAAAQUIPAAAAAAD7ZDT87skuDp4Oz/f3JPLl; expires=Tue, 09 Feb 2021 15:01:36 GMT; path=/; Domain=.cox.com
+Set-Cookie: incap_ses_1165_1334424=wG9jSAPU5l6XRNaX3+kqEP0iQl4AAAAAvefRBo0cYnekB7/JDjqB5Q==; path=/; Domain=.cox.com
+X-CDN: Incapsula
+X-Iinfo: 5-15771491-15771492 NNNY CT(0 -1 0) RT(1581392637271 4) q(0 0 0 0) r(1 1) U5
+X-Cache: Miss from cloudfront
+Via: 1.1 1653617c8dfc2e48beca446a9a4426a1.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD52-C2
+X-Amz-Cf-Id: X9_eVok0hjHFsM-oLM4y1VQOllmoCt1-FQAke_EWGbXU0Ys6Wgz2-g==
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.cox.com/residential/home.html">here</a>.</p>
+</body></html>
+[›®Nª7üeÀ¡Dı¥\p ˇ∆Û»wBT¥11‚%Üø

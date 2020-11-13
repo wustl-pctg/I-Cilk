@@ -1,0 +1,34 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.16.1
+Date: Tue, 11 Feb 2020 04:02:50 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: close
+Location: https://www.bitrix24.com/
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src https: blob:; connect-src https: wss: blob:; font-src https: data:; frame-src https:; frame-ancestors 'self'; img-src https: blob: data:; media-src https: blob:; object-src https:; script-src 'unsafe-inline' 'unsafe-eval' https: blob:; style-src 'unsafe-inline' https:;
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.16.1</center>
+</body>
+</html>
+rified.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 56336dd7d96da63d-IND
+
+a3
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.15.10</center>
+</body>
+</html>
+
+0
+
+w•'k{Ê×—õS×*7–´'GÑ‹şrª²¼Z™˜Üxw¥zy0h37öTß×ßÓOkïl¬=Ğf/Úg¨®¼¼õ#¶fŒÅÄüµzpq4;æÀ.Å–”ù	Kª~­/ó»vêÆ{_æİ6È¬aÑm1Ø«KO÷0dU'.W?¡ygs]^X¦õdLòòó·@Š¶v±znÍ6#£Åu´t°¯gú£ıjzX+©£¶ÙÈˆñd:ÇÉiYÉÊ\<k{×$¥¤DÇÇF†m/ñ½¼í¹zÌ|¤d‡óût’Oğ	!™HÄ¥xBLÆéÕˆI†ƒ¥ÒHTıãxş›¾Ï”Ì ıT8Z²õV(FÇò%U±uêóÅÒ¨RËG1zâ&CùÂ×‘Qu¨¯GÂ<”’ÚV³y¥¯§X:;PÕBD)dw+¢ûóÙÒàG‘„ÄØİUs}øƒA‹÷šü!Ö±X›³áb:?¤F•° 4¥ÔGœ/şñøè>57dµcï@4[‹ oµ”Œ›jœ b^ĞÙ_°†‹å9q&[ ¦ñù¿‰w„M¼#g$Ÿ±Cä ¼dÉ÷Kv˜|¿dÊ÷K’m&l/±Å,ÚGËÇrÊ7y¬‰^üêak›¾öDJG°Ãå‡±
+c¢ìZm•øoll°8ZÊŒ—"¡¶š.¿VF¿ö&Û˜M(JêRì+å…]íéÿ`Ç7Êh$=ZÜ?¦Fú"ú`ÇoÔÑ1läc‘"¹ñB†6õ]»;ÆÃãx¬€¹PJÅÑŞq¼÷	ÑçKÃ-|ÿ_¬©ÑêQµ4>Z`íì`”~ô£ñ^sfpWì“‘‘!õ?Ôô¿åK½?ù…Aú½?‰íü÷{<Û½‡Ş‘/ÒXm-íÊÿşü‡ü¯wıöãİ?|öëßöşã/”LäW_Fşs·õxÓh1ŸÅ›ã½ùBV=ğ«Ü®Â.şxw¤?å©kÛÍ/ò…ñæ-³ç_jcyãZÓcJS?ù_+Ù†GÒ?ûìs£!s6öcLÀJ$£Æò»#}}}‘ú¥£{¼ó¿p{‡Í®ã=v¹‡æìÏ„’?ï2&pH)Œcu£¥]uÄškâë&¦¢~Ózewo©øEq¿:ú™2¦îÚıÁ?°#‹d‹™ña¬‰Ş¡bF¡õÓKtÂÖøõ—%ZjîíéAvıíèé)ñxÏÇ|°#Ÿ‹ìŠíÚ¿ÿ§!âîş/¢íÿ"şë-©c¥]¬ÙİlÚ›hØ_

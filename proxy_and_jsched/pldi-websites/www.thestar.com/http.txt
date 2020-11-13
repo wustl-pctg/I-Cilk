@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 11 Feb 2020 03:56:13 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: close
+Location: https://www.thestar.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 11f2bbed05b5b40cdf20119c85254bcf.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD52-C2
+X-Amz-Cf-Id: z7afglwfYKteUj7rC7Tm4ZX-1Zv0FGvew-0CH4HdBmG4ZfBWNIjBdw==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>
+x4QC6bk=; path=/; expires=Tue, 11-Feb-20 04:26:09 GMT; domain=.oanda.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 5633642d5ae6a63d-IND
+

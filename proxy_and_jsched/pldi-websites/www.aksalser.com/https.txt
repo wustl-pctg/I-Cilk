@@ -1,0 +1,347 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 04:03:30 GMT
+Content-Type: text/html; charset=iso-8859-1
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d518fdd4285b668bdfea3f79ae85435601581393810; expires=Thu, 12-Mar-20 04:03:30 GMT; path=/; domain=.aksalser.com; HttpOnly; SameSite=Lax
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+Display: orig_site_sol
+Expires: Mon, 10 Feb 2020 04:03:30 GMT
+Location: http://www.aksalser.com/news/
+Pagespeed: off
+Response: 301
+Set-Cookie: lp_116269=http://www.aksalser.com/; Path=/; Domain=aksalser.com; Expires=Tue, 11 Feb 2020 06:03:30 UTC
+Set-Cookie: ezovuuidtime_116269=1581393810; Path=/; Domain=aksalser.com; Expires=Thu, 13 Feb 2020 04:03:30 UTC
+Set-Cookie: ezovuuid_116269=9411a5e0-2154-4321-628f-46229b3cc781; Path=/; Domain=aksalser.com; Expires=Tue, 11 Feb 2020 04:33:30 UTC
+Set-Cookie: ezopvc_116269=1; Path=/; Domain=aksalser.com; Expires=Tue, 11 Feb 2020 04:33:30 UTC
+Set-Cookie: ezCMPCCS=true; Path=/; Domain=aksalser.com; Expires=Thu, 11 Feb 2021 04:03:30 GMT
+Vary: Origin,Accept-Encoding,X-APP-JSON
+X-Middleton-Display: orig_site_sol
+X-Middleton-Response: 301
+X-Sol: orig
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 56336ef32ffaa637-IND
+
+1e8
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head><script>(function(){function a(g,h,i){var j=new Date;j.setTime(j.getTime()+1e3*(60*(60*(24*i))));var k="expires="+j.toUTCString(),l=g+"="+h+";"+k+";path=/;";"undefined"!=typeof ezdomain&&(l+="domain="+ezdomain),document.cookie=l}var b=window.addEventListener?"addEventListener":"attachEvent",c=window[b],f="attachEvent"==b?"onmessage":"message";c(f,function(g){"undefined"!=typeof g.data.ezstatus&&(__ez.bit.AddAndFire(_ezaq.
+658b
+page_view_id,[new __ezDotData("dg",g.data.ezstatus)]),a("ezdg",g.data.ezstatus,730))})})();</script>
+<script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>var __ez=__ez||{};__ez.stms=Date.now();__ez.evt={};__ez.script={};__ez.ck={};__ez.template={};__ez.template.isOrig=true;__ez.evt.add=function(e,t,n){e.addEventListener?e.addEventListener(t,n,!1):e.attachEvent?e.attachEvent("on"+t,n):e["on"+t]=n()},__ez.evt.remove=function(e,t,n){e.removeEventListener?e.removeEventListener(t,n,!1):e.detachEvent?e.detachEvent("on"+t,n):delete e["on"+t]};__ez.ck.get=function(e,n){null!==n&&(e=e+"_"+n);for(var o=e+"=",t=decodeURIComponent(document.cookie).split(";"),i=0;i<t.length;i++){for(var c=t[i];" "===c.charAt(0);)c=c.substring(1);if(0===c.indexOf(o))return c.substring(o.length,c.length)}return""},__ez.ck.setByCat=function(e,n){if(-1===e.indexOf("path=")&&(e+="; path=/"),"undefined"!=typeof cmpIsOn){if(null!=n){var o=__ez.ck.get("ezCMPCookieConsent",null);-1!==(o=o.substring(1,o.length)).indexOf(n+"=1")?document.cookie=e:""===o&&"undefined"!=typeof cmpCookies&&(void 0===cmpCookies[n]&&(cmpCookies[n]=[]),cmpCookies[n].push(e))}}else document.cookie=e};__ez.queue=function(){var e=0,i=0,n=[],t=!1,r=[],o=[],s=!0,a={func:function(e,i,t,r,o,s,a){var l=this;this.name=e,this.funcName=i,this.parameters=null===t?null:t instanceof Array?t:[t],this.isBlock=r,this.blockedBy=o,this.deleteWhenComplete=s,this.isError=!1,this.isComplete=!1,this.isInitialized=!1,this.proceedIfError=a,this.isTimeDelay=!1,this.process=function(){d("... func = "+e),l.isInitialized=!0,l.isComplete=!0,d("... func.apply: "+e);var i=l.funcName.split("."),t=null;i.length>3||(t=3===i.length?window[i[0]][i[1]][i[2]]:2===i.length?window[i[0]][i[1]]:window[l.funcName]),null!=t&&t.apply(null,this.parameters),!0===l.deleteWhenComplete&&delete n[e],!0===l.isBlock&&(d("----- F'D: "+l.name),f())}},file:function(e,i,n,t,r,o,s){var a=this;this.name=e,this.path=i,this.async=r,this.defer=o,this.isBlock=n,this.blockedBy=t,this.isInitialized=!1,this.isError=!1,this.isComplete=!1,this.proceedIfError=s,this.isTimeDelay=!1,this.process=function(){a.isInitialized=!0,d("... file = "+e);var n=document.createElement("script");n.src=i,!0===r?n.async=!0:!0===o&&(n.defer=!0),n.onerror=function(){d("----- ERR'D: "+a.name),a.isError=!0,!0===a.isBlock&&f()},n.onreadystatechange=n.onload=function(){var e=n.readyState;d("----- F'D: "+a.name),e&&!/loaded|complete/.test(e)||(a.isComplete=!0,!0===a.isBlock&&f())},document.getElementsByTagName("head")[0].appendChild(n)}}};function l(e){!0!==c(e)&&0!=s&&e.process()}function c(e){if(!0===e.isTimeDelay&&!1===t)return d(e.name+" blocked = TIME DELAY!"),!0;if(e.blockedBy instanceof Array)for(var i=0;i<e.blockedBy.length;i++){var r=e.blockedBy[i];if(!1===n.hasOwnProperty(r))return d(e.name+" blocked = "+r),!0;if(!0===e.proceedIfError&&!0===n[r].isError)return!1;if(!1===n[r].isComplete)return d(e.name+" blocked = "+r),!0}return!1}function d(e){var i=window.location.href,n=new RegExp("[?&]ezq=([^&#]*)","i").exec(i);"1"===(n?n[1]:null)&&console.debug(e)}function f(){++e>200||(d("let's go"),u(r),u(o))}function u(e){for(var i in e)if(!1!==e.hasOwnProperty(i)){var n=e[i];!0===n.isComplete||c(n)||!0===n.isInitialized||!0===n.isError?!0===n.isError?d(n.name+": error"):!0===n.isComplete?d(n.name+": complete already"):!0===n.isInitialized&&d(n.name+": initialized already"):n.process()}}return window.addEventListener("load",function(){setTimeout(function(){t=!0,d("TDELAY -----"),f()},5e3)},!1),{addFile:function(e,i,t,s,c,d,f,u){var h=new a.file(e,i,t,s,c,d,f);!0===u?r[e]=h:o[e]=h,n[e]=h,l(h)},addDelayFile:function(e,i){var t=new a.file(e,i,!1,[],!1,!1,!0);t.isTimeDelay=!0,d(e+" ...  FILE! TDELAY"),o[e]=t,n[e]=t,l(t)},addFunc:function(e,t,s,c,d,f,u,h,m){!0===f&&(e=e+"_"+i++);var p=new a.func(e,t,s,c,d,u,h);!0===m?r[e]=p:o[e]=p,n[e]=p,l(p)},addDelayFunc:function(e,i,t){var r=new a.func(e,i,t,!1,[],!0,!0);r.isTimeDelay=!0,d(e+" ...  FUNCTION! TDELAY"),o[e]=r,n[e]=r,l(r)},items:n,processAll:f,setallowLoad:function(e){s=e}}}();__ez.script.add=function(e){var t=document.createElement("script");t.src=e,t.async=!0,t.type="text/javascript",document.getElementsByTagName("head")[0].appendChild(t)};__ez.dot={};var __ezDotData=function(e,t){"string"!=typeof e&&2==e.length&&(t=e[1],e=e[0]),this.name=e,this.val=t};__ez.dot.b64={_keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",encode:function(e){var t,r,n,o,i,d,a,_="",f=0;for(e=Base64._utf8_encode(e);f<e.length;)o=(t=e.charCodeAt(f++))>>2,i=(3&t)<<4|(r=e.charCodeAt(f++))>>4,d=(15&r)<<2|(n=e.charCodeAt(f++))>>6,a=63&n,isNaN(r)?d=a=64:isNaN(n)&&(a=64),_=_+this._keyStr.charAt(o)+this._keyStr.charAt(i)+this._keyStr.charAt(d)+this._keyStr.charAt(a);return _},decode:function(e){var t,r,n,o,i,d,a="",_=0;for(e=e.replace(/[^A-Za-z0-9+/=]/g,"");_<e.length;)t=this._keyStr.indexOf(e.charAt(_++))<<2|(o=this._keyStr.indexOf(e.charAt(_++)))>>4,r=(15&o)<<4|(i=this._keyStr.indexOf(e.charAt(_++)))>>2,n=(3&i)<<6|(d=this._keyStr.indexOf(e.charAt(_++))),a+=String.fromCharCode(t),64!=i&&(a+=String.fromCharCode(r)),64!=d&&(a+=String.fromCharCode(n));return a=Base64._utf8_decode(a)},_utf8_encode:function(e){e=e.replace(/rn/g,"n");for(var t="",r=0;r<e.length;r++){var n=e.charCodeAt(r);n<128?t+=String.fromCharCode(n):(127<n&&n<2048?t+=String.fromCharCode(n>>6|192):(t+=String.fromCharCode(n>>12|224),t+=String.fromCharCode(n>>6&63|128)),t+=String.fromCharCode(63&n|128))}return t},_utf8_decode:function(e){for(var t="",r=0,n=c1=c2=0;r<e.length;)(n=e.charCodeAt(r))<128?(t+=String.fromCharCode(n),r++):191<n&&n<224?(c2=e.charCodeAt(r+1),t+=String.fromCharCode((31&n)<<6|63&c2),r+=2):(c2=e.charCodeAt(r+1),c3=e.charCodeAt(r+2),t+=String.fromCharCode((15&n)<<12|(63&c2)<<6|63&c3),r+=3);return t}},__ez.dot.dataToStr=function(e){if(void 0===e)return[];try{for(var t in e)e[t].val=e[t].val+""}catch(e){}return e},__ez.dot.getCC=function(){var e="XX";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(e=_ezaq.country),e},__ez.dot.getDID=function(){var e="0";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(e=_ezaq.domain_id.toString()),e},__ez.dot.getEpoch=function(e){return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(e=_ezaq.t_epoch),e},__ez.dot.getPageviewId=function(){var e="";return"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("page_view_id")&&(e=_ezaq.page_view_id),e},__ez.dot.getURL=function(e){return("undefined"!=typeof ezJsu&&1==ezJsu||"undefined"!=typeof _ez_sa&&1==_ez_sa||"undefined"!=typeof isAmp&&!0===isAmp||"undefined"!=typeof ezWp&&!0===ezWp)&&(e="//g.ezoic.net"+e),e},__ez.dot.isValid=function(e){for(var t=0;t<e.length;t++)if(e[t]instanceof __ezDotData==!1)return console.error("Invalid data. ",e[t]),!1;return!0},__ez.dot.isDefined=function(){for(var e=0;e<arguments.length;e++)if(null==arguments[e])return console.error("Argument not defined. ",arguments),!1;return!0},__ez.dot.isAnyDefined=function(){for(var e=!1,t=0;t<arguments.length;t++)null!=arguments[t]&&(e=!0);return 0==e&&console.error("isAnyDefined Arguments not defined. ",arguments),e},__ez.dot.getSlotIID=function(e){var t="0";try{var r=__ez.dot.getTargetingMap(e);if(-1===__ez.dot.getElementId(e).indexOf("div-gpt-ad"))return t;if(void 0!==r)for(var n in r)if(-1!==n.indexOf("iid")&&void 0!==r[n][0]){t=r[n][0];break}}catch(e){}return t},__ez.dot.getElementId=function(e){return void 0!==e.ElementId?e.ElementId:e.getSlotElementId()},__ez.dot.getAdUnitPath=function(e){return void 0!==e.AdUnitPath?e.AdUnitPath:e.getAdUnitPath()},__ez.dot.getSizes=function(e){return void 0!==e.Sizes?e.Sizes:e.getSizes()},__ez.dot.getTargeting=function(e,t){return void 0!==e.Targeting?e.Targeting[t]:e.getTargeting(t)[0]},__ez.dot.getTargetingMap=function(e){return void 0!==e.Targeting?e.Targeting:e.getTargetingMap()},__ez.dot.getAdUnit=function(e){return!0===__ez.template.isOrig?__ez.dot.getAdUnitPath(e).split("/").pop()+"|~ez~|"+__ez.dot.getElementId(e):__ez.dot.getElementId(e)};__ez.bit=function(){function c(a,b){d(a,b),e()}function d(b,c){__ez.dot.isDefined(b)&&__ez.dot.isValid(c)&&a.push({type:"pageview",pageview_id:b,domain_id:__ez.dot.getDID(),t_epoch:__ez.dot.getEpoch(0),data:__ez.dot.dataToStr(c)})}function e(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(a)&&a.length>0&&((new Image).src=__ez.dot.getURL(b)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&ds="+btoa(JSON.stringify(a))),a=[])}var a=[],b="/detroitchicago/greenoaks.gif";return{Add:d,AddAndFire:c,Fire:e}}();</script><script data-ezscrex='false' data-cfasync='false' data-pagespeed-no-defer>__ez.pel=function(){var u=[],i="/porpoiseant/army.gif";function t(e,i,t,_,d,o,n){if(__ez.dot.isDefined(e)&&0!=__ez.dot.isAnyDefined(e.getSlotElementId,e.ElementId)){var r=parseInt(__ez.dot.getTargeting(e,"ap")),a=__ez.dot.getSlotIID(e),s=__ez.dot.getAdUnit(e),p=parseInt(__ez.dot.getTargeting(e,"compid")),z=0,f=0,g=function(e){if("undefined"==typeof _ezim_d)return!1;var i=__ez.dot.getAdUnitPath(e).split("/").pop();if("object"==typeof _ezim_d&&_ezim_d.hasOwnProperty(i))return _ezim_d[i];for(var t in _ezim_d)if(t.split("/").pop()===i)return _ezim_d[t];return!1}(e);"object"==typeof g&&(void 0!==g.creative_id&&(f=g.creative_id),void 0!==g.line_item_id&&(z=g.line_item_id)),__ez.dot.isDefined(a,s)&&__ez.dot.isValid(i)&&u.push({type:"impression",impression_id:a,domain_id:__ez.dot.getDID(),unit:s,t_epoch:__ez.dot.getEpoch(0),revenue:t,est_revenue:_,ad_position:r,ad_size:"",bid_floor_filled:d,bid_floor_prev:o,stat_source_id:n,country_code:__ez.dot.getCC(),pageview_id:__ez.dot.getPageviewId(),comp_id:p,line_item_id:z,creative_id:f,data:__ez.dot.dataToStr(i)})}}function _(){if(void 0===document.visibilityState||"prerender"!==document.visibilityState){if(__ez.dot.isDefined(u)&&0<u.length){var e=__ez.dot.getURL(i)+"?orig="+(!0===__ez.template.isOrig?1:0)+"&sts="+btoa(JSON.stringify(u));void 0!==window.isAmp&&isAmp&&void 0!==window._ezaq&&_ezaq.hasOwnProperty("domain_id")&&(e+="&visit_uuid="+_ezaq.visit_uuid),(new Image).src=e}u=[]}}return{Add:t,AddAndFire:function(e,i){t(e,i,0,0,0,0,0),_()},AddById:function(e,i){var t=e.split("/");if(__ez.dot.isDefined(e)&&3===t.length&&__ez.dot.isValid(i)){var _=t[0],d=t[2];u.push({type:"impression",impression_id:d,domain_id:__ez.dot.getDID(),unit:_,t_epoch:__ez.dot.getEpoch(0),pageview_id:__ez.dot.getPageviewId(),data:__ez.dot.dataToStr(i)})}},Fire:_,GetPixels:function(){return u}}}();var EzoicPixel=function(){this.pixels=[],this.pixelUrl="/ezoic/e.gif",("undefined"!=typeof ezJsu&&!0===ezJsu||"undefined"!=typeof _ez_sa&&!0===_ez_sa||void 0!==window.isAmp&&!0===isAmp||"undefined"!=typeof ezWp&&!0===ezWp)&&(this.pixelUrl="//g.ezoic.net"+this.pixelUrl),this.tEpoch=0,"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("t_epoch")&&(this.tEpoch=_ezaq.t_epoch)},EzoicPixelData=function(e,i){this.name=e,this.val=i};EzoicPixel.prototype={constructor:EzoicPixel,AddAndFireImpPixel:function(e,i){this.AddImpPixel(e,i,0,0,0,0,0),this.FirePixels()},AddAndFirePVPixel:function(e,i){this.AddPVPixel(e,i),this.FirePixels()},AddImpPixel:function(e,i,t,n,o,a,d){if(0!=__ez.dot.isDefined(e)&&0!=__ez.dot.isAnyDefined(e.getSlotElementId,e.ElementId)){var s=parseInt(__ez.dot.getTargeting(e,"ap")),r=__ez.dot.getSizes(e)[0],_=r.l.toString()+"x"+r.j.toString(),p="0",l="XX";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(p=_ezaq.domain_id.toString()),"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("country")&&(l=_ezaq.country);var h=__ez.dot.getSlotIID(e),c=__ez.dot.getSlotElementId(e);__ez.dot.isDefined(h,c)&&this.validateData(i)&&(i=this.convertDataToStr(i),this.pixels.push({type:"impression",impression_id:h,domain_id:p,unit:c,t_epoch:this.tEpoch,revenue:t,est_revenue:n,ad_position:s,ad_size:_,bid_floor_filled:o,bid_floor_prev:a,stat_source_id:d,country_code:l,data:i}))}},AddImpPixelById:function(e,i){var t="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(t=_ezaq.domain_id.toString());var n=e.split("/");if(__ez.dot.isDefined(e)&&3===n.length&&this.validateData(i)){var o=n[0],a=n[2];i=this.convertDataToStr(i),this.pixels.push({type:"impression",impression_id:a,domain_id:t,unit:o,t_epoch:this.tEpoch,data:i})}},AddPVPixel:function(e,i){var t="0";"undefined"!=typeof _ezaq&&_ezaq.hasOwnProperty("domain_id")&&(t=_ezaq.domain_id.toString()),__ez.dot.isDefined(e)&&this.validateData(i)&&(i=this.convertDataToStr(i),this.pixels.push({type:"pageview",pageview_id:e,domain_id:t,t_epoch:this.tEpoch,data:i}))},FirePixels:function(){void 0!==document.visibilityState&&"prerender"===document.visibilityState||(__ez.dot.isDefined(this.pixels)&&0<this.pixels.length&&((new Image).src=this.pixelUrl+"?orig="+(!0===__ez.template.isOrig?1:0)+"&pixels="+encodeURIComponent(JSON.stringify(this.pixels))),this.pixels=[])},NewData:function(e,i){return new EzoicPixelData(e,i)},convertDataToStr:function(e){if(void 0===e)return[];try{for(var i in e)e[i].val=e[i].val+""}catch(e){}return e},validateData:function(e){for(var i=0;i<e.length;i++)if(e[i]instanceof EzoicPixelData==!1)return console.error("Invalid pixelData. ",e[i]),!1;return!0}};</script>
+<script data-ezscrex="false" data-cfasync="false">(function(){if("function"===typeof window.CustomEvent)return!1;window.CustomEvent=function(c,a){a=a||{bubbles:!1,cancelable:!1,detail:null};var b=document.createEvent("CustomEvent");b.initCustomEvent(c,a.bubbles,a.cancelable,a.detail);return b}})();</script><script data-ezscrex="false" data-cfasync="false">window.requestIdleCallback=window.requestIdleCallback||function(b){var a=Date.now();return setTimeout(function(){b({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-a))}})},1)};
+(function(){function b(c,e){for(var d=[],f=0;f<c;f++){for(var h=f*e*Math.random(),k=!0,l=2;l<=Math.sqrt(h);++l)if(0===h%l){k=!1;break}k&&d.push(h)}return d}function a(){var c=this;c.g=0;setInterval(function(){c.g++},1E3)}if("1"==window.ihajsdjhsadhjk){var g=new a;b(6,g);window.ihajsdjhsadhjk=null;window.doezifk="1"}"1"==window.doezifk&&(b(50,1E9),pointlessComputationsButton.disabled=!1,window.doezifk=null,window.ihajsdjhsadhjk="1");if("function"===typeof window.EzoIvent)return!1;window.EzoIvent=function(c,
+e){e=e||{bubbles:!1,cancelable:!1,detail:null};var d=document.createEvent("EzoIvent");d.initCustomEvent(c,e.bubbles,e.cancelable,e.detail);return d}})();__ez.a=[];__ez.a[0]=0;__ez.a[1]=45;__ez.a[2]=[];__ez.a[3]=0;__ez.a[4]=1;__ez.a[5]=[];
+_findOverlappingQuietPeriods=function(b,a){var g=a.slice(),c=b.slice();g.shift();c.shift();var e=[];g.forEach(function(d){c.forEach(function(f){d.start>=f.start?f.end>=d.start+55&&e.push({b:d,i:f,h:a,j:b,f:Math.min(d.duration,f.duration)}):d.end>=f.start+55&&e.push({b:d,i:f,h:a,j:b,f:Math.min(d.duration,f.duration)})})});if(0<e.length)return e};var m=0;
+_findNetworkQuietPeriods=function(b,a,g){0==m&&(m=a-1);a=[];for(var c in b){var e=b[c];0>e.end&&(e.end=99);a.push({time:e.start,c:!0});0<e.end&&a.push({time:e.end,c:!1})}a.sort(function(k,l){return k.time-l.time});var d=0,f=m,h=[];a.forEach(function(k){k.c?(d===__ez.a[4]&&h.push({start:f,end:k.time,duration:k.time-f}),d++):(d--,d===__ez.a[4]&&(f=k.time))});d<=__ez.a[4]&&h.push({start:f,end:g,duration:g-f});return h};
+(function(){if("undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(19)){var b=window.setInterval;window.setInterval=function(a,g){var c=g;90>c&&56!=c&&(c=90);return 3>arguments.length?b(a,c):b(a.bind(window,Array.prototype.slice.call(arguments).slice(3)),c)}}})();
+(function(){if("undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(19)){var b=window.setTimeout;window.setTimeout=function(a,g){var c=g;90>c&&(c=90);return 3>arguments.length?b(a,c):b(a.bind(window,Array.prototype.slice.call(arguments).slice(3)),c)}}})();
+(function(){function b(){var c=new a;"undefined"!=typeof this.open?c.open=this.open:this.open=a.open;"undefined"!=typeof this.abort?c.abort=this.abort:this.open=a.open;"undefined"!=typeof this.getAllResponseHeaders?c.getAllResponseHeaders=this.getAllResponseHeaders:this.getAllResponseHeaders=a.getAllResponseHeaders;"undefined"!=typeof this.getResponseHeader?c.getResponseHeader=this.getResponseHeader:this.getResponseHeader=a.getResponseHeader;"undefined"!=typeof this.overrideMimeType?c.overrideMimeType=
+this.overrideMimeType:this.overrideMimeType=a.overrideMimeType;"undefined"!=typeof this.setRequestHeader?c.setRequestHeader=this.setRequestHeader:this.setRequestHeader=a.setRequestHeader;var e=Math.random();c.addEventListener("loadstart",function(d){window.ezorqs(d,e)});c.addEventListener("loadend",function(d){window.ezorqe(d,e)});c.addEventListener("error",function(d){window.ezorqe(d,e)});c.addEventListener("abort",function(d){window.ezorqe(d,e)});return c}var a=window.XMLHttpRequest;b.prototype=
+a.prototype;for(var g in a)b[g]=a[g];window.XMLHttpRequest=b})();window.ezoFetchConst=window.fetch;window.fetch=function(b){var a=arguments,g=this,c=Math.random();window.ezorqs(b,c);return new Promise(function(e,d){window.ezoFetchConst.apply(g,a).then(function(f){window.ezorqe(f,c);e(f)})["catch"](function(f){window.ezorqe(f,c);d(f)})})};
+document.addEventListener("DOMContentLoaded",function(){window.ezodomstart=Date.now();if("requestIdleCallback"in window){var b=0;window.ezoIint=setInterval(function(){window.requestIdleCallback(function(a){var g=Date.now();a=a.timeRemaining();a<Date.now()&&(a>__ez.a[1]?0==b&&(b=g):0!=b&&(a={start:b,end:g-(50-a)},a.duration=a.end-a.start,55<=a.duration&&(__ez.a[5].push(a),window.ezocfol(g)),b=0))})},56)}else window.dispatchEvent(new CustomEvent("EzoIvent",{detail:[-1,-1]})),clearInterval(window.ezoIint)});
+"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&(window.addEventListener("load",function(){window.__ez__w_load=!0}),window.addEventListener("DOMContentLoaded",function(){window.__ez__w_dom=!0}),"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&function(){if(Element.prototype.addEventListener){window.__ez__ael=window.addEventListener;window.__ez__ael__proto=window.__ez__ael.prototype;var b=function(){"domcontentloaded"==arguments[0].toLowerCase()?arguments[0]=
+"EzoicDOMContentLoaded":"load"==arguments[0].toLowerCase()&&(arguments[0]="Ezoicload");window.__ez__ael.apply(window,arguments)};window.__ez__ael.prototype=window.__ez__ael__proto;window.addEventListener=b;document.addEventListener=b}}());window.ezorqs=function(b,a){indexKey=window.ezogetrqbykey(a);"undefined"==typeof indexKey&&(__ez.a[2].push({start:Date.now(),end:-1,id:a}),__ez.a[3]++,setTimeout(function(){window.ezorqe(b,a)},2E3))};
+window.ezorqe=function(b,a,g){indexKey=window.ezogetrqbykey(a);"undefined"!=typeof indexKey&&-1==__ez.a[2][indexKey].end?(__ez.a[2][indexKey].end=Date.now(),__ez.a[3]--):1==g&&__ez.a[3]--};
+window.ezocfol=function(b){b=_findNetworkQuietPeriods(__ez.a[2],window.ezodomstart,b);b=_findOverlappingQuietPeriods(b,__ez.a[5]);if("undefined"!=typeof b){var a=0,g=Math.max(b[b.length-1].b.end,b[b.length-1].b.end);b.forEach(function(c){a+=Math.floor(c.f/55)});(a>=__ez.sswp&&1<a||10<=a||g<Date.now()-5E3)&&clearInterval(window.ezoIint);__ez.a[0]=a;window.dispatchEvent(new CustomEvent("EzoIvent",{detail:[__ez.a[0],50]}))}};
+window.ezogetrqbykey=function(b){for(var a=0,g=__ez.a[2].length;a<g;a++)if(__ez.a[2][a].id==b)return a};__ez.nap=__ez.a;</script>
+<title>301 Moved Permanently</title>
+<script data-ezscrex="false" data-cfasync="false" type="text/javascript">window.google_analytics_uacct = "UA-111455311-39";</script>
+<script data-ezscrex="false" data-cfasync="false" type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['e._setAccount', 'UA-111455311-39']);
+_gaq.push(['f._setAccount', 'UA-38339005-1']);
+_gaq.push(['e._setDomainName', 'aksalser.com']);
+_gaq.push(['f._setDomainName', 'aksalser.com']);
+_gaq.push(['e._setCustomVar',1,'template','old_site_gc',3]);
+_gaq.push(['e._setCustomVar',2,'t','126',3]);
+_gaq.push(['e._setCustomVar',3,'rid','0',2]);
+_gaq.push(['e._setCustomVar',4,'bra','mod88-c',3]);
+_gaq.push(['e._setAllowAnchor',true]);
+_gaq.push(['e._setSiteSpeedSampleRate', 10]);
+_gaq.push(['f._setCustomVar',1,'template','old_site_gc',3]);
+_gaq.push(['f._setCustomVar',2,'domain','aksalser.com',3]);
+_gaq.push(['f._setSiteSpeedSampleRate', 20]);
+_gaq.push(['e._trackPageview']);
+_gaq.push(['f._trackPageview']);
+
+
+(function() {
+ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">var ezouid = "1";</script><base href="http://www.aksalser.com/"><script type='text/javascript'>
+var ezoTemplate = 'old_site_gc';
+if(typeof ezouid == 'undefined')
+{
+    var ezouid = 'none';
+}
+var ezoFormfactor = '1';
+var ezo_elements_to_check = Array();
+</script>
+<script data-ezscrex="false" type='text/javascript'>
+var soc_app_id = '0';
+var did = 116269;
+var ezdomain = 'aksalser.com';
+var ezoicSearchable = 1;
+</script>
+
+
+<script data-ezscrex="false" type="text/javascript" data-cfasync="false">var _ezaq = {"ad_cache_level":0,"city":"St Louis","country":"US","days_since_last_visit":-1,"domain_id":116269,"engaged_time_visit":0,"ezcache_level":0,"forensiq_score":-1,"form_factor_id":1,"framework_id":1,"is_return_visitor":false,"is_sitespeed":0,"last_page_load":"","last_pageview_id":"","lt_cache_level":0,"metro_code":609,"page_ad_positions":"","page_view_count":0,"page_view_id":"306743bc-743a-4ce4-45a5-28a1d90a82e5","position_selection_id":0,"postal_code":"63121","pv_event_count":0,"response_time_orig":212,"serverid":"35.175.138.170:9830","state":"MO","t_epoch":1581393810,"template_id":126,"time_on_site_visit":0,"url":"http://www.aksalser.com/","user_id":0,"word_count":11,"worst_bad_word_level":0};var _ezExtraQueries = "&ez_orig=1";</script><script data-ezscrex='false' data-cfasync='false' type="text/javascript" src="/detroitchicago/rochester.js?cb=188-1&v=8" async></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
+<script data-ezscrex='false' data-pagespeed-no-defer data-cfasync='false'>
+function create_ezolpl() {
+    var d = new Date();
+    d.setTime(d.getTime() + (365*24*60*60*1000));
+    var expires = "expires="+d.toUTCString();
+    __ez.ck.setByCat("ezux_lpl_116269=" + new Date().getTime() + "|306743bc-743a-4ce4-45a5-28a1d90a82e5; " + expires, 3);
+}
+function attach_ezolpl() {
+    if(window.attachEvent) {
+        window.attachEvent('onload', create_ezolpl);
+    } else {
+        if(window.onload) {
+            var curronload = window.onload;
+            var newonload = function(evt) {
+                curronload(evt);
+                create_ezolpl();
+            };
+            window.onload = newonload;
+        } else {
+            window.onload = create_ezolpl;
+        }
+    }
+}
+attach_ezolpl();
+</script></head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://www.aksalser.com/news/">here</a>.</p>
+<script type='text/javascript' style='display:none;' async>
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=1&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=1&shcb=32', false, [], true, false, false, false);
+</script>
+<script>var _audins_dom="aksalser_com",_audins_did=116269;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-1");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.aksalser_com,DomainId.116269" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<script type='text/javascript' data-cfasync='false'>(function(){function b(g,c){for(var e=0;e<c.length;e++){var d=c[e];if(0==d.complete||"undefined"!=typeof d.readyState&&4>d.readyState){var f=d.getAttribute("src")||d.currentSrc;"undefined"!=typeof d.readyState&&0==d.readyState?d.addEventListener("loadstart",function(h){var k=h.getAttribute("src")||h.currentSrc;window.ezorqs(h,k)}):(f=d.getAttribute("src")||d.currentSrc,window.ezorqs(d,f));d.addEventListener("load",function(h){var k=h.currentTarget.getAttribute("src")||h.srcElement.currentSrc;window.ezorqe(h,
+k)});d.addEventListener("loadeddata",function(h){var k=h.currentTarget.getAttribute("src")||h.srcElement.currentSrc;window.ezorqe(h,k)});d.addEventListener("error",function(h){var k=h.currentTarget.getAttribute("src")||h.srcElement.currentSrc;window.ezorqe(h,k)})}}}function a(g){for(var c=0;c<document.styleSheets.length;c++)if(document.styleSheets[c].href==g)return!0;return!1}b("img",document.querySelectorAll("img"));b("video",document.querySelectorAll("video"));b("audio",document.querySelectorAll("audio"));
+(function(g){for(var c=0;c<g.length;c++){var e=g[c];if(("preload"==e.getAttribute("rel")||"stylesheet"==e.getAttribute("rel"))&&null!=e.getAttribute("href")&&a(e.getAttribute("href"))){window.ezorqs(e,e.getAttribute("href"));var d=document.createElement("img");d.onerror=function(f){"undefined"!=typeof f.path&&"undefined"!=typeof f.path[0].currentSrc?window.ezorqe(e,f.path[0].currentSrc):"undefined"!=typeof f.srcElement&&"undefined"!=typeof f.srcElement.href&&window.ezorqe(e,f.srcElement.href)};d.src=
+e.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script></body></html>
+
+0
+
+("src")||d.currentSrc,window.ezorqs(d,f));d.addEventListener("load",function(h){var k=h.currentTarget.getAttribute("src")||h.srcElement.currentSrc;window.ezorqe(h,
+k)});d.addEventListener("loadeddata",function(h){var k=h.currentTarget.getAttribute("src")||h.srcElement.currentSrc;window.ezorqe(h,k)});d.addEventListener("error",function(h){var k=h.currentTarget.getAttribute("src")||h.srcElement.currentSrc;window.ezorqe(h,k)})}}}function a(g){for(var c=0;c<document.styleSheets.length;c++)if(document.styleSheets[c].href==g)return!0;return!1}b("img",document.querySelectorAll("img"));b("video",document.querySelectorAll("video"));b("audio",document.querySelectorAll("audio"));
+(function(g){for(var c=0;c<g.length;c++){var e=g[c];if(("preload"==e.getAttribute("rel")||"stylesheet"==e.getAttribute("rel"))&&null!=e.getAttribute("href")&&a(e.getAttribute("href"))){window.ezorqs(e,e.getAttribute("href"));var d=document.createElement("img");d.onerror=function(f){"undefined"!=typeof f.path&&"undefined"!=typeof f.path[0].currentSrc?window.ezorqe(e,f.path[0].currentSrc):"undefined"!=typeof f.srcElement&&"undefined"!=typeof f.srcElement.href&&window.ezorqe(e,f.srcElement.href)};d.src=
+e.getAttribute("href")}}})(document.querySelectorAll("link"));"undefined"!=typeof window.__ez.ssaf&&-1<window.__ez.ssaf.indexOf(16)&&"undefined"!==typeof window.__ez.sshsdef&&!1===window.__ez.sshsdef&&Element.prototype.addEventListener&&("function"==typeof window.onload&&(window.addEventListener("load",window.onload),window.onload=null),"function"==typeof document.onload&&(document.addEventListener.addEventListener("load",document.onload),document.onload=null))})();</script><script type="text/javascript" onload="__ezcl.handle(true);" async src="/utilcave_com/inc/ezcl.webp?cb=4"></script></body></html>
+oy_jiao2">
+                                </div>
+                                <div class="clear">
+                                </div>
+                            </div>
+                            <div class="ck_xiawenzi"> <div class="ck_xialeft"> <div class="ck_tu1"> <a target="_blank" href="http://www.eee114.com/Activities/Composition.shtml" title="高考hold住高分，让你高考一鸣惊人"><img alt="高考hold住高分，让你高考一鸣惊人" src="http://video.eee114.com/Info_BoothInfo/634753739831718750.jpg" height="83" width="110" /></a><br /></div> <div class="ck_ljian"> <a href="http://www.eee114.com/Activities/Composition.shtml" target="_blank">看动漫，学作文，一切尽在动漫作文</a></div> </div> <div class="ck_right1"> <a target="_blank" href="http://www.eee114.com/Product/Item/10725-1-0.shtml">&#8226; 四年级下数学思维能力训练</a><a target="_blank" href="http://www.eee114.com/Product/Item/24162-1-0.shtml">&#8226; 初中阅读写作大突破</a><a target="_blank" href="http://www.eee114.com/Product/Item/21208-1-0.shtml">&#8226; 二元一次方程（组）及解法</a><a target="_blank" href="http://www.eee114.com/Product/Item/23755-1-0.shtml">&#8226; 世界史专题冲刺课程</a><a target="_blank" href="http://www.eee114.com/Product/Item/21692-1-0.shtml">&#8226; 高考数学一轮复习</a> </div> <div class="clear"> </div> </div>
+        
+                        </li>
+                        <li style="border-top: none; border-left: none;">
+                            <div class="ck_biaoti">
+                                <div class="ck_goy_jiao1">
+                                </div>
+                                <div class="ck_goy_centre">
+                                    <a target="_blank" href="/Activitys/28.shtml"
+                                        target="_blank" class="ck_more">更多>></a>
+                                    <h3 class="ck_ic ck_ic3" style="background: none; font-family: 微软雅黑; font-size: 16px;
+                                        line-height: 28px;">
+                                        活动专区</h3>
+                                </div>
+                                <div class="ck_goy_jiao2">
+                                </div>
+                                <div class="clear">
+                                </div>
+                            </div>
+                            <div class="ck_xiawenzi"> <div class="ck_xialeft"> <div class="ck_tu1"> <a target="_blank" href="http://www.eee114.com/qqlist/jiajiao/index.html"><img src="http://video.eee114.com/Info_BoothInfo/634859062316250000.jpg" alt="中国知名家庭教育专家制作的家庭教育报告，帮你更了解自己的孩子，成为孩子成长路上的亲密战友" title="中国知名家庭教育专家制作的家庭教育报告，帮你更了解自己的孩子，成为孩子成长路上的亲密战友" height="82" width="110" /></a><br /></div> <div class="ck_ljian"> <a href="http://www.eee114.com/qqlist/jiajiao/index.html" target="_blank">免费订阅获取家庭教育报告</a></div> </div> <div class="ck_right1"> <a href="http://special.71.cn/161014/" target="_blank">&#8226; 贯彻十八届六中全会精神专题</a><a href="http://www.eee114.com/html/Homestay.htm" target="_blank">&#8226; 清大学习吧2013北京Homestay</a><a href="http://www.eee114.com/Activities/SummerCamp/SummerCamp.html" target="_blank">&#8226; 2013清大世纪国内国际夏令营</a><a href="http://www.eee114.com/Activities/FreeHappyTour" target="_blank">&#8226; 乐学免费游天下</a><a href="http://bbs.eee114.com/thread-19992-1-1.html" target="_blank">&#8226; 淘“宝”到论坛，快乐学习吧</a> </div> <div class="clear"> </div> </div>
+        
+                        </li>
+                    </ul>
+                    <div class="clear">
+                    </div>
+                </div>
+                <div class="ck_threeright">
+                    <div class="ck_hua">
+                        
+                        <a class="ck_yuxon" href="/NewsList/20.html"
+                            target="_blank">清大动态</a> <a href="/NewsList/21.html"
+                                target="_blank">行业资讯</a>
+                        <div class="clear">
+                        </div>
+                    </div>
+                    
+                    <div class="ck_news">
+                        <ul>
+                            
+                            <li><a title="清大学习吧全国七大区域示范班级圈内训圆满结束" target="_blank" href="/News/1725.html">
+                                清大学习吧全国七大区域示范班级圈内训圆满结束</a></li>
+                            
+                            <li><a title="孩子参加夏令营，什么对他们最重要？" target="_blank" href="/News/1723.html">
+                                孩子参加夏令营，什么对他们最重要？</a></li>
+                            
+                            <li><a title="冰心文学夏令营的学与游" target="_blank" href="/News/1722.html">
+                                冰心文学夏令营的学与游</a></li>
+                            
+                            <li><a title="最长的暑假，同学们去哪儿？" target="_blank" href="/News/1721.html">
+                                最长的暑假，同学们去哪儿？</a></li>
+                            
+                            <li><a title="冰心夏令营北京一期营已满，二期正在火热报名中！" target="_blank" href="/News/1720.html">
+                                冰心夏令营北京一期营已满，二期正在火热报名中！...</a></li>
+                            
+                        </ul>
+                        <div style="float: right; font-size: 12px;" class="ck_mo_more">
+                            <a style="color: #0078b6;" href="/NewsList/20.html"
+                                target="_blank">更多&gt;&gt;</a></div>
+                        <div class="clear">
+                        </div>
+                    </div>
+                    <div class="ck_news" style="display: none;">
+                        <ul>
+                            
+                            <li><a title="拿什么来拯救“互联网+在线教育”这片冰海" target="_blank" href="/News/1726.html">
+                                拿什么来拯救“互联网+在线教育”这片冰海</a></li>
+                            
+                            <li><a title="互联网大数据推动教育公平，势不可挡！" target="_blank" href="/News/1724.html">
+                                互联网大数据推动教育公平，势不可挡！</a></li>
+                            
+                            <li><a title="网络教育大潮中的撒钱运动" target="_blank" href="/News/1711.html">
+                                网络教育大潮中的撒钱运动</a></li>
+                            
+                            <li><a title="教育行业惊现“滴滴打车”补贴模式" target="_blank" href="/News/1709.html">
+                                教育行业惊现“滴滴打车”补贴模式</a></li>
+                            
+                            <li><a title="教育培训的未来在线下还是线上？" target="_blank" href="/News/1707.html">
+                                教育培训的未来在线下还是线上？</a></li>
+                            
+                        </ul>
+                        <div style="float: right; font-size: 12px;" class="ck_mo_more">
+                            <a style="color: #0078b6;" href="/NewsList/21.html"
+                                target="_blank">更多&gt;&gt;</a></div>
+                        <div class="clear">
+                        </div>
+                    </div>
+                    <div class="ck_liantu"><a href="http://www.eee114.com/Activities/StarTeacherIndex" target="_blank">&nbsp;<img alt="名师示范课" src="http://video.eee114.com/Info_BoothInfo/634783011597656250.gif" /></a><a href="http://www.eeduol.com/videoNew" target="_blank">&nbsp;<img src="http://video.eee114.com/Info_BoothInfo/636657104673751696.png" alt="" width="154" height="82" /></a> </div>
+        <li style="border-right: none;">                            <div class="ck_biaoti">                                <div class="ck_goy_jiao1">                                </div>                                <div class="ck_goy_centre">                                    <h3 class="ck_ic" style="background: none; font-family: 微软雅黑; font-size: 16px; line-height: 28px;">                                        清大IC</h3>                                </div>                                <div class="ck_goy_jiao2">                                </div>                                <div class="clear">                                </div>                            </div>                            <div class="ck_xiawenzi">                                <div class="ck_xialeft">                                    <div class="ck_tu1">                                        <a href="/IC/Index.shtml" title="清大IC">                                            <img alt="清大IC" src="http://static.eee114.com/index3/images/ck_tu1.gif" /></a>                                    </div>                                    <div class="ck_ljian">                                        </div>                                </div>                                <div class="ck_xiaright">                                    <a>师生需求</a> <a>在线撮合</a> <a>即时沟通</a> <a>短信提醒</a> <a>教学管理</a> <a>安全支付</a>                                </div>                                <div class="clear">                                </div>                                <div class="ck_jinruaniu">                                    <input value="" class="ck_inpt ck_jir" type="button" onclick="location.href='../IC/Index.shtml'" /></div></div>                        </li>
+        
+                    
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+            
+        </div>
+        <input name="isIndex" type="hidden" value='1' />
+		<div class="ck_footer" style="height:275px; background-color:#f0f0f0;"><!--style是添加广告条代码，不需要广告条style去掉-->
+		<div style="width:985px;margin:20px auto 0px;">
+		<a target="_blank" href="http://www.xuexiba.com/">  <img src="http://static.eee114.com/index3/images/n_indexbot.jpg" /></a></div><!--广告条-->
+
+            
+            
+			        <!--清大世纪旗下网站-->
+            <div class="ck_huoban" style="margin-top: 20px; padding-bottom: 10px;">
+                <h3 class="ck_hezuo">
+                    清大世纪旗下网站:</h3>
+                <div class="ck_mingcheng">
+                    <a href="http://www.eeduol.com" target="_blank">清大世纪官网</a> | <a href="http://www.jiabaobei.cn"
+                        target="_blank">家宝贝成长俱乐部</a> | <a href="http://www.familybaby.cn" target="_blank">家宝贝艺术幼儿园</a>
+                    |  <a href="http://www.52youxue.com"
+                        target="_blank">游学网</a> | <a href="http://www.158.cn" target="_blank">158问答平台</a>
+                    | <a href="http://www.yi8edu.com" target="_blank">艺吧</a> | <a href="http://www.51yzlb.com"
+                        target="_blank">清大云卓</a> | <a href="http://www.e177.com" target="_blank">家宝贝全脑开发系统</a>| <a href="http://www.iyiyan.cn" target="_blank">艺眼</a>
+                </div>
+                <div class="clear">
+                </div>
+            </div>
+            <div class="ck_footer1">
+                <div class="ck_lyo">
+                    <a target="_blank" href='/About/AboutUs.shtml'>关于我们</a> | <a target="_blank"
+                        href='/Activities/TeacherTeam.shtml'>专家顾问</a> | <a target="_blank"
+                            href='/About/Announce.shtml'>免责申明</a> | <a target="_blank" href='/About/Cooperation.shtml'>
+                                商务合作</a>  | <a target="_blank" href='http://xueku.eee114.com/'>清大学库</a>
+                    | <a target="_blank" href='/About/Complaints.shtml'>投诉建议</a> | <a
+                        target="_blank" href='/About/HelpCenter.shtml'>帮助中心</a> | <a target="_blank"
+                            href='/About/ContactUs.shtml'>联系我们</a> | <a target="_blank" href='/About/FriendLink.shtml'>
+                                友情链接</a> | <a target="_blank" href='/sitemap.html'>网站地图</a>
+                </div>
+                <div class="ck_zipxn">
+                    北京清大世纪教育投资顾问有限公司<br />
+                    经营许可证编号：京ICP备09004306号-20 | 京ICP证060099号 | <a href="/About/shiting.shtml" style="color: #7A7A7A">
+                        网络视听许可证0110588号</a> | 京公网安备11010702001488<br />
+                    Copyright © 2007-2016 Eedu All Rights Reserved.<br />
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+
+</body>
+<script type="text/javascript" src="/Scripts/jquery-1.6.4.min.js"></script>
+<script src="/Scripts/artDialog4.1.1/artDialog.js?skin=blue" type="text/javascript"></script>
+<script src="/Scripts/artDialog4.1.1/artDialog.iframeTools.js" type="text/javascript"></script>
+<script src="/Scripts/IC/artJs.js" type="text/javascript"></script>
+<script src="/Scripts/Login.js" type="text/javascript"></script>
+<script src="/Scripts/Index.js" type="text/javascript"></script>
+<script src="/Scripts/discuz.js" type="text/javascript"></script>
+<script src="/Scripts/jquery.placeholder.js" type="text/javascript"></script>
+<script src="http://static.eee114.com/index3/js/move.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function () {
+        InitIndex();
+        IndexIsShowCode();
+        BindEvent();
+        getUserInfo();
+    });
+</script>
+<script type='text/javascript' src='http://kf01.eeduol.com/kf.php?arg=eeduol&style=1'></script>
+
+
+<div style="display: none;">
+    <script src="/Scripts/tsingda-fixed.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/Scripts/UserInfo.js"></script>
+</div>
+<script src="/Scripts/tsingda-fixed-AD.js" type="text/javascript"></script>
+<!-- <script type='text/javascript' src='http://kf01.eeduol.com/kf.php?arg=eeduol&style=1'></script>
+<script id="pap_x2s6df8d" src="http://union.eee114.com/scripts/track.js" type="text/javascript"></script>  -->
+<script type="text/javascript">
+<!--
+    papTrack(); 
+    //-->
+</script>
+
+
+<script type="text/javascript">
+    $("#username").placeholder({
+        labelMode: false,
+        labelStyle: {
+            margin: "5px 0 0 12px",
+            fontSize: "14px",
+            color: "#CCCCCC"
+        },
+        labelAlpha: true,
+        labelAcross: true
+    });
+    $("#password").placeholder({
+        labelMode: false,
+        labelStyle: {
+            margin: "5px 0 0 12px",
+            fontSize: "14px",
+            color: "#CCCCCC"
+        },
+        labelAlpha: true,
+        labelAcross: true
+    });
+
+    //特色课程特效初始化  Init方法在index.js中
+    $(function () {
+        IndexCharacteristicCourse.Init();
+    })
+</script>
+</html>
+<!--生成时间：2020/2/11 11:35:30-->
+��\pW���]4c�?��=r%9yP-vm�r��!�2�b�&<,T*0_TS�~����f6�ʹ�wƆ�b]�Õ���!Db�2_�9 Ĥ6�k[i�{y���ETҵCo���2���A�0bl8���v�Vyuͻ�Л����^im$Q�7`Hl̜fK��/HF

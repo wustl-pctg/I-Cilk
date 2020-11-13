@@ -1,0 +1,20 @@
+HTTP/1.1 301 
+Date: Tue, 11 Feb 2020 03:16:52 GMT
+Connection: close
+Set-Cookie: __cfduid=dcf7222ae482e60f29b1fb91a21cf1fbf1581391012; expires=Thu, 12-Mar-20 03:16:52 GMT; path=/; domain=.okcupid.com; HttpOnly; SameSite=Lax
+x-okws-version: OKWS/666
+location: https://www.okcupid.com/
+p3p: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT", policyref="http://www.okcupid.com/w3c/p3p.xml"
+set-cookie: siftsession=18293370784790371486; Expires=Wed, 12 Feb 2020 03:16:52 GMT; Path=/; Domain=okcupid.com
+x-frame-options: sameorigin
+x-xss-protection: 1; mode=block
+referrer-policy: strict-origin-when-cross-origin
+content-security-policy-report-only: default-src https: data: 'unsafe-inline' 'unsafe-eval'; report-uri /1/apitun/security/csp-report;
+set-cookie: guest=20806822118510958; Expires=Wed, 10 Feb 2021 03:16:52 GMT; Path=/; Domain=okcupid.com; HttpOnly
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 56332aa41e5da607-IND
+
+
+00
+

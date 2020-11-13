@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/clang/5.0.0/lib/linux/libclang_rt.msan_cxx-x86_64.a  CMakeFiles/clang_rt.msan_cxx-x86_64.dir/msan_new_delete.cc.o ../ubsan/CMakeFiles/RTUbsan_cxx.x86_64.dir/ubsan_handlers_cxx.cc.o ../ubsan/CMakeFiles/RTUbsan_cxx.x86_64.dir/ubsan_type_hash.cc.o ../ubsan/CMakeFiles/RTUbsan_cxx.x86_64.dir/ubsan_type_hash_itanium.cc.o ../ubsan/CMakeFiles/RTUbsan_cxx.x86_64.dir/ubsan_type_hash_win.cc.o
+/usr/bin/ranlib ../../../../lib/clang/5.0.0/lib/linux/libclang_rt.msan_cxx-x86_64.a

@@ -1,0 +1,6 @@
+proxy (w/out)	2.38 s (1.00x)	 820.6 KB (1.00x)
+proxy (with)	3.05 s (1.28x)	1020.1 KB (1.24x)
+email (w/out)	4.89 s (1.00x)	1260.7 KB (1.00x)
+email (with)	5.61 s (1.15x)	1473.5 KB (1.17x)
+jserver (w/out)	2.41 s (1.00x)	 840.6 KB (1.00x)
+jserver (with)	3.14 s (1.30x)	1024.4 KB (1.22x)

@@ -1,0 +1,9 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://www.usbank.com/
+Strict-Transport-Security: max-age=31536000
+Content-Length: 0
+Date: Tue, 11 Feb 2020 03:16:10 GMT
+Connection: close
+Set-Cookie: bm_sz=A22DA7D5DD62A5FC7C06F5F24D98DB88~YAAQDwnorL06RyBwAQAA2T8/MgYmIIDT1uFbkV64QLXBZdqPy62qfwfyw3XB9ncfoB2E3DcO2xOInAzLM0gVVDAmod7FkU3qby5Trd8rZhfroHJkpKd1fFRIyWJ2u390Pvo8enSnr3X3Pv5k2gDiHtc26hz0VluTk72s3JyFpdw9HI/g91xIoHmo4irH3QrY; Domain=.usbank.com; Path=/; Expires=Tue, 11 Feb 2020 07:16:10 GMT; Max-Age=14400; HttpOnly
+Set-Cookie: _abck=6319D7239EC16794315B15CD436CDCB1~-1~YAAQDwnorL46RyBwAQAA2T8/MgMEZJQ4scXGdnvEiiVgZvaC2aFnm+N88oYm2uMub9d2JQ47bSa7if4tL9vkYwTc8g3Hu+EaBJ6mOEBygKhI6org93FBUkSECkNk56UqouW0EELmgH7cq2p373NLNMLV4E1vUWWJVIoI0FASnkY7iVEI55FI8IXedPvd7AWPA61UQYsgq/87/7K1CHZvsUjsdMS5sj4CZroheTp+dJHgXtJCYrf7u/fRaMgNs4Ymg/TXID2dowZkZ7w+p7hPPQpgima7~-1~-1~-1; Domain=.usbank.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:10 GMT; Max-Age=31536000
+

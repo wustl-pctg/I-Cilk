@@ -1,0 +1,3428 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 11 Feb 2020 04:01:16 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Location: https://tankionline.com//
+
+a2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+
+r><center>nginx</center>
+</body>
+</html>
+
+X-Ws-Request-Id: 5e422708_PSmgzjgORD1wl38_234012-8283
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+googletagmanager.com https://www.google-analytics.com https://ssl.google-analytics.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com test-api.sumsub.com api.sumsub.com www.paypalobjects.com js.braintreegateway.com www.paypal.com 'unsafe-inline' 'unsafe-eval'; style-src player.youku.com c.mql5.com 'unsafe-inline'; img-src 'self' msg1.mql5.com c.mql5.com www.mql5.com content.mql5.com download.mql5.com charts.mql5.com www.metatrader5.com www.metatrader4.com www.metaquotes.net www.metaquotes.ru trade.mql5.com blob: *.tile.openstreetmap.org connect.facebook.net www.facebook.com https://c.paypal.com https://b.stats.paypal.com https://www.googletagmanager.com https://www.google-analytics.com https://googleads.g.doubleclick.net https://www.google.com t.paypal.com; media-src 'self' msg1.mql5.com trade.mql5.com c.mql5.com; font-src c.mql5.com trade.mql5.com; connect-src 'self' content.mql5.com trade.mql5.com https://msg1.mql5.com wss://msg1.mql5.com wss://gwt1.mql5.com wss://gwt2.mql5.com wss://gwt3.mql5.com wss://gwt4.mql5.com wss://gwt5.mql5.com wss://gwt6.mql5.com wss://gwt7.mql5.com wss://gwt8.mql5.com wss://gwt9.mql5.com wss://gwt10.mql5.com wss://gwt11.mql5.com wss://gwt12.mql5.com wss://gwt13.mql5.com wss://gwt14.mql5.com wss://gwt15.mql5.com wss://gwt99.mql5.com connect.facebook.net www.facebook.com https://www.google-analytics.com www.paypal.com payments.sandbox.braintree-api.com api.sandbox.braintreegateway.com origin-analytics-sand.sandbox.braintree-api.com; frame-src 'self' c.mql5.com trade.mql5.com content.mql5.com player.youku.com www.youtube.com www.facebook.com https://c.paypal.com https://www.googletagmanager.com https://bid.g.doubleclick.net test-api.sumsub.com api.sumsub.com www.sandbox.paypal.com blob: mql5buy: mql4buy:; object-src 'self' c.mql5.com trade.mql5.com player.youku.com www.youtube.com blob:; child-src 'self' c.mql5.com trade.mql5.com player.youku.com www.youtube.com blob:;
+Set-Cookie: uniq=5048818487076428038; Domain=.mql5.com; Path=/; Expires=Mon, 11-Feb-2030 04:01:10 GMT; SameSite=None; Secure
+Set-Cookie: lang=en; domain=.mql5.com; expires=Mon, 11-Feb-2030 04:01:10 GMT; path=/
+X-XSS-Protection: 1;
+X-Content-Type-Options: nosniff
+Date: Tue, 11 Feb 2020 04:01:10 GMT
+Connection: close
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>Document Moved</TITLE></HEAD><BODY><H1>Document Moved</H1>
+The document has moved <A HREF="https://www.mql5.com/">here</A>.</BODY></HTML>
+</div>
+    <div class="scrollD">
+        <div class="maskFilter" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/03/-p219Q5-434aZeT3cS140-fa.jpg)"></div>
+        <a class="pic" href="https://bbs.nga.cn/read.php?tid=20246285" title="2019年&2020年之交的迪拜游">
+            <img src="https://img.nga.178.com/attachments/mon_202002/03/-p219Q5-434aZeT3cS140-fa.jpg" alt="2019年&2020年之交的迪拜游">
+        </a>
+        <div class="txt">
+            <a href="https://bbs.nga.cn/read.php?tid=20246285" title="" target="_blank"><h2 class="tit">2019年&2020年之交的迪拜游</h2></a>
+        </div>
+    </div>
+    <div class="scrollD">
+        <div class="maskFilter" style="background-image:url(https://img.nga.178.com/attachments/mon_202001/30/-421abQ5-h02uZ20T3cS140-fa.jpg)"></div>
+        <a class="pic" href="https://bbs.nga.cn/read.php?tid=20188742" title="炉石传说NGA国服周报“巨龙降临”第4期——以德服贼">
+            <img src="https://img.nga.178.com/attachments/mon_202001/30/-421abQ5-h02uZ20T3cS140-fa.jpg" alt="炉石传说NGA国服周报“巨龙降临”第4期——以德服贼">
+        </a>
+        <div class="txt">
+            <a href="https://bbs.nga.cn/read.php?tid=20188742" title="" target="_blank"><h2 class="tit">炉石传说NGA国服周报“巨龙降临”第4期——以德服贼</h2></a>
+        </div>
+    </div>
+    <div class="scrollD">
+        <div class="maskFilter" style="background-image:url(https://img.nga.178.com/attachments/mon_202001/17/-p219Q5-9krxZ1zT3cS1jk-v9.jpeg)"></div>
+        <a class="pic" href="https://bbs.a9vg.com/thread-7100140-1-1.html" title="闪迪任天堂Switch授权款128G专用存储卡正式上市 回帖参与抽奖">
+            <img src="https://img.nga.178.com/attachments/mon_202001/17/-p219Q5-9krxZ1zT3cS1jk-v9.jpeg" alt="闪迪任天堂Switch授权款128G专用存储卡正式上市 回帖参与抽奖">
+        </a>
+        <div class="txt">
+            <a href="https://bbs.a9vg.com/thread-7100140-1-1.html" title="" target="_blank"><h2 class="tit">闪迪任天堂Switch授权款128G专用存储卡正式上市 回帖参与抽奖</h2></a>
+        </div>
+    </div>
+    <div class="scrollD">
+        <div class="maskFilter" style="background-image:url(https://img.nga.178.com/attachments/mon_202001/13/-p219Q5-5gnbZsT3cS140-fa.jpg)"></div>
+        <a class="pic" href="https://bbs.nga.cn/read.php?tid=19991254" title="《帕斯卡契约》先行评测——手游中的3A大作">
+            <img src="https://img.nga.178.com/attachments/mon_202001/13/-p219Q5-5gnbZsT3cS140-fa.jpg" alt="《帕斯卡契约》先行评测——手游中的3A大作">
+        </a>
+        <div class="txt">
+            <a href="https://bbs.nga.cn/read.php?tid=19991254" title="" target="_blank"><h2 class="tit">《帕斯卡契约》先行评测——手游中的3A大作</h2></a>
+        </div>
+    </div>
+
+        </div>
+    </div>
+    <div class="scrollF"></div>
+    <div class="scrollG">
+        <div class="scrollE"></div>
+    </div>
+    <div class="scrollL"></div>
+    <div class="scrollR"></div>
+</div>
+</div>
+<div class="body clearfix">
+    <div class="boxL">
+        <div class="block02"><!--导航-->
+            <ul class="clearfix sub01">
+                <li data-tagName="热帖"><a href="//nga.cn/" target="_self">全部</a></li>
+                <li data-tagName="什么值得玩"><a href="//nga.cn/v/smzdw/" target="_self">什么值得玩</a></li>
+                <li data-tagName="魔兽世界"><a href="//nga.cn/v/wow/" target="_self">魔兽</a></li>
+                <li data-tagName="NGA档案馆"><a href="//nga.cn/v/archive/" target="_self">NGA档案馆</a></li>
+                <li data-tagName="炉石传说"><a href="//nga.cn/v/hs/" target="_self">炉石</a></li>
+                <li data-tagName="" class="a02" data-menu="">精品栏目
+                    <i class="icon01"></i>
+                    <div class="hideLi fadeInDown animated200" style="display: none;">
+                        <div class="li"><a href="//nga.cn/v/topw/">一周游戏热推榜</a></div>
+                        <div class="li"><a href="//nga.cn/v/zc/">你玩游戏我买单</a></div>
+                        <div class="li"><a href="//nga.cn/v/cy/">张嘴吃药</a></div>
+                        <div class="li"><a href="//nga.cn/v/yd/">这游戏有毒</a></div>
+                        <div class="li"><a href="//nga.cn/v/bjy/">百家言</a></div>
+                        <div class="li"><a href="//nga.cn/v/ngaer/">NGAer</a></div>
+                        <!--<div class="li"><a href="//nga.cn/special/">更多专题</a></div>-->
+                        <div class="li"><a href="//nga.cn/v/pic/">看图</a></div>
+                    </div>
+                </li>
+                <li class="a03" data-menu="">更多
+                    <i class="icon02"></i>
+                    <div class="hideLi fadeInDown animated200">
+                        <div class="li"><a href="//nga.cn/v/lol/">英雄联盟</a></div>
+                        <div class="li"><a href="//nga.cn/v/dota2/">DOTA2</a></div>
+                        <div class="li"><a href="//nga.cn/v/cr/">皇室战争</a></div>
+                        <div class="li"><a href="//nga.cn/v/hots/">风暴英雄</a></div>
+                        <div class="li"><a href="//nga.cn/v/d3/">暗黑破坏神3</a></div>
+                        <div class="li"><a href="//nga.cn/v/ow/">守望先锋</a></div>
+                        <div class="li"><a href="//nga.cn/v/it/">消费电子</a></div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div class="block03"><!--第一部分内容-->
+            <ul class="topics">
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20335873" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/11/-p219Q5-2p8pKpT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">炉石传说</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20335873" title="炉石传说渡鸦年退环境卡牌一览">炉石传说渡鸦年退环境卡牌一览</a>
+        </h2>
+        <p class="dig">主要是九职业的卡牌，中立卡牌因为数量过多就只是单独讨论，不放图片了。</p>
+        <div class="oth">
+            <span class="f">炉石传说</span>
+                        <span class="a">贝克汉野 </span>
+                        <span class="d">2020.02.11</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20338979" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/11/-p219Q5-3izaKpT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">干掉昨天</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20338979" title="《恶魔弹珠台》评测：简单的碰撞 翻倍的乐趣">《恶魔弹珠台》评测：简单的碰撞 翻倍的乐趣</a>
+        </h2>
+        <p class="dig">简单到极致的玩法，游戏过程只需要两个按键便可以操作，任何玩家都可以轻松上手。</p>
+        <div class="oth">
+            <span class="f">干掉昨天</span>
+                        <span class="a">游戏综合讨论</span>
+                        <span class="d">2020.02.11</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20339803" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/11/-p219Q5-2wwbK13T1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">魔兽世界</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20339803" title="魔兽世界狼人法师幻化分享">魔兽世界狼人法师幻化分享</a>
+        </h2>
+        <p class="dig">和大家分享经过几套比较久的仔细搭配和微调过后个人比较满意的幻化 希望大家喜欢。</p>
+        <div class="oth">
+            <span class="f">魔兽世界</span>
+                        <span class="a">橙灬陈灬晨 </span>
+                        <span class="d">2020.02.11</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20341153" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/11/-p219Q5-etxaK12T1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">怪物猎人</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20341153" title="怪物猎人聚魔地区经验与上限数值解析">怪物猎人聚魔地区经验与上限数值解析</a>
+        </h2>
+        <p class="dig">怪物猎人世界冰原数据挖掘——聚魔地区经验与上限数值解析。</p>
+        <div class="oth">
+            <span class="f">怪物猎人</span>
+                        <span class="a">dtlnor</span>
+                        <span class="d">2020.02.11</span>
+        </div>
+    </div>
+</li>
+            </ul>
+        </div>
+        <div class="block04"><!--专栏-->
+            <div class="block04-l">
+                <div class="scrollA" >
+                    <div class="scrollB">
+                        <div class="scrollC">
+    <div class="scrollD">
+        <a class="pic" href="https://bbs.nga.cn/read.php?tid=20188742" title="炉石传说NGA国服周报“巨龙降临”第4期">
+            <img class="img" src="https://img.nga.178.com/attachments/mon_202001/30/-421abQ5-4g0iK2oT3cSjg-8c.jpg" alt="炉石传说NGA国服周报“巨龙降临”第4期">
+            <img class="mark" src="//img.nga.178.com/attachments/mon_201909/27/-ikzzQ5-40l5K4T8S2h-2u.png">
+        </a>
+        <div class="txt">
+            <a href="https://bbs.nga.cn/read.php?tid=20188742" title="" target="_blank"><h2 class="tit">炉石传说NGA国服周报“巨龙降临”第4期</h2></a>
+        </div>
+    </div>
+    <div class="scrollD">
+        <a class="pic" href="https://ngabbs.com/read.php?tid=19264768" title="流放4.0震撼来袭 与暗黑之父一起欢度嘉年华">
+            <img class="img" src="https://img.nga.178.com/attachments/mon_201911/13/-421abQ5-6245Z28T3cSru-am.png" alt="流放4.0震撼来袭 与暗黑之父一起欢度嘉年华">
+            <img class="mark" src="//img.nga.178.com/attachments/mon_201909/27/-ikzzQ5-40l5K4T8S2h-2u.png">
+        </a>
+        <div class="txt">
+            <a href="https://ngabbs.com/read.php?tid=19264768" title="" target="_blank"><h2 class="tit">流放4.0震撼来袭 与暗黑之父一起欢度嘉年华</h2></a>
+        </div>
+    </div>
+    <div class="scrollD">
+        <a class="pic" href="http://www.nga.cn/classic/index.html" title="魔兽世界怀旧服专题">
+            <img class="img" src="https://img.nga.178.com/attachments/mon_201908/28/-p219Q5-d8c9ZmT3cSjg-8c.jpg" alt="魔兽世界怀旧服专题">
+            <img class="mark" src="//img.nga.178.com/attachments/mon_201909/27/-ikzzQ5-40l5K4T8S2h-2u.png">
+        </a>
+        <div class="txt">
+            <a href="http://www.nga.cn/classic/index.html" title="" target="_blank"><h2 class="tit">魔兽世界怀旧服专题</h2></a>
+        </div>
+    </div>
+    <div class="scrollD">
+        <a class="pic" href="https://bbs.nga.cn/read.php?tid=18344555" title="老电影评分：国产经典王朝剧专题">
+            <img class="img" src="https://img.nga.178.com/attachments/mon_201908/29/-p219Q5-4vfjZbT3cSjg-8c.jpg" alt="老电影评分：国产经典王朝剧专题">
+            <img class="mark" src="//img.nga.178.com/attachments/mon_201909/27/-ikzzQ5-40l5K4T8S2h-2u.png">
+        </a>
+        <div class="txt">
+            <a href="https://bbs.nga.cn/read.php?tid=18344555" title="" target="_blank"><h2 class="tit">老电影评分：国产经典王朝剧专题</h2></a>
+        </div>
+    </div>
+
+                        </div>
+                    </div>
+                    <div class="scrollF"></div>
+                    <div class="scrollE"></div>
+                </div>
+            </div>
+            <div class="block04-r">
+                <div class="img">
+                    <div class="back">
+                        <img class="" src="//img.nga.178.com/attachments/mon_201909/27/-ikzzQ5-c179K9ToS8c-8c.png">
+                        <a href="https://www.toutiao.com/c/user/6063361128/#mid=6063361128" target="_blank" class="tt"></a>
+                        <a href="https://weibo.com/nga178com" target="_blank" class="wb"></a>
+                    </div>
+                    <div class="front">
+                        <img class="" src="//img.nga.178.com/attachments/mon_201909/27/-ikzzQ5-92tjK16ToS8c-8c.png">
+                        <a href="https://www.toutiao.com/c/user/6063361128/#mid=6063361128" target="_blank" class="tt"></a>
+                        <a href="https://weibo.com/nga178com" target="_blank" class="wb"></a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="block05 clearfix"><!--第二部分内容-->
+            <ul class="topics" id="loadEven">
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20340237" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/11/-p219Q5-6ho3KeT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">手机 网页游戏综合讨论</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20340237" title="太空策略手游《偌星STARLIKE》游戏内容披露">太空策略手游《偌星STARLIKE》游戏内容披露</a>
+        </h2>
+        <p class="dig">目前还处在开发阶段，官方会时常在微博透露一些消息，游戏也还没有进行正式的宣发，预计最早会在今年第四季度开始内部测试。</p>
+        <div class="oth">
+            <span class="f">手机 网页游戏综合讨论</span>
+                        <span class="a">璀璨天青石</span>
+                        <span class="d">2020.02.11</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20345245" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/11/-421abQ5-gdk7ZdT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">游戏综合</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20345245" title="《张嘴吃药》第180期：来安利些真实度超高的游戏吧">《张嘴吃药》第180期：来安利些真实度超高的游戏吧</a>
+        </h2>
+        <p class="dig">本期游戏安利的主题为“真实度超高的游戏”，在你玩过的游戏中，哪款游戏真实度/还原度超高？</p>
+        <div class="oth">
+            <span class="f">游戏综合</span>
+                        <span class="a">lian1121</span>
+                        <span class="d">2020.02.11</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=19793611" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/10/-ofl4xQ5-4465ZgT3cSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">阴阳师</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=19793611" title="阴阳师百闻牌词缀/式神/卡牌效果详细说明">阴阳师百闻牌词缀/式神/卡牌效果详细说明</a>
+        </h2>
+        <p class="dig">本帖为阴阳师百闻牌的词缀，式神，卡牌的效果，连锁，补充说明的整理资料楼，为了方便玩家理解，以及部分效果描述与实际效果有出入。</p>
+        <div class="oth">
+            <span class="f">阴阳师</span>
+                        <span class="a"> 希若罗 </span>
+                        <span class="d">2020.02.10</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20274993" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/10/-ofl4xQ5-3s2yK2kT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">萌 萌 宠 物</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20274993" title="雪貂喂养教程+常见病答疑">雪貂喂养教程+常见病答疑</a>
+        </h2>
+        <p class="dig">看到论坛里有人捡到雪貂，还有很多人貌似对雪貂有所误解，所以想来趁机科普一波。</p>
+        <div class="oth">
+            <span class="f">萌 萌 宠 物</span>
+                        <span class="a"> Hakushima </span>
+                        <span class="d">2020.02.10</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20333115" style="background-image:url(https://img.nga.178.com/attachments/mon_201912/13/-ofl4xQ5-8pwwK2rT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">炉石传说</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20333115" title="炉石传说2月10日7套卡组搬运">炉石传说2月10日7套卡组搬运</a>
+        </h2>
+        <p class="dig">2月10日7套——宇宙牧/打脸战/机械骑/机克战/树人德/任务贼/节奏战</p>
+        <div class="oth">
+            <span class="f">炉石传说</span>
+                        <span class="a">geyuan6</span>
+                        <span class="d">2020.02.10</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://ngabbs.com/read.php?tid=20333927" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/10/-ofl4xQ5-pi0ZaT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">手机 网页游戏综合讨论</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://ngabbs.com/read.php?tid=20333927" title="《战双帕弥什》新版本萌新入门攻略">《战双帕弥什》新版本萌新入门攻略</a>
+        </h2>
+        <p class="dig">最近有大批萌新入坑，版里提问的人比较多，有时候类似的一个问题要回答很多遍，我在这简单总结一下，同时帮助萌新做一个规划。</p>
+        <div class="oth">
+            <span class="f">手机 网页游戏综合讨论</span>
+                        <span class="a">小白白的宠物</span>
+                        <span class="d">2020.02.10</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20329570" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/10/-ofl4xQ5-gy73ZbT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">碧蓝幻想</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20329570" title="碧蓝幻想：土拳皇CB放置募集车配置&流程讲解">碧蓝幻想：土拳皇CB放置募集车配置&流程讲解</a>
+        </h2>
+        <p class="dig">虽然我自己并没有开过这样的车，不过我去共斗房体验过一次乘客，观察了他们的流程，并整理出了一个可行的思路，仅供参考。</p>
+        <div class="oth">
+            <span class="f">碧蓝幻想</span>
+                        <span class="a">路边过客·小鱼 </span>
+                        <span class="d">2020.02.10</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=19961438" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/10/-ofl4xQ5-ipndK2nT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">经典旧世</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=19961438" title="BWL精华帖整理">BWL精华帖整理</a>
+        </h2>
+        <p class="dig">黑翼之巢是魔兽世界继奥妮克希亚和熔火之心后开放的第三个40人团队Raid副本，相比前两个副本，该副本的难度有显然提升。</p>
+        <div class="oth">
+            <span class="f">经典旧世</span>
+                        <span class="a">丢你拉姆</span>
+                        <span class="d">2020.02.10</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20332677" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/10/-ofl4xQ5-1qx2K1dT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">影音讨论区</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20332677" title="第92届奥斯卡颁奖典礼">第92届奥斯卡颁奖典礼</a>
+        </h2>
+        <p class="dig">美国时间2020年2月9日(北京时间2020年2月10日)，第92届奥斯卡金像奖在美国洛杉矶好莱坞举行颁奖典礼。</p>
+        <div class="oth">
+            <span class="f">影音讨论区</span>
+                        <span class="a">银翼的两仪之鸦</span>
+                        <span class="d">2020.02.10</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=19603910" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/09/-421abQ5-7kgyK1tT1kSdw-5a.jpg)"><div class="imghide"><div class="posi"><strong class="cn">阴阳师百闻牌</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=19603910" title="阴阳师百闻牌：大名士也不会告诉你的组卡技巧和获胜思路">阴阳师百闻牌：大名士也不会告诉你的组卡技巧和获胜思路</a>
+        </h2>
+        <p class="dig">本文中一切内容仅代表作者个人观点，如有误请指出，如有意见或建议欢迎提出。</p>
+        <div class="oth">
+            <span class="f">阴阳师百闻牌</span>
+                        <span class="a">随风一跃</span>
+                        <span class="d">2020.02.09</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://bbs.nga.cn/read.php?tid=20324107" style="background-image:url(https://img.nga.178.com/attachments/mon_202002/09/-421abQ5-m5jK10T1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">影音讨论区</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://bbs.nga.cn/read.php?tid=20324107" title="今天你落泪了吗？Netflix《奥斯曼：帝国崛起》第一季剧评">今天你落泪了吗？Netflix《奥斯曼：帝国崛起》第一季剧评</a>
+        </h2>
+        <p class="dig">《奥斯曼：帝国崛起》(Rise of empires:Ottoman)是由奈飞出品的一部古装历史剧。</p>
+        <div class="oth">
+            <span class="f">影音讨论区</span>
+                        <span class="a">风雷舞</span>
+                        <span class="d">2020.02.09</span>
+        </div>
+    </div>
+</li>
+        <li class="clearfix li">
+    <div class="img"><a href="https://ngabbs.com/read.php?tid=20299232" style="background-image:url(http://img.nga.178.com/attachments/mon_202002/09/-421abQ5-1xwzKlT1kSdw-5b.jpg)"><div class="imghide"><div class="posi"><strong class="cn">战双帕弥什</strong><span class="en">read more</span></div></div></a></div>
+    <div class="txt">
+        <h2 class="tit">
+            <a href="https://ngabbs.com/read.php?tid=20299232" title="《战双》新意识：芭斯隆实测">《战双》新意识：芭斯隆实测</a>
+        </h2>
+        <p class="dig">标准的属性加成，抗性削弱，稳定大范围AOE暗属性伤害，伤害中等，约等于满启动的沙比，对群效果极佳。</p>
+        <div class="oth">
+            <span class="f">战双帕弥什</span>
+                        <span class="a">喵喵喵wuwu</span>
+                        <span class="d">2020.02.09</span>
+        </div>
+    </div>
+</li>
+            </ul>
+        </div>
+        <div class="more addMore" style="display:none">更多内容加载中&nbsp.&nbsp.&nbsp.</div>
+        <div class="more clickAddMore" style="display:none">点击加载更多内容&nbsp<span class=dot0>.</span>&nbsp<span class=dot1>.</span>&nbsp<span class=dot2>.</span></div>
+
+    </div>
+    <div class="boxR">
+        <div class="block06"><!--热帖-->
+            <div class="tit">
+                <h2>热帖</h2>
+                <span class="m" id="hotTopicFresh"><img src="//img.nga.178.com/attachments/mon_201909/26/-ikzzQ5-l28eK1So-o.png"><i id="rollText">ROLL</i></span>
+            </div>
+            <div class="select"></div>
+            <ul class="hot" id="hot">
+            </ul>
+        </div>
+        <div class="block07"><!--活动赛事-->
+            <div class="tit">
+                <ul id="eventsTag">
+                    <li class="cur" data-event="a">论坛活动</li>
+                    <li data-event="b">推荐赛事</li>
+                </ul>
+                <div class="line"></div>
+            </div>
+            <div class="events" id="events">
+                <ul class="a">
+<li>
+    <img src="https://img.nga.178.com/attachments/mon_201912/12/-421abQ5-8ni8K8T8S1o-1o.jpg">
+    <div class="info">
+        <a href="https://bbs.nga.cn/read.php?tid=19613939" class="txt" target="_blank"><strong>阴阳师百闻牌社区精英赛</strong>NGA海选赛招募帖</a>
+        <p class="tag"><span>礼包</span><span>京东价</span><span>奖金</span></p>
+        <span class="t">12.12——12.29</span>
+    </div>
+</li>
+<li>
+    <img src="https://img.nga.178.com/attachments/mon_201912/11/-421abQ5-rieK8T8S1o-1o.jpg">
+    <div class="info">
+        <a href="https://bbs.nga.cn/read.php?tid=19594420" class="txt" target="_blank"><strong>英雄联盟新赛季</strong>晒战绩活动</a>
+        <p class="tag"><span>Q币</span><span>官方手办</span></p>
+        <span class="t">12.11——12.20</span>
+    </div>
+</li>
+<li>
+    <img src="https://img.nga.178.com/attachments/mon_201911/08/-421abQ5-fdrgK5T8S1o-1o.jpg">
+    <div class="info">
+        <a href="https://bbs.nga.cn/read.php?tid=19222409" class="txt" target="_blank"><strong>《幽灵行动：断点》打折活动</strong>回帖赢黄金版KEY</a>
+        <p class="tag"><span>幽灵行动断点黄金版KEY</span></p>
+        <span class="t">11.10——11.15</span>
+    </div>
+</li>
+<li>
+    <img src="https://img.nga.178.com/attachments/mon_201911/07/-p219Q5-iq52K7T8S1o-1o.jpg">
+    <div class="info">
+        <a href="https://bbs.nga.cn/read.php?tid=19184750" class="txt" target="_blank"><strong>寻找你身边的符文法师</strong>玩《奇迹MU》赢取北海巨妖耳机</a>
+        <p class="tag"><span>北海巨妖耳机</span><span>保温杯</span><span>鼠标垫</span></p>
+        <span class="t">11.07-11.22</span>
+    </div>
+</li>
+<li>
+    <img src="https://img.nga.178.com/attachments/mon_201910/18/-p219Q5-1vuoK8T8S1o-1o.jpg">
+    <div class="info">
+        <a href="https://ngabbs.com/read.php?tid=19172548" class="txt" target="_blank"><strong>《剑与远征》攻略征集</strong>京东卡等你来拿！</a>
+        <p class="tag"><span>京东卡</span></p>
+        <span class="t">11.06—11.20</span>
+    </div>
+</li>
+<li>
+    <img src="https://img.nga.178.com/attachments/mon_201911/05/-p219Q5-4fixK7T8S1o-1o.jpg">
+    <div class="info">
+        <a href="https://bbs.nga.cn/read.php?tid=19161352" class="txt" target="_blank"><strong>AGON魔兽争霸重制版</strong>福利活动大放送</a>
+        <p class="tag"><span>AGON显示器，电竞鼠标</span></p>
+        <span class="t">11.05—11.18</span>
+    </div>
+</li>
+
+                </ul>
+                <ul class="b" style="display:none" id="matches">
+                </ul>
+            </div>
+        </div>
+    </div>
+
+</div>
+<div class="block09"><!--底部-->
+    <div class="content">
+    <div class="totop"></div>
+        <h2>友情链接</h2>
+        <ul class="friendLink clearfix">
+            <li>
+                <a href="http://bbs.nga.cn/" target="_blank">NGA社区</a>
+            </li>
+            <li>
+                <a href="http://app.178.com/" target="_blank">NGA客户端</a>
+            </li>
+            <li>
+                <a href="http://www.178.com/" target="_blank">178游戏网</a>
+            </li>
+            <li>
+                <a href="http://www.nga.cn/lolrating/" target="_blank">LOL一周韩服胜率</a>
+            </li>
+            <li>
+                <a href="http://www.tgbus.com/" target="_blank">电玩巴士</a>
+            </li>
+            <li>
+                <a href="http://www.titanar.com/" target="_blank">神之梯炉石线上赛</a>
+            </li>
+            <li>
+                <a href="http://bbs.a9vg.com/forum.php" target="_blank">A9VG</a>
+            </li>
+            <li>
+                <a href="http://www.g.com.cn" target="_blank">引力资讯</a>
+            </li>
+            <li>
+                <a href="http://cc.163.com/" target="_blank">网易cc</a>
+            </li>
+            <li>
+                <a href="http://www.vpgame.com" target="_blank">VPGAME DOTA2</a>
+            </li>
+            <li>
+                <a href="https://www.varena.com" target="_blank">VARENA电竞</a>
+            </li>
+        </ul>
+        <div class="footer_v5">
+            <a class="NGAPO1" href="//nga.cn/"><svg xmlns="http://www.w3.org/2000/svg" class="ngalogo" viewBox="129.22 30.208 1120.58 411.795"><path fill-rule="evenodd" d="M1192.47 335.038L1165.6 219.78l-8.62-2.889 7.7 118.147h-59V82.75l5.75-5.853 46.75-5.5L1188.6 189.6l8.78 2.567L1189.93 83l3.33-5.884 56.54-5.449v263.371h-57.33zm-234.661-.538l-10.352-8.734-9.16-57.937.053-11.09 9.291-167.1 9.631-9.9 92.158-13.713 28.49 34.508 5.5 40.053v30.233h-53.2l-11.51-55.48-17.86 3.149-5.1 149.449 5.1 23.035 22.05-3.722 6.73-52.221 53.79.011v73l-19.46 26.438zM898.5 288.715h34.044V335H898.5v-46.285zm-75.236-.39h-25.438l-4.276 46.713h-62.614l30.132-248.484 10.408-9.636 81.144-9.271 36.232 267.391h-61.771zm-10.229-158.973L807.128 133 796.92 242.254h24.48zM669.371 316.417l-16.115 18.059-64.447.019-10.352-8.734-9.16-57.937.053-11.09 9.291-167.1 9.631-9.9 92.156-13.713 28.5 34.508 5.491 40.053v30.238h-53.2l-11.5-55.48-17.861 3.149-5.1 149.449 5.1 23.035 22.047-3.722 3.07-21.4 3.667-30.821h-19.488v-39.489h73.261v139.5H675.15zm-122.9 18.621h-57.337L462.271 219.78l-8.629-2.889 7.7 118.147h-58.993V82.75l5.751-5.85 46.75-5.5 30.414 118.2 8.787 2.567L486.593 83l3.336-5.884 62.208-7.468L546.47 101v234.038zm-142.462 30.815h-13.692v6.678h-11.5v-6.678H359.4v6.678h-11.3v-6.678h-14.093v-8.071H348.1v-6.795h11.3v6.795h19.408v-6.795h11.5v6.795H404v8.071zm-234.822-79.74l-39.967-2.864V30.208h225.066l-3.241 45.227 27.772 1.99v257.637H165.681zm29.651-207.861l-11.5 3.113-10.947 19.082 17.7 12.294 18.836-5.649.721-2.125-2.778-23.806 3.658-26.774zm44.005 3.472l-10.358 17.594 5.886 19.985 8.53-4.207 8.773-3.079 4.846-23.094L264.7 51.8zm41.569 6.755L269.1 112.263l4.08 15.258 18.785-4.063 3.972-16.213 2.875-14.007 3.659-26.774zm32.2 19.806l-15.772 23.489 4.1 11.71 15.617-4.165 9.09-21.65 5.375-27.933zm37.24 34.067l-.822-9.27 1.881-14.973-13.04 19.749-13.62 3.757 5.87 16.816 14.175.083zM261.48 302.875l27.273 10.638 19.234-35.658-12.241-31.208-50.99-7.719-2.656 34.283zm-58.357-137.367l31.5 1.976 68.321 52.41 12.569 3.58 20.868-11.174-2.187-24.364-76.618-50.41-71.294-8.139-34.841 33.519-3.041 27.824s11.908 24.2 20.466 36.516c11.464.276 40.155 1.029 40.155 1.029l-11.2-54.534zm-31.088 190.144l2.528 18.455-6.16-.328L166.2 356.4zm17.6 18.455l2.92-18.455 4.43.743-3.28 17.712h-4.07zm-22.264 16.526v-8.926h9.51v-30.674h9.846v30.654h8.295v8.925h-8.445l11.585 24.528-4.428 6.715-2.972-7.967-3.631-8.1-.383 36.212h-9.883v-.02l.219-36.193-4.218 11.253-4.146 10.139-5.72-8.493 13.676-28.053h-9.306zm48.164-12.764h-12.589v-5.7h12.591v-8.023h-13.413v-6.463h13.413v-6.653h11.284v6.653h13.416v6.463h-13.416v8.023H239.3v5.7h-12.479v8.242h15.246v7.3h-40.86v-7.3h14.33v-8.242zm23.765 64.093h-9.744l1.019-2.1V429.1h-18.904v12.865h-8.725v-41.524H239.3v41.521zm-20.7-34.279h-6.931v14.663h6.931v-14.663zm11.975 0h-6.725v14.663h6.725v-14.663zm-1.028 34.279h.009l-.009.018v-.018zm112.912-58.531H362.9v-8.48h12.4v8.48h20.436v20.362h7.352v9.35h-22.676l3.2 3.638a83.019 83.019 0 0 0 19.446 16.241l-7.2 8.964a102.793 102.793 0 0 1-24.7-23.443l-1.581-2.09-1.856 1.741c-2.756 3.544-12.461 15.428-25.067 23.792l-7.316-9.022a88.52 88.52 0 0 0 19.352-16.183l3.27-3.638h-23.053v-9.35h7.554v-20.362zm32.841 20.362h10.75V391.1H375.3v12.7zm-23.158 0H362.9V391.1h-10.756v12.7zm154.719-9.99h-6.031v-11.515h6.031v-18.44h-6.776v-11.717H525.5v11.739h-6.224v18.44h5.262v11.512h-5.262v22l7.854-.556v11.944l-28.869 2.058V417.3l8.6-.575V393.8zM572.519 351v11.164h-37.257V351h37.257zm5.048 36.737h-7.426V430.5h8.23l.924-.761v11.245h-21v-53.267h-8.329l-3.634 54.254-11.782-.721 3.555-53.514h-6.933V376.8h46.39v10.934zm120.066-36.749h14.28v7.472h28.62v20.007h-10.527V367h-50.464v11.464h-10.529v-20.005h28.62v-7.472zm4.76 56.974l-.342-3.379-28.037 16.129-4.174-6.221 31.019-16.937-1.753-6.97-24.326 13.1-4.193-6.758 23.536-11.792-1.048-4.05h-5.931v-6.761h35.276v6.761h-14.1l1.372 2.993a79.408 79.408 0 0 1 3.427 9.237l.906 2.88 16.319-11.232 5.83 7.641-16.923 11.139L741 428.468l-8.187 7.144-16.665-20.512-.564 5.377a64.2 64.2 0 0 1-6.294 21.526l-13.471-2.8.381-.212.283-.673a76.951 76.951 0 0 0 3.974-11.348l1.271-5.069-26.885 15.975-4.741-6.7 32.413-18.3v-1.228a34.229 34.229 0 0 0-.122-3.687zm158.148-54.115l-5.289 11.553v75.63H844.87L845 387l-4.024 9.42-2.476 5.38-6.816-8.076 20.046-42.668zm6.174 1.359h36.763v56.57h6.136v9.163h-48.135v-9.163h5.236v-56.57zm10.088 56.57h16.479v-7.959H876.8v7.959zm0-13.823h16.479V389.9H876.8v8.056zm0-13.3h16.479V376.7H876.8v7.959zm0-13.609h16.479v-8.056H876.8v8.056zm4.352 59.775l-11.849 11.161-6.705-7.454 12.05-11.065zm29.581 3.727l-6.56 7.434-11.924-11.16 6.394-7.358zm113.7-18.671l-15.67 21.9-7.5-7.324 15.66-21zm6.89-13.681h-28.57v-10.31h5.93v-35.441L1061.64 351l1.16 9.087-42.62 4.439v27.362h11.14v-20.58h13.82v20.58h26.28V402.2h-26.28V442h-16.42l2.61-3.313V402.2zm44.2 28.233l-7.59 7.324-15.58-21.779 7.51-6.434zm98.44-61.071h-3.86v-8.624h13.53v-9.684h11.27v9.684h14.16v8.624h-4.68v17.619h5.72v9.606h-42.18v-9.606h6.04v-17.618zm9.81 17.619h11.02v-17.618h-11.02v17.619zM1207.51 442h-35.63v-35.2h35.63V442zm-10.22-25.3h-14.86v15.694h14.86V416.7zm42.26-26.851l.46.748a46.807 46.807 0 0 1 6.55 23.472c0 10.293-4.02 21.372-12.86 21.372h-7.22v6.459h-10.25V353H1247zm-13.11-26.616v24.79h.02l4.2.413 4.64-25.2h-8.86zm4.01 28.9l-3.99 1.061v30.6h2.94c3.96 0 6.5-4.576 6.5-11.667 0-5.841-2.18-13.876-5.45-20.003z" data-name="Color Fill 5"/></svg></a>
+            <!--<a class="NGAPO2" href="http://beian.gov.cn"><img src="//img.nga.178.com/attachments/mon_201909/26/-ikzzQ5-429tK3S1e-1z.gif" alt=""></a>-->
+            <div class="NGAPO3">北京月神之箭网络科技有限公司 Copyright  2018<br><a href='http://beian.miit.gov.cn'>京ICP备16021487号-7</a><br><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802027588">京公网安备 11010802027588号</a></div>
+            <div class="NGAPO5">商务合作<br>wangchuang#donews.com<br>销售合作<br>wangyanzhe#donews.com<br>多牛传媒旗下网站</div>
+        </div>
+    </div>
+</div>
+
+    <script src='//w.cnzz.com/c.php?id=30039253' type='text/javascript'></script>
+    <script src='//w.cnzz.com/c.php?id=1254438192' type='text/javascript'></script>
+</body>
+</html>
+" style="display:block;" >
+                    <div class="index-music-img" >
+                        <a href="/play/189301.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_3105530909998.jpg" alt="Blasterjaxx Ft Junior Funke-Monster(Luca Testa)-女Hardstyle"></a>
+                        <p>外文DISCO</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189301.html" target="_Pt">Blasterjaxx Ft Junior Funke-Monster(Luca Testa)-女Hardstyle</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>DjSnake Ft Eptic Yultron-SouthSide(Yultron Mix)-男Hardstyle</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189300.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_211556096136438.jpg" alt="DjSnake Ft Eptic Yultron-SouthSide(Yultron Mix)-男Hardstyle"></a>
+                        <p>外文DISCO</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189300.html" target="_Pt">DjSnake Ft Eptic Yultron-SouthSide(Yultron Mix)-男Hardstyle</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>DJSnake Ft Tchami Malaa-Made In France(Nitti)-男Hardstyle</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189299.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_6173434877955.jpg" alt="DJSnake Ft Tchami Malaa-Made In France(Nitti)-男Hardstyle"></a>
+                        <p>外文DISCO</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189299.html" target="_Pt">DJSnake Ft Tchami Malaa-Made In France(Nitti)-男Hardstyle</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>Gloria Gaynor-I Will Surive(Djkene Mix)-女Hardstyle</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189298.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_51109397304651.jpg" alt="Gloria Gaynor-I Will Surive(Djkene Mix)-女Hardstyle"></a>
+                        <p>外文DISCO</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189298.html" target="_Pt">Gloria Gaynor-I Will Surive(Djkene Mix)-女Hardstyle</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>五月天 - 入阵曲(McYaoyao Electro Rmx 2020)</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189294.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_02200142707483.jpg" alt="五月天 - 入阵曲(McYaoyao Electro Rmx 2020)"></a>
+                        <p>中文CLUB</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189294.html" target="_Pt">五月天 - 入阵曲(McYaoyao Electro Rmx 2020)</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>文慧茹 - Kiss Goodbye(McYaoyao Electro Rmx 2020)</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189293.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_21843117640497.jpg" alt="文慧茹 - Kiss Goodbye(McYaoyao Electro Rmx 2020)"></a>
+                        <p>中文CLUB</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189293.html" target="_Pt">文慧茹 - Kiss Goodbye(McYaoyao Electro Rmx 2020)</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>温力铭 - 贱人(粤语 Dj阿帆 Electro Rmx 2020)</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189292.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_2047242429926.jpg" alt="温力铭 - 贱人(粤语 Dj阿帆 Electro Rmx 2020)"></a>
+                        <p>中文CLUB</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189292.html" target="_Pt">温力铭 - 贱人(粤语 Dj阿帆 Electro Rmx 2020)</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>萧亚轩 - 错的人(Dj阿帆 Electro Rmx 2020)</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189291.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_493527422785.jpg" alt="萧亚轩 - 错的人(Dj阿帆 Electro Rmx 2020)"></a>
+                        <p>中文CLUB</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189291.html" target="_Pt">萧亚轩 - 错的人(Dj阿帆 Electro Rmx 2020)</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>魏新雨 - 百花香(Dj阿华 ElectroMelbourne Rmx 2020)</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189290.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_02159428187677.jpg" alt="魏新雨 - 百花香(Dj阿华 ElectroMelbourne Rmx 2020)"></a>
+                        <p>中文CLUB</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189290.html" target="_Pt">魏新雨 - 百花香(Dj阿华 ElectroMelbourne Rmx 2020)</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>Elin Lanto-I Can Do It(DjArs Mix)-越鼓女ElectroHouse</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189283.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_1839144681665.jpg" alt="Elin Lanto-I Can Do It(DjArs Mix)-越鼓女ElectroHouse"></a>
+                        <p>电音HOUSE</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189283.html" target="_Pt">Elin Lanto-I Can Do It(DjArs Mix)-越鼓女ElectroHouse</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>Erik Ft Min-Ghen Ghen(DjArs Mix)-越鼓男ElectroHouse</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189282.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_21609404709284.jpg" alt="Erik Ft Min-Ghen Ghen(DjArs Mix)-越鼓男ElectroHouse"></a>
+                        <p>电音HOUSE</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189282.html" target="_Pt">Erik Ft Min-Ghen Ghen(DjArs Mix)-越鼓男ElectroHouse</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                        <li>
+                <div class="index-music-sm"  >
+                    <span>Finger Ft Kadel-Kalinka(DjCupid小秋)-男女ElectroMelbourne</span><i style="color:#94d500;">02-11</i>
+                </div>
+                <div class="index-music-bg"  >
+                    <div class="index-music-img" >
+                        <a href="/play/189281.html" target="_Pt"><img src="http://jsin.vvvdj.com/upload/playbg/min_6160107363734.jpg" alt="Finger Ft Kadel-Kalinka(DjCupid小秋)-男女ElectroMelbourne"></a>
+                        <p>电音HOUSE</p>
+                    </div>
+                     <div class="index-music-ct">
+                         <h2 class="index-music-title"><a href="/play/189281.html" target="_Pt">Finger Ft Kadel-Kalinka(DjCupid小秋)-男女ElectroMelbourne</a></h2>
+                        <div class="index-music-hit">
+                            <p>0 <b style="color:#94d500;">2020/02/11</b></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+                    </ul>
+    </div>
+    <script>Disp.Detail("redq-list");</script>
+</div>
+    </div>
+</div>
+                     <div class="h10" ></div>
+                     <!--电台-->
+                     <div class="index-radio">
+    <div class="index-radio-title">
+        <span>电台</span>
+    </div>
+
+    <div class="index-radio-type">
+        <ul class="clearfix">
+            <li><a href="javascript:void(0);" style="color:#39c1de;font-weight: bold;" data-cls="ratype" data-type="ranew" data-href="/radio/s1-0.html">最新</a></li>
+            <li><a href="javascript:void(0);" data-cls="ratype" data-type="rahot" data-href="/radio/s2-0.html">热门</a></li>
+            <li style="margin-left: 25px;"><div class="changeall" id="ra-cgeall" onclick="Disp.Changeall('ranew-ralist')">换一批</div></li>
+            <li class="recommended-more" style="float: right;margin-right: 0px;"><a href="/radio/s1-0.html" id="ratype-more">更多></a></li>
+        </ul>
+    </div>
+
+    <div class="lines"></div>
+    <div class="h10" style="height: 15px"></div>
+
+        <div class="index-radio-list" id="ranew-ralist" data-cge="1" >
+        <ul id="ranew-ralist1" style="display: block">
+                        <li style="margin-right:23px;">
+                <a href="/radio/5333.html" title="清风嗨皮" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/22146406595728.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;127 首</p>
+                    <h2>清风嗨皮</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5332.html" title="精品串烧" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/23226291880915.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;20 首</p>
+                    <h2>精品串烧</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5331.html" title="喜愛??" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/751036852380.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;19 首</p>
+                    <h2>喜愛??</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5330.html" title="DJ来了" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/223353850642.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;23 首</p>
+                    <h2>DJ来了</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/5329.html" title="音乐??" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/22913479662591.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;39 首</p>
+                    <h2>音乐??</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5328.html" title="迷幻" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/12341049364282.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;14 首</p>
+                    <h2>迷幻</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5327.html" title="我喜欢" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/272122308150598.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;16 首</p>
+                    <h2>我喜欢</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5326.html" title="111" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/2025149524714.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;46 首</p>
+                    <h2>111</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5325.html" title="dj串烧" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/1744095738794_162.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;100 首</p>
+                    <h2>dj串烧</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/5324.html" title="k" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/1241388235895.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;54 首</p>
+                    <h2>k</h2>
+                </a>
+            </li>
+                    </ul>
+        <ul id="ranew-ralist2" style="display: none">
+                        <li style="margin-right:23px;">
+                <a href="/radio/5323.html" title="经典club英文单曲《掂噶碌蔗》" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/202119034980585.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;40 首</p>
+                    <h2>经典club英文单曲《掂噶碌蔗》</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5322.html" title="赐仔上头专用歌" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/6931526811029.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;23 首</p>
+                    <h2>赐仔上头专用歌</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5321.html" title="我" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/8905192299616.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;11 首</p>
+                    <h2>我</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5320.html" title="我喜欢的" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/242130543028223.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;12 首</p>
+                    <h2>我喜欢的</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/5319.html" title="经典旧歌" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/004589024316.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;28 首</p>
+                    <h2>经典旧歌</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5318.html" title="我" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/7708201581995.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;18 首</p>
+                    <h2>我</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5317.html" title="progHouse中英单曲《掂过碌蔗》" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/62334593016016.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;93 首</p>
+                    <h2>progHouse中英单曲《掂过碌蔗》</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5316.html" title="抖音毒" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/95124538599.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;37 首</p>
+                    <h2>抖音毒</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5315.html" title="我喜欢的" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/262335212266962.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;31 首</p>
+                    <h2>我喜欢的</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/5314.html" title="2019" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/281042048991662.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;18 首</p>
+                    <h2>2019</h2>
+                </a>
+            </li>
+                    </ul>
+        <ul id="ranew-ralist3" style="display: none">
+                        <li style="margin-right:23px;">
+                <a href="/radio/5313.html" title="电风扇" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/1212622686762.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;38 首</p>
+                    <h2>电风扇</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5312.html" title="Dj" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/15536397818414.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;38 首</p>
+                    <h2>Dj</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5311.html" title="齣" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/52049502062342.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;114 首</p>
+                    <h2>齣</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5310.html" title="心水" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/4322178413354.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;20 首</p>
+                    <h2>心水</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/5309.html" title="喜欢" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/3195909603449_162.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;155 首</p>
+                    <h2>喜欢</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5308.html" title="慢歌DJ。" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/2115533217279.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;50 首</p>
+                    <h2>慢歌DJ。</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5307.html" title="暖场????" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/3232061416743.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;17 首</p>
+                    <h2>暖场????</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5306.html" title="喵yi/" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/3123811264704.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;35 首</p>
+                    <h2>喵yi/</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5305.html" title="个人精选" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/71511411762812.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;27 首</p>
+                    <h2>个人精选</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/5304.html" title="GTA、DJ小王子" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/icon/9026131315424.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;94 首</p>
+                    <h2>GTA、DJ小王子</h2>
+                </a>
+            </li>
+                    </ul>
+    </div>
+        <div class="index-radio-list" id="rahot-ralist" data-cge="1" style="display:none;">
+        <ul id="rahot-ralist1" style="display: block">
+                        <li style="margin-right:23px;">
+                <a href="/radio/91.html" title="清风DJ车载音乐慢摇串烧无损音乐" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/1825391107447_162.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;19 首</p>
+                    <h2>清风DJ车载音乐慢摇串烧无损音乐</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/2294.html" title="连版音乐" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/1355023138239.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;194 首</p>
+                    <h2>连版音乐</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/253.html" title="磁性女声CD车载" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/8950141496088_162.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;32 首</p>
+                    <h2>磁性女声CD车载</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/1580.html" title="嗨到扑街" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/2143022372553.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;82 首</p>
+                    <h2>嗨到扑街</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/2108.html" title="河池Dj苏沫楠" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/02126137311212.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;57 首</p>
+                    <h2>河池Dj苏沫楠</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/678.html" title="七妹" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/1112065885736.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;118 首</p>
+                    <h2>七妹</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/224.html" title="新会DJ糖糖" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/6114836704462_162.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;110 首</p>
+                    <h2>新会DJ糖糖</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/8.html" title="Dj阿光" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/6182233827296.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;22 首</p>
+                    <h2>Dj阿光</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/115.html" title="嗨到痴线" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/01030184759943_162.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;10 首</p>
+                    <h2>嗨到痴线</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/412.html" title="热播中文嗨曲CLUB" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/192031422993433_162.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;199 首</p>
+                    <h2>热播中文嗨曲CLUB</h2>
+                </a>
+            </li>
+                    </ul>
+        <ul id="rahot-ralist2" style="display: none">
+                        <li style="margin-right:23px;">
+                <a href="/radio/1803.html" title="2019热播" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/01742123787348.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;74 首</p>
+                    <h2>2019热播</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/2110.html" title="中文" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/01738586690790.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;57 首</p>
+                    <h2>中文</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/1793.html" title="听最嗨的歌，日最野的狗" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/5229553346369.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;200 首</p>
+                    <h2>听最嗨的歌，日最野的狗</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5304.html" title="GTA、DJ小王子" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/icon/9026131315424.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;94 首</p>
+                    <h2>GTA、DJ小王子</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/1967.html" title="清远佬dj" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/1353035419123.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;121 首</p>
+                    <h2>清远佬dj</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/337.html" title="兔爷的蹦迪曲" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/icon/5127151308253.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;158 首</p>
+                    <h2>兔爷的蹦迪曲</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5319.html" title="经典旧歌" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/004589024316.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;28 首</p>
+                    <h2>经典旧歌</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/2958.html" title="广东DJ少主" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/131130213175928.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;93 首</p>
+                    <h2>广东DJ少主</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/524.html" title="全粤语" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/171058351348841_162.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;94 首</p>
+                    <h2>全粤语</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/3497.html" title="→（连版柔歌）←" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/232039252344.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;15 首</p>
+                    <h2>→（连版柔歌）←</h2>
+                </a>
+            </li>
+                    </ul>
+        <ul id="rahot-ralist3" style="display: none">
+                        <li style="margin-right:23px;">
+                <a href="/radio/5289.html" title="prog神仙水嗨曲" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/0314019163019.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;39 首</p>
+                    <h2>prog神仙水嗨曲</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5317.html" title="progHouse中英单曲《掂过碌蔗》" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/62334593016016.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;93 首</p>
+                    <h2>progHouse中英单曲《掂过碌蔗》</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/4241.html" title="休闲歌曲" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/4105269248163.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;12 首</p>
+                    <h2>休闲歌曲</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/296.html" title="湛江Dj建强个人推荐靓歌" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/51009155568048.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;143 首</p>
+                    <h2>湛江Dj建强个人推荐靓歌</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/6.html" title="情歌电台" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/61803524393579.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;14 首</p>
+                    <h2>情歌电台</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/585.html" title="我们曾相爱想到就心酸AGAN" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/272326082175867_162.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;99 首</p>
+                    <h2>我们曾相爱想到就心酸AGAN</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5316.html" title="抖音毒" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/95124538599.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;37 首</p>
+                    <h2>抖音毒</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/3824.html" title="贵宾车载CD" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/icon/21031258337213.jpg"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;191 首</p>
+                    <h2>贵宾车载CD</h2>
+                </a>
+            </li>
+                        <li style="margin-right:23px;">
+                <a href="/radio/5286.html" title="DJ慢摇" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/323533456269.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;58 首</p>
+                    <h2>DJ慢摇</h2>
+                </a>
+            </li>
+                        <li style="margin-right:0;">
+                <a href="/radio/5260.html" title="江湖人称，新疆大典" target="_Pt">
+                    <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/radio/171246187129785.png"></div>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;17 首</p>
+                    <h2>江湖人称，新疆大典</h2>
+                </a>
+            </li>
+                    </ul>
+    </div>
+    </div>
+                 </div>
+
+                 <div class="index_ct_p1_right">
+                     <div class="index_ct_p1_right_ct">
+                     <!--右侧-->
+                         <!--U盘广告-->
+                         <!--电台右侧广告-->
+<style>#playBox{ width:220px; height:92px;}#playBox .smalltitle {width:220px;}</style><div id="playBox"><div class="pre"  style="display:none" ></div><div class="next"  style="display:none"></div><div class="smalltitle" style="display:none"><ul><li class="thistitle"></li></ul></div><ul class="oUlplay"><li><a href="http://www.vvvdj.com/mall/" target="_blank"><img src="http://jsin.vvvdj.com/upload/guang/dyupan.jpg" width=220  height=92></a></li></ul></div><script>window.onload=RotaryImg.init();</script> 
+<div class='h15'></div>
+
+                         <div class="lines"></div>
+                         <div class="h10"></div>
+                         <!--APP-->
+                         <!--首页app-->
+<div class="index_app">
+    <a href="/showapp" target="_blank" title="清风DJ APP">
+        <img src="/static/images/imgs/radio_upan.gif" alt="清风DJ APP" width="207" height="37">
+    </a>
+</div>
+
+                         <div class="h10"></div>
+                         <div class="lines"></div>
+                         <div class="h10"></div>
+                     <!--热门-->
+                     <div class="index-hot">
+    <div class="index-hot-title"><span><a href='/hot/' style='text-decoration: none; color:#999999'>热门专辑</a></span></div>
+
+    <div class="changeall" id="hot-cgeall" onclick="Disp.Changeall('hot-list')">换一批</div>
+</div>
+
+<div class="h10"></div>
+<div class="lines"></div>
+<div class="h10" style="height: 20px"></div>
+
+<div class="index-hot-list" id="hot-list" data-cge="1">
+    <ul id="hot-list1" style="display: block">
+                <li>
+            <a href="/hot/douyin/" title="抖音" target="_blank">抖音(1155)</a>
+        </li>
+                <li>
+            <a href="/hot/chao/" title="超嗨" target="_blank">超嗨(317)</a>
+        </li>
+                <li>
+            <a href="/hot/qicheyinxiang/" title="汽车音响" target="_blank">汽车音响(43)</a>
+        </li>
+                <li>
+            <a href="/hot/yuegu/" title="越鼓" target="_blank">越鼓(209)</a>
+        </li>
+                <li>
+            <a href="/hot/baidu/" title="百度" target="_blank">百度(550)</a>
+        </li>
+                <li>
+            <a href="/hot/jinbao/" title="劲爆" target="_blank">劲爆(1555)</a>
+        </li>
+                <li>
+            <a href="/hot/qiaqia/" title="恰恰" target="_blank">恰恰(2205)</a>
+        </li>
+                <li>
+            <a href="/hot/jiuba/" title="酒吧" target="_blank">酒吧(1533)</a>
+        </li>
+                <li>
+            <a href="/hot/guangchangwu/" title="广场舞" target="_blank">广场舞(78)</a>
+        </li>
+                <li>
+            <a href="/hot/yueyu/" title="粤语" target="_blank">粤语(11096)</a>
+        </li>
+                <li>
+            <a href="/hot/chezai/" title="车载" target="_blank">车载(980)</a>
+        </li>
+                <li>
+            <a href="/hot/manyao/" title="慢摇" target="_blank">慢摇(6187)</a>
+        </li>
+                <li>
+            <a href="/hot/suhe/" title="苏荷" target="_blank">苏荷(555)</a>
+        </li>
+                <li>
+            <a href="/hot/haoting/" title="好听" target="_blank">好听(206)</a>
+        </li>
+                <li>
+            <a href="/hot/zhongdiyin/" title="重低音" target="_blank">重低音(159)</a>
+        </li>
+            </ul>
+    <ul id="hot-list2" style="display: none">
+                <li>
+            <a href="/hot/paishou/" title="拍手" target="_blank">拍手(2464)</a>
+        </li>
+                <li>
+            <a href="/hot/xiaopingguo/" title="小苹果" target="_blank">小苹果(55)</a>
+        </li>
+                <li>
+            <a href="/hot/no88/" title="no88" target="_blank">no88(155)</a>
+        </li>
+                <li>
+            <a href="/hot/yaogun/" title="摇滚" target="_blank">摇滚(1364)</a>
+        </li>
+                <li>
+            <a href="/hot/nvsheng/" title="女声" target="_blank">女声(5149)</a>
+        </li>
+                <li>
+            <a href="/hot/nansheng/" title="男声" target="_blank">男声(1899)</a>
+        </li>
+                <li>
+            <a href="/hot/zhongkouwei/" title="重口味" target="_blank">重口味(578)</a>
+        </li>
+                <li>
+            <a href="/hot/biansu/" title="变速" target="_blank">变速(227)</a>
+        </li>
+                <li>
+            <a href="/hot/shufu/" title="舒服" target="_blank">舒服(450)</a>
+        </li>
+                <li>
+            <a href="/hot/muse/" title="muse" target="_blank">muse(1951)</a>
+        </li>
+                <li>
+            <a href="/hot/hanyu/" title="韩语" target="_blank">韩语(1172)</a>
+        </li>
+                <li>
+            <a href="/hot/landiao/" title="蓝调" target="_blank">蓝调(299)</a>
+        </li>
+                <li>
+            <a href="/hot/kaichang/" title="开场" target="_blank">开场(1004)</a>
+        </li>
+                <li>
+            <a href="/hot/shanggan/" title="伤感" target="_blank">伤感(2289)</a>
+        </li>
+                <li>
+            <a href="/hot/qifen/" title="气氛" target="_blank">气氛(2425)</a>
+        </li>
+            </ul>
+    <ul id="hot-list3" style="display: none">
+                <li>
+            <a href="/hot/dangci/" title="档次" target="_blank">档次(538)</a>
+        </li>
+                <li>
+            <a href="/hot/shuqing/" title="抒情" target="_blank">抒情(737)</a>
+        </li>
+                <li>
+            <a href="/hot/jingdian/" title="经典" target="_blank">经典(1867)</a>
+        </li>
+                <li>
+            <a href="/hot/yindu/" title="印度" target="_blank">印度(494)</a>
+        </li>
+                <li>
+            <a href="/hot/eyu/" title="俄语" target="_blank">俄语(472)</a>
+        </li>
+                <li>
+            <a href="/hot/nuanchang/" title="暖场" target="_blank">暖场(3410)</a>
+        </li>
+                <li>
+            <a href="/hot/dianzi/" title="电子" target="_blank">电子(493)</a>
+        </li>
+                <li>
+            <a href="/hot/zhencang/" title="珍藏" target="_blank">珍藏(348)</a>
+        </li>
+                <li>
+            <a href="/hot/mihuan/" title="迷幻" target="_blank">迷幻(493)</a>
+        </li>
+                <li>
+            <a href="/hot/fancha/" title="反差" target="_blank">反差(227)</a>
+        </li>
+                <li>
+            <a href="/hot/shengri/" title="生日" target="_blank">生日(1055)</a>
+        </li>
+                <li>
+            <a href="/hot/qiche/" title="汽车" target="_blank">汽车(43)</a>
+        </li>
+                <li>
+            <a href="/hot/jieri/" title="节日" target="_blank">节日(1502)</a>
+        </li>
+                <li>
+            <a href="/hot/lunba/" title="伦巴" target="_blank">伦巴(2366)</a>
+        </li>
+                <li>
+            <a href="/hot/lading/" title="拉丁" target="_blank">拉丁(2184)</a>
+        </li>
+            </ul>
+</div>
+<div class="h10"></div>
+<div class="h10"></div>
+                     <!--排行榜-->
+                     <div style=" margin: 0 auto;padding: 0;height: 37px;width: 218px;">
+    <div class="index-rank-title">
+        <span>排行榜</span>
+    </div>
+    <div class="index-rank-type">
+        <ul class="clearfix">
+            <li><a href="javascript:void(0);" style="color:#39c1de;font-weight: bold;" data-cls="ranktype" data-type="rankcs">串烧</a></li>
+            <li><a href="javascript:void(0);" data-cls="ranktype" data-type="rankdq">单曲</a></li>
+        </ul>
+    </div>
+</div>
+<div class="h10" ></div>
+<div class="lines"></div>
+<div class="h10" style="height: 15px"></div>
+<div id="rankcs-ranklist" class="index-rank-list-type"  >
+    <div style=" margin: 0 auto;padding: 0; width: 176px;">
+        <div class="btn-group">
+            <div data-cls="rankltype" data-type="rankcs-0" data-prefix="rankcs" class="btn index-btn-sl btn-background-img-sm">周榜</div>
+            <div data-cls="rankltype" data-type="rankcs-1" data-prefix="rankcs" class="btn index-btn-sm" style="margin:0 2px 0 1px;">月榜</div>
+            <div data-cls="rankltype" data-type="rankcs-2" data-prefix="rankcs" class="btn index-btn-sr">季榜</div>
+        </div>
+    </div>
+    <div class="h10"></div>
+        <div id="rankcs-0-rankslist" data-prefix="rankcs" class="rank-list" >
+                <dl>
+            <dt class="num1"></dt>
+            <dd class="redline">
+                <a href="/play/189262.html" target="_Pt" title="Dj山弟-国粤语Club音乐超弹上头包厢兄弟潘国昌备胎串烧">Dj山弟-国粤语Club音乐超弹上头包厢兄弟潘国昌备胎串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num2"></dt>
+            <dd class="redline">
+                <a href="/play/189261.html" target="_Pt" title="合浦DJMing-中英文House抖音包房奶茶说唱必备节奏Hi串烧">合浦DJMing-中英文House抖音包房奶茶说唱必备节奏Hi串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num3"></dt>
+            <dd class="redline">
+                <a href="/play/189260.html" target="_Pt" title="四会DJ清扬-国粤语Club音乐曾泳怡多远都要在一起抖音串烧">四会DJ清扬-国粤语Club音乐曾泳怡多远都要在一起抖音串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num4"></dt>
+            <dd class="redline">
+                <a href="/play/189259.html" target="_Pt" title="恩平Dj锋仔-中英文Prog音乐康仔为胡雅丽缔造一生有你串烧">恩平Dj锋仔-中英文Prog音乐康仔为胡雅丽缔造一生有你串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num5"></dt>
+            <dd class="redline">
+                <a href="/play/189258.html" target="_Pt" title="DJ学长-全英文慢歌连版2020年高速听抖音网红歌车载串烧">DJ学长-全英文慢歌连版2020年高速听抖音网红歌车载串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num6"></dt>
+            <dd class="redline">
+                <a href="/play/189257.html" target="_Pt" title="Dj小黑-国粤语Club只想与你再一起在他乡迎接2020新年串烧">Dj小黑-国粤语Club只想与你再一起在他乡迎接2020新年串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num7"></dt>
+            <dd class="redline">
+                <a href="/play/189256.html" target="_Pt" title="六和DJ豪B籽-全粤语Club精选港台经典金曲车载慢摇串烧">六和DJ豪B籽-全粤语Club精选港台经典金曲车载慢摇串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num8"></dt>
+            <dd class="redline">
+                <a href="/play/189210.html" target="_Pt" title="连南DjZMZ-中英文ProgHouse2020全新动力抖音专辑串烧">连南DjZMZ-中英文ProgHouse2020全新动力抖音专辑串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num9"></dt>
+            <dd class="redline">
+                <a href="/play/189254.html" target="_Pt" title="新城Dj宝仔-中英文ProgHouse星巴克之清新小女孩抖音串烧">新城Dj宝仔-中英文ProgHouse星巴克之清新小女孩抖音串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num10"></dt>
+            <dd class="redline">
+                <a href="/play/188625.html" target="_Pt" title="Dj山弟-国粤语Club抖音2020流行音乐独家动力兄弟顺利串烧">Dj山弟-国粤语Club抖音2020流行音乐独家动力兄弟顺利串烧</a>
+            </dd>
+        </dl>
+            </div>
+        <div id="rankcs-1-rankslist" data-prefix="rankcs" class="rank-list" style="display:none;">
+                <dl>
+            <dt class="num1"></dt>
+            <dd class="redline">
+                <a href="/play/188854.html" target="_Pt" title="Dj建强-国粤语Club抖音年度总结常放红歌友情岁月本少串烧">Dj建强-国粤语Club抖音年度总结常放红歌友情岁月本少串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num2"></dt>
+            <dd class="redline">
+                <a href="/play/189049.html" target="_Pt" title="下帅DjChen-国粤语Prog音乐心中有音乐到哪都会嗨串烧">下帅DjChen-国粤语Prog音乐心中有音乐到哪都会嗨串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num3"></dt>
+            <dd class="redline">
+                <a href="/play/188907.html" target="_Pt" title="湛江Dj阿懂-国粤语ProgHouse抖音2020年清风流行热播串烧">湛江Dj阿懂-国粤语ProgHouse抖音2020年清风流行热播串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num4"></dt>
+            <dd class="redline">
+                <a href="/play/188815.html" target="_Pt" title="清远Dj伟仔-国粤语ProgHouse智鹏专属2020清风独家串烧">清远Dj伟仔-国粤语ProgHouse智鹏专属2020清风独家串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num5"></dt>
+            <dd class="redline">
+                <a href="/play/188628.html" target="_Pt" title="DjBilly仔-中英文慢歌连版抖音确定这就是爱吗真爱我吗串烧">DjBilly仔-中英文慢歌连版抖音确定这就是爱吗真爱我吗串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num6"></dt>
+            <dd class="redline">
+                <a href="/play/188853.html" target="_Pt" title="DjAlone-全国语慢歌连版音乐节后Relax抖音舒缓曲CD串烧">DjAlone-全国语慢歌连版音乐节后Relax抖音舒缓曲CD串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num7"></dt>
+            <dd class="redline">
+                <a href="/play/188953.html" target="_Pt" title="岑溪DJ小梁-中英文Prog抖音神曲姐姐微信来了VVVDJ串烧">岑溪DJ小梁-中英文Prog抖音神曲姐姐微信来了VVVDJ串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num8"></dt>
+            <dd class="redline">
+                <a href="/play/188625.html" target="_Pt" title="Dj山弟-国粤语Club抖音2020流行音乐独家动力兄弟顺利串烧">Dj山弟-国粤语Club抖音2020流行音乐独家动力兄弟顺利串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num9"></dt>
+            <dd class="redline">
+                <a href="/play/189003.html" target="_Pt" title="东莞DJMask-国语慢歌连版音乐世界那么大还是遇见你串烧">东莞DJMask-国语慢歌连版音乐世界那么大还是遇见你串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num10"></dt>
+            <dd class="redline">
+                <a href="/play/188956.html" target="_Pt" title="DjCoco仔-国粤语Club音乐怀旧混搭小孟拉会所气氛串烧">DjCoco仔-国粤语Club音乐怀旧混搭小孟拉会所气氛串烧</a>
+            </dd>
+        </dl>
+            </div>
+        <div id="rankcs-2-rankslist" data-prefix="rankcs" class="rank-list" style="display:none;">
+                <dl>
+            <dt class="num1"></dt>
+            <dd class="redline">
+                <a href="/play/163987.html" target="_Pt" title="湛江Dj阿懂-中英文ProgHouse音乐抖音神曲ThatGirl车载串烧">湛江Dj阿懂-中英文ProgHouse音乐抖音神曲ThatGirl车载串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num2"></dt>
+            <dd class="redline">
+                <a href="/play/169209.html" target="_Pt" title="Dj山弟-中英文ProgHouse音乐独家舒服洗脑神曲车载必备Hi串烧">Dj山弟-中英文ProgHouse音乐独家舒服洗脑神曲车载必备Hi串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num3"></dt>
+            <dd class="redline">
+                <a href="/play/158373.html" target="_Pt" title="DJ校长-全中文国粤语慢歌连版音乐快手抖音首首流行热播串烧">DJ校长-全中文国粤语慢歌连版音乐快手抖音首首流行热播串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num4"></dt>
+            <dd class="redline">
+                <a href="/play/172347.html" target="_Pt" title="DJ天宝-全中文国粤语Club音乐阳江藏哥给好兄弟万事顺新年串烧">DJ天宝-全中文国粤语Club音乐阳江藏哥给好兄弟万事顺新年串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num5"></dt>
+            <dd class="redline">
+                <a href="/play/175108.html" target="_Pt" title="Dj建强-国粤语House抖音绿色我曾把完整的镜子打碎串烧">Dj建强-国粤语House抖音绿色我曾把完整的镜子打碎串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num6"></dt>
+            <dd class="redline">
+                <a href="/play/167040.html" target="_Pt" title="湛江Dj阿懂-全中文全国语慢歌连版音乐抖音流行热播伤感串烧">湛江Dj阿懂-全中文全国语慢歌连版音乐抖音流行热播伤感串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num7"></dt>
+            <dd class="redline">
+                <a href="/play/177374.html" target="_Pt" title="DJ天宝-全国语Club音乐抖音热播红歌最近清风独家串烧">DJ天宝-全国语Club音乐抖音热播红歌最近清风独家串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num8"></dt>
+            <dd class="redline">
+                <a href="/play/156266.html" target="_Pt" title="四会Dj培仔-全中文国粤语Club音乐波仔17年最后一曲爱情故事串烧">四会Dj培仔-全中文国粤语Club音乐波仔17年最后一曲爱情故事串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num9"></dt>
+            <dd class="redline">
+                <a href="/play/165189.html" target="_Pt" title="四会Dj培仔-中英文House音乐为周锦缔造1Q700车载CD串烧">四会Dj培仔-中英文House音乐为周锦缔造1Q700车载CD串烧</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num10"></dt>
+            <dd class="redline">
+                <a href="/play/171661.html" target="_Pt" title="湛江Dj阿懂-全中文全国语慢歌连版音乐抖音热曲浪子回头串烧">湛江Dj阿懂-全中文全国语慢歌连版音乐抖音热曲浪子回头串烧</a>
+            </dd>
+        </dl>
+            </div>
+    </div>
+<div id="rankdq-ranklist" class="index-rank-list-type" style="display:none;" >
+    <div style=" margin: 0 auto;padding: 0; width: 176px;">
+        <div class="btn-group">
+            <div data-cls="rankltype" data-type="rankdq-0" data-prefix="rankdq" class="btn index-btn-sl btn-background-img-sm">周榜</div>
+            <div data-cls="rankltype" data-type="rankdq-1" data-prefix="rankdq" class="btn index-btn-sm" style="margin:0 2px 0 1px;">月榜</div>
+            <div data-cls="rankltype" data-type="rankdq-2" data-prefix="rankdq" class="btn index-btn-sr">季榜</div>
+        </div>
+    </div>
+    <div class="h10"></div>
+        <div id="rankdq-0-rankslist" data-prefix="rankdq" class="rank-list" >
+                <dl>
+            <dt class="num1"></dt>
+            <dd class="redline">
+                <a href="/play/188799.html" target="_Pt" title="丁晓芒 - 熬过了就是地老天荒(DJ伟然 Dance Rmx 2020)">丁晓芒 - 熬过了就是地老天荒(DJ伟然 Dance Rmx 2020)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num2"></dt>
+            <dd class="redline">
+                <a href="/play/188922.html" target="_Pt" title="吉特巴 - 易欣 X 大娟 - 爱情轨道">吉特巴 - 易欣 X 大娟 - 爱情轨道</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num3"></dt>
+            <dd class="redline">
+                <a href="/play/187995.html" target="_Pt" title="者思范 - 飞(DjPad仔 Proghouse Rmx 2019)">者思范 - 飞(DjPad仔 Proghouse Rmx 2019)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num4"></dt>
+            <dd class="redline">
+                <a href="/play/189016.html" target="_Pt" title="探戈 - 常健鸿 - 为什么喜欢我">探戈 - 常健鸿 - 为什么喜欢我</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num5"></dt>
+            <dd class="redline">
+                <a href="/play/189062.html" target="_Pt" title="吉特巴 - 陈咏 X 陈娇 - 男人醉女人累">吉特巴 - 陈咏 X 陈娇 - 男人醉女人累</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num6"></dt>
+            <dd class="redline">
+                <a href="/play/189013.html" target="_Pt" title="恰恰 - 司徒兰芳 - 我的爱人我的酒">恰恰 - 司徒兰芳 - 我的爱人我的酒</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num7"></dt>
+            <dd class="redline">
+                <a href="/play/188908.html" target="_Pt" title="快四 - 王丽君 - 情深几许(电音版)">快四 - 王丽君 - 情深几许(电音版)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num8"></dt>
+            <dd class="redline">
+                <a href="/play/188869.html" target="_Pt" title="中四 - 天籁天 - 我在杭州等你">中四 - 天籁天 - 我在杭州等你</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num9"></dt>
+            <dd class="redline">
+                <a href="/play/188919.html" target="_Pt" title="伦巴 - 郑茜匀 - 动了情的女人才会喝醉">伦巴 - 郑茜匀 - 动了情的女人才会喝醉</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num10"></dt>
+            <dd class="redline">
+                <a href="/play/188918.html" target="_Pt" title="吉特巴 - 丁姐 - 花前月下诉衷肠">吉特巴 - 丁姐 - 花前月下诉衷肠</a>
+            </dd>
+        </dl>
+            </div>
+        <div id="rankdq-1-rankslist" data-prefix="rankdq" class="rank-list" style="display:none;">
+                <dl>
+            <dt class="num1"></dt>
+            <dd class="redline">
+                <a href="/play/187995.html" target="_Pt" title="者思范 - 飞(DjPad仔 Proghouse Rmx 2019)">者思范 - 飞(DjPad仔 Proghouse Rmx 2019)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num2"></dt>
+            <dd class="redline">
+                <a href="/play/187832.html" target="_Pt" title="魏新雨 - 百花香(Dj欧东 ProgHouse Rmx 2020)">魏新雨 - 百花香(Dj欧东 ProgHouse Rmx 2020)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num3"></dt>
+            <dd class="redline">
+                <a href="/play/188605.html" target="_Pt" title="海伦 - 桥边姑娘(DJ笙 ProgHouse Rmx 2019)">海伦 - 桥边姑娘(DJ笙 ProgHouse Rmx 2019)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num4"></dt>
+            <dd class="redline">
+                <a href="/play/186206.html" target="_Pt" title="王心雅 - 一剪梅(Dj辉总 ProgHouse Rmx 2019 V2)">王心雅 - 一剪梅(Dj辉总 ProgHouse Rmx 2019 V2)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num5"></dt>
+            <dd class="redline">
+                <a href="/play/188946.html" target="_Pt" title="亮声Open - 天涯(粤语 新塘Dj小浩 Club Rmx 2020)">亮声Open - 天涯(粤语 新塘Dj小浩 Club Rmx 2020)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num6"></dt>
+            <dd class="redline">
+                <a href="/play/187714.html" target="_Pt" title="阿悠悠 - 一生与你擦肩而过(DjPad仔 Proghouse Rmx 2019)">阿悠悠 - 一生与你擦肩而过(DjPad仔 Proghouse Rmx 2019)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num7"></dt>
+            <dd class="redline">
+                <a href="/play/188608.html" target="_Pt" title="冯提莫 - 世间美好与你环环相扣(DJ笙 Proghouse Rmx 2019)">冯提莫 - 世间美好与你环环相扣(DJ笙 Proghouse Rmx 2019)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num8"></dt>
+            <dd class="redline">
+                <a href="/play/188195.html" target="_Pt" title="别安 - 真的爱你(粤语 DJ阿福 ProgHouse Rmx 2019)">别安 - 真的爱你(粤语 DJ阿福 ProgHouse Rmx 2019)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num9"></dt>
+            <dd class="redline">
+                <a href="/play/181809.html" target="_Pt" title="琪琪 - 逝去日子(粤语 DJ炮哥 ProgHouse Rmx 2019)">琪琪 - 逝去日子(粤语 DJ炮哥 ProgHouse Rmx 2019)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num10"></dt>
+            <dd class="redline">
+                <a href="/play/188591.html" target="_Pt" title="DJFixx-On The Ones 2020(Original Mix)-女Trap">DJFixx-On The Ones 2020(Original Mix)-女Trap</a>
+            </dd>
+        </dl>
+            </div>
+        <div id="rankdq-2-rankslist" data-prefix="rankdq" class="rank-list" style="display:none;">
+                <dl>
+            <dt class="num1"></dt>
+            <dd class="redline">
+                <a href="/play/159880.html" target="_Pt" title="胡66 - 空空如也(Dj铭仔 ProgHouse Rmx 2018)">胡66 - 空空如也(Dj铭仔 ProgHouse Rmx 2018)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num2"></dt>
+            <dd class="redline">
+                <a href="/play/159402.html" target="_Pt" title="周笔畅 - 最美的期待(Dj培仔 Electro Rmx 2018)">周笔畅 - 最美的期待(Dj培仔 Electro Rmx 2018)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num3"></dt>
+            <dd class="redline">
+                <a href="/play/186206.html" target="_Pt" title="王心雅 - 一剪梅(Dj辉总 ProgHouse Rmx 2019 V2)">王心雅 - 一剪梅(Dj辉总 ProgHouse Rmx 2019 V2)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num4"></dt>
+            <dd class="redline">
+                <a href="/play/164427.html" target="_Pt" title="打扰一下乐团 - 平凡之路(DJYg Extended Rmx 2018)">打扰一下乐团 - 平凡之路(DJYg Extended Rmx 2018)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num5"></dt>
+            <dd class="redline">
+                <a href="/play/164199.html" target="_Pt" title="打扰一下兵团 - 平凡之路(怀集DJYg Dance Rmx 2018)">打扰一下兵团 - 平凡之路(怀集DJYg Dance Rmx 2018)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num6"></dt>
+            <dd class="redline">
+                <a href="/play/169996.html" target="_Pt" title="梦涵 - 爱的故事上集(粤语 DJPout X Dj7索 Electro Rmx 2018)">梦涵 - 爱的故事上集(粤语 DJPout X Dj7索 Electro Rmx 2018)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num7"></dt>
+            <dd class="redline">
+                <a href="/play/165707.html" target="_Pt" title="莉哥 - 让我做你的眼睛(DjYg Club Rmx 2018)">莉哥 - 让我做你的眼睛(DjYg Club Rmx 2018)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num8"></dt>
+            <dd class="redline">
+                <a href="/play/164533.html" target="_Pt" title="木小雅 - 可能否(DJ航仔 ProgHouse Rmx 2018)">木小雅 - 可能否(DJ航仔 ProgHouse Rmx 2018)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num9"></dt>
+            <dd class="redline">
+                <a href="/play/173887.html" target="_Pt" title="书岩 X 郝琪力 - 黎明前的黑暗(Dj细文 Electro Rmx 2019)">书岩 X 郝琪力 - 黎明前的黑暗(Dj细文 Electro Rmx 2019)</a>
+            </dd>
+        </dl>
+                <dl>
+            <dt class="num10"></dt>
+            <dd class="redline">
+                <a href="/play/164939.html" target="_Pt" title="抖音神曲 - 烟火里的尘埃(Dj贺仔 Electro Rmx 2018)">抖音神曲 - 烟火里的尘埃(Dj贺仔 Electro Rmx 2018)</a>
+            </dd>
+        </dl>
+            </div>
+    </div>
+
+
+                     </div>
+                 </div>
+             </div>
+             <div class="h10"></div>
+             <div class="index_ct_p2">
+                 <div class="index-radio">
+    <div class="index-producer-title">
+        <span>音乐制作人</span>
+    </div>
+
+    <div class="index-radio-type">
+        <ul class="clearfix">
+            <li><a href="javascript:void(0);" style="color:#39c1de;margin-left: 85px;font-weight: bold;" data-cls="pcertype" data-type="pcer1" data-href="/djshow">最近更新</a></li>
+            <li><a href="javascript:void(0);" data-cls="pcertype" data-type="pcer2" data-href="/djshow/i1-1.html">最新加入</a></li>
+            <li style="margin-left: 25px;"><div class="changeall" id="pcer-cgeall" onclick="Disp.Changeall('pcer1-pcerlist')">换一批</div></li>
+            <li class="recommended-more" style="float: right;margin-right: 0px;"><a href="/djshow" id="pcertype-more">更多></a></li>
+        </ul>
+    </div>
+
+    <div class="lines"></div>
+    <div class="h10" style="height: 20px;"></div>
+
+    <!--音乐制作达人-->
+    <a href="/djshow/119.html" title="四会Dj培仔" target="_blank" class="best-producer-a">
+        <div class="best-producer">
+            <div class="bp-img">
+                <img src="http://jsin.vvvdj.com/upload/Photo/311027105116846.png">
+            </div>
+            <div class="h10" style="height: 15px;"></div>
+            <p style="color: #FFFFFF;*margin-left: 20px;">四会Dj培仔</p>
+            <div class="h10" style="height: 15px;"></div>
+            <span class="bp-hits">7540万</span>
+            <span class="bp-musicicon">41544</span>
+        </div>
+        <div class="best-producer-bg"></div>
+    </a>
+    <!--左边-->
+        <div class="index-radio-list" id="pcer1-pcerlist" data-pcer="1" data-cge="1" >
+        <ul id="pcer1-pcerlist1" class="clearfix" style="display: block">
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/01151152163508.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;905万</p>
+                <h2>岑溪DJ小梁</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/195.html" title="岑溪DJ小梁" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/01151152163508.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>岑溪DJ小梁</h3>
+                        <h3>人气: 905.0万</h3>
+                        <h3>关注: 617</h3>
+                        <h3>地区: 广西岑溪</h3>
+                    </div>
+                    <input type="hidden" value="195" name="id">
+                    <input type="hidden" value="0" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51100056893884.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;226万</p>
+                <h2>城隍DJ放歌佬</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/200.html" title="城隍DJ放歌佬" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/51100056893884.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>城隍DJ放歌佬</h3>
+                        <h3>人气: 225.6万</h3>
+                        <h3>关注: 40</h3>
+                        <h3>地区: 广西玉林</h3>
+                    </div>
+                    <input type="hidden" value="200" name="id">
+                    <input type="hidden" value="1" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/21436314170954.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1950万</p>
+                <h2>中山DJ宁少</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/140.html" title="中山DJ宁少" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/21436314170954.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>中山DJ宁少</h3>
+                        <h3>人气: 1949.6万</h3>
+                        <h3>关注: 4274</h3>
+                        <h3>地区: 广东中山</h3>
+                    </div>
+                    <input type="hidden" value="140" name="id">
+                    <input type="hidden" value="2" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51011314912836.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;594万</p>
+                <h2>DjKaser</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/166.html" title="DjKaser" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/51011314912836.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>DjKaser</h3>
+                        <h3>人气: 593.5万</h3>
+                        <h3>关注: 1316</h3>
+                        <h3>地区: 广东珠海</h3>
+                    </div>
+                    <input type="hidden" value="166" name="id">
+                    <input type="hidden" value="3" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1118349211847.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1281万</p>
+                <h2>合浦DJMing</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/191.html" title="合浦DJMing" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/1118349211847.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>合浦DJMing</h3>
+                        <h3>人气: 1280.7万</h3>
+                        <h3>关注: 1166</h3>
+                        <h3>地区: 广西合浦</h3>
+                    </div>
+                    <input type="hidden" value="191" name="id">
+                    <input type="hidden" value="4" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/912531593287.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1444万</p>
+                <h2>恩平Dj锋仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/141.html" title="恩平Dj锋仔" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/912531593287.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>恩平Dj锋仔</h3>
+                        <h3>人气: 1444.1万</h3>
+                        <h3>关注: 3106</h3>
+                        <h3>地区: 广东江门</h3>
+                    </div>
+                    <input type="hidden" value="141" name="id">
+                    <input type="hidden" value="5" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51533051142847.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;3271万</p>
+                <h2>Dj山弟</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/144.html" title="Dj山弟" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/51533051142847.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>Dj山弟</h3>
+                        <h3>人气: 3270.5万</h3>
+                        <h3>关注: 7241</h3>
+                        <h3>地区: 广西岑溪</h3>
+                    </div>
+                    <input type="hidden" value="144" name="id">
+                    <input type="hidden" value="6" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/01030334250452.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1242万</p>
+                <h2>四会DJ清扬</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/153.html" title="四会DJ清扬" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/01030334250452.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>四会DJ清扬</h3>
+                        <h3>人气: 1242.1万</h3>
+                        <h3>关注: 3648</h3>
+                        <h3>地区: 广东四会</h3>
+                    </div>
+                    <input type="hidden" value="153" name="id">
+                    <input type="hidden" value="7" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/91031482737085.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;75.6万</p>
+                <h2>新塘Dj小浩</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/193.html" title="新塘Dj小浩" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/91031482737085.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>新塘Dj小浩</h3>
+                        <h3>人气: 75.6万</h3>
+                        <h3>关注: 109</h3>
+                        <h3>地区: 增城新塘</h3>
+                    </div>
+                    <input type="hidden" value="193" name="id">
+                    <input type="hidden" value="8" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1014102038996.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1200万</p>
+                <h2>连南DJZMZ</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/163.html" title="连南DJZMZ" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/1014102038996.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>连南DJZMZ</h3>
+                        <h3>人气: 1199.7万</h3>
+                        <h3>关注: 1181</h3>
+                        <h3>地区: 广东连南</h3>
+                    </div>
+                    <input type="hidden" value="163" name="id">
+                    <input type="hidden" value="9" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                    </ul>
+        <ul id="pcer1-pcerlist2" style="display: none">
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/3853011706354.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;558万</p>
+                <h2>怀集DJRIO</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/165.html" title="怀集DJRIO" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/3853011706354.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>怀集DJRIO</h3>
+                        <h3>点击: 558.1万</h3>
+                        <h3>关注: 889</h3>
+                        <h3>地区: 广东怀集</h3>
+                    </div>
+                    <input type="hidden" value="165" name="id">
+                    <input type="hidden" value="0" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/41158242360041.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;361万</p>
+                <h2>肇庆DJ根总</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/198.html" title="肇庆DJ根总" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/41158242360041.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>肇庆DJ根总</h3>
+                        <h3>点击: 361.5万</h3>
+                        <h3>关注: 115</h3>
+                        <h3>地区: 广东肇庆</h3>
+                    </div>
+                    <input type="hidden" value="198" name="id">
+                    <input type="hidden" value="1" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/61150378703882.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;97.9万</p>
+                <h2>DJ小柳</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/159.html" title="DJ小柳" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/61150378703882.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ小柳</h3>
+                        <h3>点击: 97.9万</h3>
+                        <h3>关注: 159</h3>
+                        <h3>地区: 辽宁凌源</h3>
+                    </div>
+                    <input type="hidden" value="159" name="id">
+                    <input type="hidden" value="2" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/0915095597193.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;894万</p>
+                <h2>恩平DJ小飞</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/167.html" title="恩平DJ小飞" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/0915095597193.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>恩平DJ小飞</h3>
+                        <h3>点击: 894.3万</h3>
+                        <h3>关注: 960</h3>
+                        <h3>地区: 广东江门</h3>
+                    </div>
+                    <input type="hidden" value="167" name="id">
+                    <input type="hidden" value="3" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1007425701563.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1129万</p>
+                <h2>DJ建仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/189.html" title="DJ建仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1007425701563.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ建仔</h3>
+                        <h3>点击: 1129.2万</h3>
+                        <h3>关注: 994</h3>
+                        <h3>地区: 广东中山</h3>
+                    </div>
+                    <input type="hidden" value="189" name="id">
+                    <input type="hidden" value="4" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/251034343869135.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1408万</p>
+                <h2>中山DJ2索</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/176.html" title="中山DJ2索" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/251034343869135.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>中山DJ2索</h3>
+                        <h3>点击: 1408.2万</h3>
+                        <h3>关注: 1677</h3>
+                        <h3>地区: 广东中山</h3>
+                    </div>
+                    <input type="hidden" value="176" name="id">
+                    <input type="hidden" value="5" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51044223349115.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;188万</p>
+                <h2>莲塘Dj源仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/199.html" title="莲塘Dj源仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/51044223349115.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>莲塘Dj源仔</h3>
+                        <h3>点击: 187.6万</h3>
+                        <h3>关注: 55</h3>
+                        <h3>地区: 广东莲花</h3>
+                    </div>
+                    <input type="hidden" value="199" name="id">
+                    <input type="hidden" value="6" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51212345429804.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;173万</p>
+                <h2>Dj铭仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/172.html" title="Dj铭仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/51212345429804.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>Dj铭仔</h3>
+                        <h3>点击: 173.1万</h3>
+                        <h3>关注: 166</h3>
+                        <h3>地区: 广西梧州</h3>
+                    </div>
+                    <input type="hidden" value="172" name="id">
+                    <input type="hidden" value="7" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/01646347443201.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;5874万</p>
+                <h2>Dj建强</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/151.html" title="Dj建强" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/01646347443201.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>Dj建强</h3>
+                        <h3>点击: 5874.1万</h3>
+                        <h3>关注: 9532</h3>
+                        <h3>地区: 广东湛江</h3>
+                    </div>
+                    <input type="hidden" value="151" name="id">
+                    <input type="hidden" value="8" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/31233449085657.png"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;830万</p>
+                <h2>Dj力索</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/180.html" title="Dj力索" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/31233449085657.png"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>Dj力索</h3>
+                        <h3>点击: 830.2万</h3>
+                        <h3>关注: 831</h3>
+                        <h3>地区: 广东肇庆</h3>
+                    </div>
+                    <input type="hidden" value="180" name="id">
+                    <input type="hidden" value="9" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                    </ul>
+        <ul id="pcer1-pcerlist3" style="display: none">
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1140751733454.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;857万</p>
+                <h2>鹤山DJ超仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/188.html" title="鹤山DJ超仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1140751733454.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>鹤山DJ超仔</h3>
+                        <h3>点击: 856.6万</h3>
+                        <h3>关注: 844</h3>
+                        <h3>地区: 广东江门</h3>
+                    </div>
+                    <input type="hidden" value="188" name="id">
+                    <input type="hidden" value="0" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1653079945794.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;746万</p>
+                <h2>下帅DjChen</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/194.html" title="下帅DjChen" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1653079945794.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>下帅DjChen</h3>
+                        <h3>点击: 745.7万</h3>
+                        <h3>关注: 516</h3>
+                        <h3>地区: 广东怀集</h3>
+                    </div>
+                    <input type="hidden" value="194" name="id">
+                    <input type="hidden" value="1" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1046556038629.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;2956万</p>
+                <h2>东莞DJMask</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/145.html" title="东莞DJMask" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1046556038629.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>东莞DJMask</h3>
+                        <h3>点击: 2955.6万</h3>
+                        <h3>关注: 4304</h3>
+                        <h3>地区: 广东东莞</h3>
+                    </div>
+                    <input type="hidden" value="145" name="id">
+                    <input type="hidden" value="2" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/163110400965.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;2261万</p>
+                <h2>DjCoco仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/158.html" title="DjCoco仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/163110400965.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DjCoco仔</h3>
+                        <h3>点击: 2260.6万</h3>
+                        <h3>关注: 3050</h3>
+                        <h3>地区: 广东</h3>
+                    </div>
+                    <input type="hidden" value="158" name="id">
+                    <input type="hidden" value="3" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51004029610559.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;673万</p>
+                <h2>DJChuCkLee</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/192.html" title="DJChuCkLee" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/51004029610559.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJChuCkLee</h3>
+                        <h3>点击: 672.7万</h3>
+                        <h3>关注: 480</h3>
+                        <h3>地区: 广东新会</h3>
+                    </div>
+                    <input type="hidden" value="192" name="id">
+                    <input type="hidden" value="4" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1052237067835.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;385万</p>
+                <h2>DjPad仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/164.html" title="DjPad仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1052237067835.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DjPad仔</h3>
+                        <h3>点击: 385.1万</h3>
+                        <h3>关注: 478</h3>
+                        <h3>地区: 广东珠海</h3>
+                    </div>
+                    <input type="hidden" value="164" name="id">
+                    <input type="hidden" value="5" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/31638243653986.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;3754万</p>
+                <h2>湛江Dj阿懂</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/148.html" title="湛江Dj阿懂" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/31638243653986.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>湛江Dj阿懂</h3>
+                        <h3>点击: 3753.5万</h3>
+                        <h3>关注: 9003</h3>
+                        <h3>地区: 广东湛江</h3>
+                    </div>
+                    <input type="hidden" value="148" name="id">
+                    <input type="hidden" value="6" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/41431247041589.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;2077万</p>
+                <h2>DJ胜爷</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/127.html" title="DJ胜爷" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/41431247041589.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ胜爷</h3>
+                        <h3>点击: 2076.6万</h3>
+                        <h3>关注: 5991</h3>
+                        <h3>地区: 广西梧州</h3>
+                    </div>
+                    <input type="hidden" value="127" name="id">
+                    <input type="hidden" value="7" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/11242242079584.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;845万</p>
+                <h2>DJAlone</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/187.html" title="DJAlone" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/11242242079584.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJAlone</h3>
+                        <h3>点击: 844.9万</h3>
+                        <h3>关注: 1160</h3>
+                        <h3>地区: 广东东莞</h3>
+                    </div>
+                    <input type="hidden" value="187" name="id">
+                    <input type="hidden" value="8" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/311340344854242.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;932万</p>
+                <h2>清远Dj伟仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/162.html" title="清远Dj伟仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/311340344854242.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>清远Dj伟仔</h3>
+                        <h3>点击: 931.6万</h3>
+                        <h3>关注: 1941</h3>
+                        <h3>地区: 广东清远</h3>
+                    </div>
+                    <input type="hidden" value="162" name="id">
+                    <input type="hidden" value="9" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                    </ul>
+    </div>
+        <div class="index-radio-list" id="pcer2-pcerlist" data-pcer="1" data-cge="1" style="display:none;">
+        <ul id="pcer2-pcerlist1" class="clearfix" style="display: block">
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51421476931726.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;189万</p>
+                <h2>高明DJBs</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/201.html" title="高明DJBs" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/51421476931726.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>高明DJBs</h3>
+                        <h3>人气: 188.6万</h3>
+                        <h3>关注: 21</h3>
+                        <h3>地区: 广东高明</h3>
+                    </div>
+                    <input type="hidden" value="201" name="id">
+                    <input type="hidden" value="0" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51100056893884.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;226万</p>
+                <h2>城隍DJ放歌佬</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/200.html" title="城隍DJ放歌佬" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/51100056893884.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>城隍DJ放歌佬</h3>
+                        <h3>人气: 225.6万</h3>
+                        <h3>关注: 40</h3>
+                        <h3>地区: 广西玉林</h3>
+                    </div>
+                    <input type="hidden" value="200" name="id">
+                    <input type="hidden" value="1" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51044223349115.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;188万</p>
+                <h2>莲塘Dj源仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/199.html" title="莲塘Dj源仔" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/51044223349115.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>莲塘Dj源仔</h3>
+                        <h3>人气: 187.6万</h3>
+                        <h3>关注: 55</h3>
+                        <h3>地区: 广东莲花</h3>
+                    </div>
+                    <input type="hidden" value="199" name="id">
+                    <input type="hidden" value="2" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/41158242360041.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;361万</p>
+                <h2>肇庆DJ根总</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/198.html" title="肇庆DJ根总" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/41158242360041.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>肇庆DJ根总</h3>
+                        <h3>人气: 361.5万</h3>
+                        <h3>关注: 115</h3>
+                        <h3>地区: 广东肇庆</h3>
+                    </div>
+                    <input type="hidden" value="198" name="id">
+                    <input type="hidden" value="3" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/241443457929956.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;256万</p>
+                <h2>东升Dj猴子</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/197.html" title="东升Dj猴子" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/241443457929956.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>东升Dj猴子</h3>
+                        <h3>人气: 256.3万</h3>
+                        <h3>关注: 42</h3>
+                        <h3>地区: 广东中山</h3>
+                    </div>
+                    <input type="hidden" value="197" name="id">
+                    <input type="hidden" value="4" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/5164841130274.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;395万</p>
+                <h2>DJ欧炳</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/196.html" title="DJ欧炳" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/5164841130274.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>DJ欧炳</h3>
+                        <h3>人气: 395.5万</h3>
+                        <h3>关注: 262</h3>
+                        <h3>地区: 广西 梧州</h3>
+                    </div>
+                    <input type="hidden" value="196" name="id">
+                    <input type="hidden" value="5" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/01151152163508.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;905万</p>
+                <h2>岑溪DJ小梁</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/195.html" title="岑溪DJ小梁" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/01151152163508.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>岑溪DJ小梁</h3>
+                        <h3>人气: 905.0万</h3>
+                        <h3>关注: 617</h3>
+                        <h3>地区: 广西岑溪</h3>
+                    </div>
+                    <input type="hidden" value="195" name="id">
+                    <input type="hidden" value="6" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1653079945794.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;746万</p>
+                <h2>下帅DjChen</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/194.html" title="下帅DjChen" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/1653079945794.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>下帅DjChen</h3>
+                        <h3>人气: 745.7万</h3>
+                        <h3>关注: 516</h3>
+                        <h3>地区: 广东怀集</h3>
+                    </div>
+                    <input type="hidden" value="194" name="id">
+                    <input type="hidden" value="7" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/91031482737085.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;75.6万</p>
+                <h2>新塘Dj小浩</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/193.html" title="新塘Dj小浩" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/91031482737085.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>新塘Dj小浩</h3>
+                        <h3>人气: 75.6万</h3>
+                        <h3>关注: 109</h3>
+                        <h3>地区: 增城新塘</h3>
+                    </div>
+                    <input type="hidden" value="193" name="id">
+                    <input type="hidden" value="8" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51004029610559.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;673万</p>
+                <h2>DJChuCkLee</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <div class="ra-img" style="float: left">
+                        <a href="/djshow/192.html" title="DJChuCkLee" target="_blank">
+                            <img src="http://jsin.vvvdj.com/upload/Photo/51004029610559.jpg">
+                        </a>
+                    </div>
+                    <div class="ra-hover-detail">
+                        <h3>DJChuCkLee</h3>
+                        <h3>人气: 672.7万</h3>
+                        <h3>关注: 480</h3>
+                        <h3>地区: 广东新会</h3>
+                    </div>
+                    <input type="hidden" value="192" name="id">
+                    <input type="hidden" value="9" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                    </ul>
+        <ul id="pcer2-pcerlist2" style="display: none">
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1118349211847.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1281万</p>
+                <h2>合浦DJMing</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/191.html" title="合浦DJMing" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1118349211847.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>合浦DJMing</h3>
+                        <h3>点击: 1280.7万</h3>
+                        <h3>关注: 1166</h3>
+                        <h3>地区: 广西合浦</h3>
+                    </div>
+                    <input type="hidden" value="191" name="id">
+                    <input type="hidden" value="0" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/61847338921319.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;540万</p>
+                <h2>DJMichael</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/190.html" title="DJMichael" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/61847338921319.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJMichael</h3>
+                        <h3>点击: 540.5万</h3>
+                        <h3>关注: 232</h3>
+                        <h3>地区: 中山</h3>
+                    </div>
+                    <input type="hidden" value="190" name="id">
+                    <input type="hidden" value="1" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1007425701563.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1129万</p>
+                <h2>DJ建仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/189.html" title="DJ建仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1007425701563.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ建仔</h3>
+                        <h3>点击: 1129.2万</h3>
+                        <h3>关注: 994</h3>
+                        <h3>地区: 广东中山</h3>
+                    </div>
+                    <input type="hidden" value="189" name="id">
+                    <input type="hidden" value="2" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1140751733454.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;857万</p>
+                <h2>鹤山DJ超仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/188.html" title="鹤山DJ超仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1140751733454.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>鹤山DJ超仔</h3>
+                        <h3>点击: 856.6万</h3>
+                        <h3>关注: 844</h3>
+                        <h3>地区: 广东江门</h3>
+                    </div>
+                    <input type="hidden" value="188" name="id">
+                    <input type="hidden" value="3" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/11242242079584.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;845万</p>
+                <h2>DJAlone</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/187.html" title="DJAlone" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/11242242079584.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJAlone</h3>
+                        <h3>点击: 844.9万</h3>
+                        <h3>关注: 1160</h3>
+                        <h3>地区: 广东东莞</h3>
+                    </div>
+                    <input type="hidden" value="187" name="id">
+                    <input type="hidden" value="4" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1453452245295.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;91.9万</p>
+                <h2>DJ小祖</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/186.html" title="DJ小祖" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1453452245295.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ小祖</h3>
+                        <h3>点击: 91.9万</h3>
+                        <h3>关注: 75</h3>
+                        <h3>地区: 广西河池</h3>
+                    </div>
+                    <input type="hidden" value="186" name="id">
+                    <input type="hidden" value="5" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1141140316889.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1246万</p>
+                <h2>DJ瘦仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/185.html" title="DJ瘦仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1141140316889.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ瘦仔</h3>
+                        <h3>点击: 1246.1万</h3>
+                        <h3>关注: 766</h3>
+                        <h3>地区: 广西梧州</h3>
+                    </div>
+                    <input type="hidden" value="185" name="id">
+                    <input type="hidden" value="6" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/71003453727228.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;334万</p>
+                <h2>阳山DJ欧仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/184.html" title="阳山DJ欧仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/71003453727228.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>阳山DJ欧仔</h3>
+                        <h3>点击: 334.2万</h3>
+                        <h3>关注: 169</h3>
+                        <h3>地区: 广东阳山</h3>
+                    </div>
+                    <input type="hidden" value="184" name="id">
+                    <input type="hidden" value="7" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/81050461879084.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;206万</p>
+                <h2>DJ细文</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/183.html" title="DJ细文" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/81050461879084.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ细文</h3>
+                        <h3>点击: 205.7万</h3>
+                        <h3>关注: 131</h3>
+                        <h3>地区: 广东新会</h3>
+                    </div>
+                    <input type="hidden" value="183" name="id">
+                    <input type="hidden" value="8" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/28946005254938.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;129万</p>
+                <h2>湛江DJAHai</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/182.html" title="湛江DJAHai" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/28946005254938.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>湛江DJAHai</h3>
+                        <h3>点击: 129.1万</h3>
+                        <h3>关注: 287</h3>
+                        <h3>地区: 广东湛江</h3>
+                    </div>
+                    <input type="hidden" value="182" name="id">
+                    <input type="hidden" value="9" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                    </ul>
+        <ul id="pcer2-pcerlist3" style="display: none">
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/71525401399195.png"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;43.8万</p>
+                <h2>DJ H</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/181.html" title="DJ H" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/71525401399195.png"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ H</h3>
+                        <h3>点击: 43.8万</h3>
+                        <h3>关注: 70</h3>
+                        <h3>地区: 广东廉江</h3>
+                    </div>
+                    <input type="hidden" value="181" name="id">
+                    <input type="hidden" value="0" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/31233449085657.png"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;830万</p>
+                <h2>Dj力索</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/180.html" title="Dj力索" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/31233449085657.png"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>Dj力索</h3>
+                        <h3>点击: 830.2万</h3>
+                        <h3>关注: 831</h3>
+                        <h3>地区: 广东肇庆</h3>
+                    </div>
+                    <input type="hidden" value="180" name="id">
+                    <input type="hidden" value="1" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/5924137915765.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1068万</p>
+                <h2>云浮Dj家雄仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/179.html" title="云浮Dj家雄仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/5924137915765.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>云浮Dj家雄仔</h3>
+                        <h3>点击: 1067.9万</h3>
+                        <h3>关注: 536</h3>
+                        <h3>地区: 广东云浮</h3>
+                    </div>
+                    <input type="hidden" value="179" name="id">
+                    <input type="hidden" value="2" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/01055413603022.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1035万</p>
+                <h2>DJ细周</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/178.html" title="DJ细周" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/01055413603022.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ细周</h3>
+                        <h3>点击: 1034.7万</h3>
+                        <h3>关注: 969</h3>
+                        <h3>地区: 广东中山</h3>
+                    </div>
+                    <input type="hidden" value="178" name="id">
+                    <input type="hidden" value="3" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/21129522405817.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1063万</p>
+                <h2>DJ乞丐</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/177.html" title="DJ乞丐" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/21129522405817.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ乞丐</h3>
+                        <h3>点击: 1062.7万</h3>
+                        <h3>关注: 1957</h3>
+                        <h3>地区: 广西南宁</h3>
+                    </div>
+                    <input type="hidden" value="177" name="id">
+                    <input type="hidden" value="4" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/251034343869135.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;1408万</p>
+                <h2>中山DJ2索</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/176.html" title="中山DJ2索" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/251034343869135.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>中山DJ2索</h3>
+                        <h3>点击: 1408.2万</h3>
+                        <h3>关注: 1677</h3>
+                        <h3>地区: 广东中山</h3>
+                    </div>
+                    <input type="hidden" value="176" name="id">
+                    <input type="hidden" value="5" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1402292375910.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;268万</p>
+                <h2>DJ卡卡</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/175.html" title="DJ卡卡" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1402292375910.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJ卡卡</h3>
+                        <h3>点击: 267.7万</h3>
+                        <h3>关注: 518</h3>
+                        <h3>地区: 广东莲花</h3>
+                    </div>
+                    <input type="hidden" value="175" name="id">
+                    <input type="hidden" value="6" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/61426369248315.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;482万</p>
+                <h2>DjXdin</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/173.html" title="DjXdin" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/61426369248315.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DjXdin</h3>
+                        <h3>点击: 482.4万</h3>
+                        <h3>关注: 560</h3>
+                        <h3>地区: 海南文昌</h3>
+                    </div>
+                    <input type="hidden" value="173" name="id">
+                    <input type="hidden" value="7" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li >
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/51212345429804.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;173万</p>
+                <h2>Dj铭仔</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/172.html" title="Dj铭仔" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/51212345429804.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>Dj铭仔</h3>
+                        <h3>点击: 173.1万</h3>
+                        <h3>关注: 166</h3>
+                        <h3>地区: 广西梧州</h3>
+                    </div>
+                    <input type="hidden" value="172" name="id">
+                    <input type="hidden" value="8" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                        <li style="margin-right:0;">
+                <div class="ra-img"><img src="http://jsin.vvvdj.com/upload/Photo/1503356484949.jpg"></div>
+                <p class="hits-white">&nbsp;&nbsp;&nbsp;&nbsp;443万</p>
+                <h2>DJFour</h2>
+                <div class="producer-detail-box" style="display:none;">
+                    <a href="/djshow/171.html" title="DJFour" target="_blank">
+                        <div class="ra-img" style="float: left"><img src="http://jsin.vvvdj.com/upload/Photo/1503356484949.jpg"></div>
+                    </a>
+                    <div class="ra-hover-detail">
+                        <h3>DJFour</h3>
+                        <h3>点击: 443.0万</h3>
+                        <h3>关注: 390</h3>
+                        <h3>地区: 广西梧州</h3>
+                    </div>
+                    <input type="hidden" value="171" name="id">
+                    <input type="hidden" value="9" name="key">
+                    <div class="ra-hover-music"></div>
+                </div>
+            </li>
+                    </ul>
+    </div>
+    </div>
+
+<div class="h10" style="height:0px;"></div>
+             </div>
+         </div>
+     </div>
+ </div>
+
+ <script>
+     Disp.Show();
+ </script>
+ 
+        
+ <div id="link">
+      <div class="link_title">友情链接</div>
+            <a href="http://www.vvvdj.com/dingzuo/" target="_blank">订做串烧</a> 
+            <a href="http://www.qcoco.com/" target="_blank">橙子网</a> 
+            <a href="http://ent.qianzhan.com/" target="_blank">娱乐新闻</a> 
+            <a href="http://baike.hao123.cn/yinyue/" target="_blank">123在线音乐</a> 
+            <a href="http://www.ik123.com/" target="_blank">深港DJ舞曲</a> 
+            <a href="http://www.qqyou.com/" target="_blank">QQ头像</a> 
+            <a href="http://www.cnscore.com/" target="_blank">简谱</a> 
+            <a href="http://www.goupuzi.com/" target="_blank">买狗网</a> 
+            <a href="http://www.djye.com/" target="_blank">dj耶耶网</a> 
+            <a href="http://www.dj97.com/" target="_blank">水晶dj网</a> 
+            <a href="http://www.333ttt.com/" target="_blank">dj舞曲</a> 
+            <a href="http://www.jiemeng8.com/" target="_blank">周公解梦</a> 
+            <a href="http://www.cnwav.com/" target="_blank">手机铃声</a> 
+            <a href="http://www.tooopen.com/" target="_blank">图片大全</a> 
+            <a href="http://m.vvvdj.com" target="_blank">清风DJ移动版</a> 
+            <a href="http://www.liantu.com/" target="_blank">二维码</a> 
+            <a href="http://www.dj520.com/" target="_blank">dj前卫音乐</a> 
+            <a href="http://www.youxile.com/" target="_blank">单机游戏下载</a> 
+            <a href="http://www.36dj.com/" target="_blank">DJ舞曲网</a> 
+            <a href="http://www.72dj.com" target="_blank">72DJ舞曲网</a> 
+            <a href="http://www.kekedj.com/" target="_blank">DJ电音</a> 
+      </div>
+ 
+        
+ <div id="footer">
+    <div id="footct">
+        <div id="bottom">
+            <div class="btmenu">
+                <a href="/servers/license" target="_blank"> 用户服务协议</a> <span>/</span>
+                <a href="/servers/pripolicy" target="_blank"> 隐私政策</a> <span>/</span>               
+                <a href="/servers/copyright" target="_blank">版权说明</a> <span>/</span>
+                <a href="/servers/disclaimer" target="_blank"> 免责声明</a> <span>/</span>
+                <a href="/servers/about" target="_blank">关于我们</a> <span>/</span>
+                <a href="/servers/contact" target="_blank">联系我们</a> <span>/</span>
+                <a href="/servers/complaint" target="_blank">投诉建议</a> <span>/</span>                
+                <a href="/servers/map" target="_blank">网站地图</a> <span>/</span>
+                <a href="/servers/introductions" target="_blank">购买下载说明</a>     
+            </div>
+           
+            <div class="linesx" style="clear:both;*height:1px;*overflow: hidden"></div>
+            <div class="btleft">
+                <ul>
+                    <li class="zhengshu">
+                        <p></p>
+                        <p class="wa_ico"><a href="javascript:window.open('http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44078302000205');void(0);">粤公网安备 44078302000205号</a></p>
+                        <p class="www_ico"><a href="javascript:window.open('http://sq.ccm.gov.cn:80/ccnt/sczr/service/business/emark/toDetail/CC53372073E84EC490C5FE8DEC5127E7');void(0);">粤网文[2017]4639-1016号</a></p>
+                        <p class="xkz_ico"><a href="javascript:window.open('http://www.miitbeian.gov.cn/');void(0);" >许可证：粤ICP备11075239号</a></p>
+                    </li>
+                    <li style="line-height:28px;clear:both;height:70px;">本站舞曲均为DJ原创作品,并自愿上传到本站,其所有权为DJ及所属公司拥有,如有侵犯到你的权益,请联系我们<br>
+                       Copyright © 2017 Www.VvvDj.Com All Rights Reserved. </li>
+                </ul>
+            </div>
+            <div class='btright'>
+             
+                <table width="240" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td colspan="2" class="khd_title" style='color:#3f3f3f'>清风DJ手机客户端</td>
+                    </tr>
+                  <tr>
+                    <td valign='top'><div class='ios_ico'><a href="/showapp/" target='_blank'>IOS客户端下载</a></div><div class='and_ico'><a href="/showapp/" target='_blank'>安卓客户端下载</a></div></td>
+                    <td valign='top'><div class='weixin_ico' id="wechat-footer"><a href="javascript:void(0);">微信公众号</a></div>
+
+                    </td>
+                    <script>WECHAT.show();</script>
+                  </tr>
+                </table>
+
+           
+            </div> 
+        </div>
+    </div>
+</div><span id='appendhtml'></span>
+
+ 
+    </body>
+</html>
+<script src="/static/js/tj.js?20191026" type="text/javascript"  charset="utf-8"  ></script>       <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-76.html">儿童安全座椅</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-77.html">儿童乘车安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-78.html">儿童居家安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-79.html">儿童食品安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-80.html">儿童玩具安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-81.html">校车安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-83.html">儿童意外伤害</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-84.html">幼儿安全教育</a></dd>
+                                            </dl>
+                </li>
+                                                            <li>
+                    <div class="cBlue ac-title">宝宝疾病</div>
+                                        <dl class="list">
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-10-id-134.html">宝宝便秘</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-10-id-133.html">宝宝腹泻</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-10-id-132.html">宝宝咳嗽</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-10-id-130.html">宝宝口臭</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-10-id-129.html">宝宝偏食</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-10-id-103.html">儿童龋齿</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-10-id-102.html">小儿中暑</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-10-id-101.html">幼儿贫血</a></dd>
+                                            </dl>
+                </li>
+                                    </ul>
+        </div>
+    </div>
+            <div class="bigTabCont" style="display: none">
+        <div class="box">
+            <ul>
+                                                                <li>
+                    <div class="cBlue ac-title">早期教育</div>
+                                        <dl class="list">
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-124-id-290.html">儿童生活习惯培养</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-124-id-275.html">儿童性别教育</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-124-id-274.html">情商教育</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-124-id-273.html">儿童潜能开发</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-124-id-272.html">家庭教育</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-124-id-271.html">儿童双语教育</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-124-id-270.html">体商教育</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-124-id-269.html">儿童性教育</a></dd>
+                                            </dl>
+                </li>
+                                                            <li>
+                    <div class="cBlue ac-title">宝宝安全</div>
+                                        <dl class="list">
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-289.html">儿童玩具安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-246.html">儿童厨房安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-244.html">儿童急救安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-242.html">儿童性侵安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-240.html">儿童用药安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-239.html">儿童乘机安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-238.html">儿童浴室安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-237.html">儿童疫苗安全</a></dd>
+                                            </dl>
+                </li>
+                </ul><ul>                                            <li>
+                    <div class="cBlue ac-title">入园入学</div>
+                                        <dl class="list">
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-129-id-288.html">儿童画笔</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-129-id-287.html">背唐诗</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-129-id-286.html">学写字</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-125-id-285.html">选择幼儿园</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-127-id-281.html">入学准备</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-127-id-280.html">孩子不爱学习</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-123-id-251.html">幼儿园安全</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-124-id-86.html">宝宝上幼儿园</a></dd>
+                                            </dl>
+                </li>
+                                                            <li>
+                    <div class="cBlue ac-title">宝宝发育</div>
+                                        <dl class="list">
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-125-id-284.html">儿童体重</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-125-id-283.html">骨骼发育</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-125-id-282.html">长高的诀窍</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-127-id-228.html">幼儿身心发展</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-127-id-227.html">儿童行为与性格</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-125-id-217.html">儿童换牙牙</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-125-id-218.html">宝宝说话晚</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-125-id-215.html">智力发育</a></dd>
+                                            </dl>
+                </li>
+                </ul><ul>                                            <li>
+                    <div class="cBlue ac-title">宝宝护理</div>
+                                        <dl class="list">
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-11-id-268.html">儿童过敏护理</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-11-id-267.html">儿童冬季护理</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-11-id-266.html">儿童视力保护</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-11-id-264.html">儿童夏季护理</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-11-id-261.html">儿童口腔护理</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-11-id-253.html">儿童秋季护理</a></dd>
+                                            </dl>
+                </li>
+                                                            <li>
+                    <div class="cBlue ac-title">幼儿疾病</div>
+                                        <dl class="list">
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-126-id-118.html">出水痘</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-126-id-119.html">儿童鼻炎</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-126-id-120.html">儿童多动症</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-126-id-121.html">儿童口吃</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-126-id-122.html">儿童性早熟</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-126-id-125.html">儿童自闭症</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-126-id-126.html">腮腺炎</a></dd>
+                                                <dd><a target="_blank" href="http://www.lamabang.com/baike/tag-126-id-127.html">手足口病</a></dd>
+                                            </dl>
+                </li>
+                                    </ul>
+        </div>
+    </div>
+    </div>
+<!--孕育百科End-->
+<div class="w">
+        <div class="downloadBox" style="display: none;">
+        <b class="appBar"></b>
+        <div class="appQRCode"><img src="/static/v2/images/vcode/lmb.png"/></div>
+        <div class="text">扫一扫下载客户端</div>
+        <b class="pointer close"></b>
+    </div>
+</div>
+<div hook="adBanner" args="id:146;type:fixed;height:400"></div>
+<div class="footer">
+    <div class="footNavMap">
+        <div class="w ovH">
+            <div class="ovH">
+                <div class="contL fl">
+                    <h4 class="title"><b>关注</b>我们</h4>
+                    <dl class="attention">
+                        <dd class="dd1"><i class="icon-lmb"></i>辣妈帮微信公众号<img
+                                src="http://s11.lmbang.com/v2v_lama_public.png"/></dd>
+                        <dd class="dd2">
+                            <a href="http://e.weibo.com/lmbang" rel="nofollow" target="_blank">
+                                <div class="icon"><i class="icon-weibo"></i></div>
+                                <div class="text">新浪微博</div>
+                            </a>
+                        </dd>
+                        <dd class="dd3"><i class="icon-yunqi"></i>孕期伴侣微信公众号<img
+                                src="http://s11.lmbang.com/v2v_preg_public.png"/></dd>
+                    </dl>
+                </div>
+                <div class="contC fl">
+                    <h4 class="title"><b>客户端</b>下载</h4>
+                    <dl class="appDownlaod">
+                        <dd>
+                            <div class="QRCode"><img src="http://s11.lmbang.com/v2v_lmb-app.png" width="97px;"
+                                                     height="97px;"/></div>
+                            <p>辣妈帮</p>
+                        </dd>
+                        <dd>
+                            <div class="QRCode"><img src="http://s11.lmbang.com/v2v_mgzz.png" width="97px;"
+                                                     height="97px;"/></div>
+                            <p>芒果钻钻</p>
+                        </dd>
+                        <dd>
+                            <div class="QRCode"><img src="http://s11.lmbang.com/v2v_preg.png" width="97px;"
+                                                     height="97px;"/></div>
+                            <p>孕期伴侣</p>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="contR fl">
+                    <h4 class="title"><b>关于</b>我们</h4>
+
+                    <div class="navBtn">
+                        <ul>
+                            <li><a href="http://www.lamabang.com/article/detail/m-about.html" target="_blank"
+                                   rel="nofollow">公司简介</a></li>
+                            <li><a href="http://www.lamabang.com/article/media/m-media.html" target="_blank"
+                                   rel="nofollow">媒体关注</a></li>
+                            <li><a href="http://product.lmbang.com/" target="_blank" rel="nofollow">下载中心</a></li>
+                            <li><a href="http://www.lamall.com/" target="_blank" rel="nofollow">辣妈商城</a></li>
+                            <li><a href="http://www.lamabang.com/article/detail/m-copyrightup.html" target="_blank"
+                                   rel="nofollow">版权申诉</a></li>
+                        </ul>
+                    </div>
+                    <h4 class="title"><b>用户</b>反馈</h4>
+                    <dl class="feedback">
+                        <dd><a href="http://www.lamabang.com/article/detail/m-feedback.html" target="_blank"
+                               rel="nofollow">用户反馈</a></dd>
+                        <dd><a href="http://www.lamabang.com/bang/detail/bid-36.html" target="_blank" rel="nofollow">使用咨询，意见反馈帮</a>
+                        </dd>
+                        <dd><a href="http://www.lamabang.com/article/detail/m-contactus.html" target="_blank"
+                               rel="nofollow">联系我们</a></dd>
+                    </dl>
+                </div>
+            </div>
+                        <div class="blogroll">
+                <h4 class="title"><b>友情</b>链接</h4>
+                                <a href="http://bbs.ibabyzone.cn/" target="_blank">育儿论坛 </a>
+                                <a href="http://www.bozhong.com/" target="_blank">备孕经验</a>
+                                <a href="http://www.myguancha.com/ " target="_blank">母婴行业观察</a>
+                                <a href="http://www.zqnf.com/" target="_blank">答案网</a>
+                                <a href="http://www.051661.com/" target="_blank">幼儿教育网</a>
+                                <a href="http://www.shrimp.org.cn/ " target="_blank">煲汤食谱大全</a>
+                                <a href="http://www.cn0-6.com/" target="_blank">中国幼儿网 </a>
+                                <a href="http://www.zhidiy.com/" target="_blank">手工制作</a>
+                                <a href="http://www.yejs.com.cn/" target="_blank">中国幼儿教师网</a>
+                                <a href="http://yuer.hujiang.com/" target="_blank">沪江育儿网</a>
+                                <a href="http://pic.szhk.com/" target="_blank">美女图片</a>
+                                <a href="http://ask.9939.com/" target="_blank">在线医生</a>
+                                <a href="http://news.120ask.com/" target="_blank">健康新闻</a>
+                                <a href="http://www.piaoliang.com/" target="_blank">漂亮女人</a>
+                                <a href="http://www.kela.cn/" target="_blank">珂兰官网</a>
+                                <a href="http://ye.99.com.cn/" target="_blank">99健康育儿</a>
+                                <a href="http://www.onlylady.com/" target="_blank">女人志</a>
+                                <a href="http://www.cunan.com/" target="_blank">村安商城</a>
+                                <a href="http://www.ixiumei.com/" target="_blank">爱秀美</a>
+                                <a href="http://www.kanman.com/" target="_blank">看漫画</a>
+                                <a href="http://yule.izhufu.net/" target="_blank">娱乐八卦 </a>
+                                <a href="https://www.5djiaren.com/" target="_blank">娱乐明星</a>
+                                <a href="https://www.faxingsj.com/" target="_blank">男生发型</a>
+                                <a href="http://chatplus.ai/" target="_blank">言加</a>
+                                <a href="https://www.qj.com.cn" target="_blank">加盟网</a>
+                                <a href="http://www.dazijia.com" target="_blank">自驾游</a>
+                                <a href="http://www.jmw.com.cn/" target="_blank">中国加盟网</a>
+                                <a href="https://www.wanmeila.com/" target="_blank">完美作业网</a>
+                                <a href="https://www.03ky.com/" target="_blank">八字算命</a>
+                                <a href="http://www.likuso.com/" target="_blank">企业名录</a>
+                                <a href="http://www.lawtime.cn" target="_blank">法律咨询</a>
+                                <a href="https://www.tianyancha.com/" target="_blank">天眼查</a>
+                                <a href="https://www.s.cn/" target="_blank">名鞋库</a>
+                                <a href="https://www.scarbbs.com/" target="_blank">疤痕体质</a>
+                                <a href="https://www.53.com.cn/" target="_blank">53加盟网</a>
+                                <a href="http://www.7y7.com/" target="_blank">七丽女性网</a>
+                                <a href="http://www.irskj.com/" target="_blank">深圳app开发</a>
+                                <a href="http://www.puercn.com/" target="_blank">茶叶</a>
+                                <a href="https://www.smzdm.com/" target="_blank">什么值得买</a>
+                                <a href="http://2018.cn/" target="_blank">分类信息网</a>
+                                <a href="http://www.ccsw003.com/" target="_blank">建材网</a>
+                                <a href="http://www.mangguozz.com/" target="_blank">芒果钻钻</a>
+                                <a href="https://www.chinapp10.com/" target="_blank">十大品牌网</a>
+                                <a href="http://www.huazhen2008.com/" target="_blank">挽回爱情</a>
+                                <a href="http://www.meijiu.com/" target="_blank">美酒网</a>
+                            </div>
+                    </div>
+    </div>
+    <div class="copyright">
+        <div class="info">
+            深圳市辣妈帮科技有限公司 Ltd.2009-2020 All Rights Reserved 　　版权所有 　©辣妈帮 ©辣妈商城　 <a href="http://beian.miit.gov.cn" title="工业和信息化部" target="_blank">粤ICP备13070153号-3</a><br/>增值电信业务经营许可证：粤B2-20170474        <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000232" title="粤公网安备" target="_blank">粤公网安备 44030502000232号</a> <br/>未经授权禁止转载、摘编、复制或建立镜像，如有违反，追究法律责任。
+        </div>
+        <div class="safeguard">
+            <a href="http://www.sznet110.gov.cn/netalarm/index.jsp" target="_blank" rel="nofollow">
+                <img src="http://s11.lmbang.com/simg_foot_tool_a.png"/>
+            </a>
+            <a href="http://net.china.com.cn/index.htm" target="_blank" rel="nofollow">
+                <img src="http://s11.lmbang.com/simg_foot_tool_d.png"/>
+            </a>
+            <a href="https://ss.knet.cn/verifyseal.dll?sn=e14061744030050025nk1z000000&ct=df&a=1&pa=0.5478457924703252"
+               target="_blank" rel="nofollow">
+                <img src="http://s11.lmbang.com/simg_cnnic.png" style="border: 0;height:57px;width:122px;"/>
+            </a>
+            <a href="https://search.szfw.org/cert/l/CX20140627008257008323" target="_blank" rel="nofollow"><img
+                    src="http://s11.lmbang.com/simg_xin.png" style="border: 0;"/></a>
+        </div>
+    </div>
+</div><!--底部End-->
+<div style="display: none;">
+    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cspan id='cnzz_stat_icon_1253295186'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s5.cnzz.com/z_stat.php%3Fid%3D1253295186' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
+<script type="text/javascript">
+    //C.toTop.init();
+    var _czc = _czc || [];
+    _czc.push(["_trackEvent", '轮显层', "收藏"]);
+</script>
+<!--<script type="text/javascript" src="//m.stoneios.com/dd/1005.js"></script>-->
+<script>
+    var _hmt = _hmt || [];
+    (function () {
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?15b9b5010be2b8a0cbd1ed53c9a167ae";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+      //360提交js
+    (function(){
+        var src = (document.location.protocol == "http:") ? "http://js.passport.qihucdn.com/11.0.1.js?732b05df8a3e18df21dc81e18f1c34b3":"https://jspassport.ssl.qhimg.com/11.0.1.js?732b05df8a3e18df21dc81e18f1c34b3";
+        document.write('<script src="' + src + '" id="sozz"><\/script>');
+    })();
+</script><script src="/static/v2/seajs/sea.js"></script>
+<script type="text/javascript" src="/static/v2/pkg/index.html.js"></script>
+<script>
+    seajs.use("app/index/Index");
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+0
+

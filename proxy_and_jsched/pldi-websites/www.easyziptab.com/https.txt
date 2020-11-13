@@ -1,0 +1,53 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Date: Tue, 11 Feb 2020 03:56:30 GMT
+Location: https://www.easyziptab.com/
+Server: nginx
+X-XSS-Protection: 1; mode=block
+Content-Length: 178
+Connection: Close
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+e-Options: sameorigin
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+CF-Cache-Status: HIT
+Age: 1
+Server: cloudflare
+CF-RAY: 563364ab88d4a607-IND
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+</head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+k; report=/xss-report?source%5Baction%5D=index&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=251ce736-3b0c-455b-9dae-1afac4852407
+X-Dc: gcp-us-east1,gcp-us-central1,gcp-us-central1
+NEL: {"report_to":"network-errors","max_age":2592000,"failure_fraction":0.01,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifycloud.com/v1/reports/nel/20190325/shopify"}]}
+X-Request-ID: 251ce736-3b0c-455b-9dae-1afac4852407
+NEL: {"report_to":"network-errors","max_age":2592000,"failure_fraction":0.01,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifycloud.com/v1/reports/nel/20190325/shopify"}]}
+CF-Cache-Status: DYNAMIC
+Alt-Svc: h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Server: cloudflare
+CF-RAY: 563364509b3ba613-IND
+
+58
+<html><body>You are being <a href="https://colourpop.com/">redirected</a>.</body></html>
+0
+

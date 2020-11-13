@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.skysports.com/
+Cache-Control: max-age=0
+Expires: Tue, 11 Feb 2020 03:16:48 GMT
+Date: Tue, 11 Feb 2020 03:16:48 GMT
+Connection: close
+Content-Security-Policy: frame-ancestors *.skysports.com *.livefyre.com *.google.com *.ampproject.org;
+
+>
+</body>
+</html>
+ache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 56332a75a9a0a607-IND
+
+e9
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.pdfdrive.com/">here</a>.</p>
+</body></html>
+
+0
+
+YneLjzkcuANjDvoR0lUjTV0APtJvrNjXr+6Ai4dhWv5gp83NOCFhhABP10BkQ/Tf56T/YZTXdMpXelpnFO0LcKd8BGYe+PgiJXti2bQxmxGkHNnBRBoxUjrynOAOfbFx8g1QR4ur1EybHMY6pHLCAjUTAdk9Kg9eSewVusv4ykr14DXl~-1~-1~-1; Domain=.nordstrom.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:22 GMT; Max-Age=31536000
+
+00
+

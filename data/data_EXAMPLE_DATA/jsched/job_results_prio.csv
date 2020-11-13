@@ -1,0 +1,27 @@
+./jsched-prio -f0 2 -f1 2 -f2 2 -f3 2 --seed 90 --duration 15 --quantlen 500 --cilkrho 2 --cilkutil .9 
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+MM Timing (avg of 24) Duration 14.343577 sec, 37610.3, 44115.3, 36075.2, 1925.46, 5.11952, 36858, 39647.7, 41503.2, 44115.3
+FIB Timing (avg of 28) Duration 12.047407 sec, 75451.2, 148674, 60476.6, 22669, 30.0446, 64995.8, 107698, 132385, 148674
+SORT Timing (avg of 33) Duration 13.825460 sec, 116937, 344543, 81470.3, 56623.1, 48.4219, 86248, 186682, 220568, 344543
+SW Timing (avg of 21) Duration 13.121127 sec, 354262, 1.02372e+06, 130825, 329178, 92.9192, 219049, 988907, 1.02051e+06, 1.02372e+06
+
+./jsched-prio -f0 3 -f1 3 -f2 3 -f3 3 --seed 90 --duration 15 --quantlen 500 --cilkrho 2 --cilkutil .9 
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+MM Timing (avg of 43) Duration 13.238374 sec, 41166.5, 71112.7, 36078.2, 9466.09, 22.9946, 37306.2, 49150.3, 68414.3, 71112.7
+FIB Timing (avg of 44) Duration 14.190234 sec, 88014.1, 253737, 58501.4, 39037.4, 44.3536, 67676.8, 130579, 147863, 253737
+SORT Timing (avg of 28) Duration 14.471992 sec, 123971, 221552, 81987, 44948.5, 36.2574, 112020, 209502, 210169, 221552
+SW Timing (avg of 49) Duration 13.898191 sec, 382960, 807189, 135552, 166062, 43.3628, 364014, 597728, 773686, 807189
+
+./jsched-prio -f0 4 -f1 4 -f2 4 -f3 4 --seed 90 --duration 15 --quantlen 500 --cilkrho 2 --cilkutil .9 
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+MM Timing (avg of 43) Duration 13.857408 sec, 42850.9, 71385.8, 36433.1, 10902.3, 25.4425, 37556.5, 65774.7, 67773, 71385.8
+FIB Timing (avg of 46) Duration 14.006092 sec, 80744.6, 216308, 59204.2, 40750.5, 50.4683, 60612, 150249, 183754, 216308
+SORT Timing (avg of 43) Duration 14.447068 sec, 139334, 515682, 78643, 87901.8, 63.0871, 111317, 201949, 303622, 515682
+SW Timing (avg of 68) Duration 17.976088 sec, 5.45804e+06, 1.04124e+07, 132175, 2.8428e+06, 52.0846, 5.96237e+06, 8.38085e+06, 9.03913e+06, 1.04124e+07
+
+./jsched-prio -f0 5 -f1 5 -f2 5 -f3 5 --seed 90 --duration 15 --quantlen 500 --cilkrho 2 --cilkutil .9 
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+MM Timing (avg of 93) Duration 14.888668 sec, 48250.4, 89609.4, 36209.4, 15673, 32.4826, 37791.6, 75573.7, 79307.3, 89609.4
+FIB Timing (avg of 69) Duration 14.074270 sec, 148336, 536630, 60090.1, 111733, 75.3241, 120138, 302312, 434644, 536630
+SORT Timing (avg of 49) Duration 14.490286 sec, 333664, 1.38163e+06, 82706.1, 290827, 87.1616, 215800, 713816, 1.05928e+06, 1.38163e+06
+SW Timing (avg of 17) Duration 17.095846 sec, 9.43996e+06, 1.52663e+07, 4.02269e+06, 3.19405e+06, 33.8354, 8.79031e+06, 1.34296e+07, 1.52663e+07, 1.52663e+07

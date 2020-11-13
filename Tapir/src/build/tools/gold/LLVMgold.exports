@@ -1,0 +1,5 @@
+LLVM_5.0 {
+  global:
+    onload;
+  local: *;
+};

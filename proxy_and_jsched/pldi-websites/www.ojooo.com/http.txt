@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 04:02:23 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: close
+Set-Cookie: __cfduid=dfacffdf8586df8e6fbe1408b84f9e3bb1581393743; expires=Thu, 12-Mar-20 04:02:23 GMT; path=/; domain=.ojooo.com; HttpOnly; SameSite=Lax
+Location: https://ojooo.com/
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 56336d4fbcd3a619-IND
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://ojooo.com/">here</a>.</p>
+</body></html>
+ú‘{ğŠ¶xO›|¹±òèG{c¬)³¯‚2¬öõdÕ±Ìh~¤”/z"™b¡¤Ğ}­·ñ!µ7S–çŸ¡	mawôùw+§ó«_Ti7õ¹5}ú„vfª|úiùòQmj£²²<ÿƒvş˜¶úB›}ú£êü„6ÿ¸2ÿ°2»¨?]Ö¯.î©®Ü¨,œØ£[ÜX»«;DŸŒ?‹×ÊÓ«¸¶G›¼‡®Í/Õ[×ènùíiíÎ1}ù¢>s{öø¥öl²|émeOŸ¾§z ¯LêË‡öè‹§*·&«WOT¯,ï)?~¦œÜƒáê‹kúù§åëhgş‡ÊÑ3{´§³h_öTŞÍi3÷ô©WÚí{ô'§´ûË{

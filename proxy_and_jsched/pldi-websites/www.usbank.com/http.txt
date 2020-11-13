@@ -1,0 +1,9 @@
+HTTP/1.0 301 Moved Permanently
+Location: https://www.usbank.com/
+Strict-Transport-Security: max-age=31536000
+Content-Length: 0
+Date: Tue, 11 Feb 2020 03:16:10 GMT
+Connection: close
+Set-Cookie: bm_sz=46FA7A6EB3CCF61854F2EC77C6F451D9~YAAQDwnorLs6RyBwAQAALz8/MgZIp+W5rLvTIcSiXKq+ATmTC0JpzYVIoAf4rq8iCTL9hof90XaIUAsfiFRNBFPtKQckpIKQBafCEyKpxB8zhTnwbVxCjg0T66ePWHgLCUppo3RB1AIjCWZC0B9/OUP1Xarx7BoFy8ba6ukKOCik+yogcOfPA3QgcBcuDMVJ; Domain=.usbank.com; Path=/; Expires=Tue, 11 Feb 2020 07:16:10 GMT; Max-Age=14400; HttpOnly
+Set-Cookie: _abck=07610466129C39DE036AC0614EC1D8BC~-1~YAAQDwnorLw6RyBwAQAALz8/MgM+6q7M72iqt7dsvq15I9iCONWicNPtIjPF+xbH7L9BQgW4NYj7WbHTWJf+/jtA5DptLmiWK/wlD79VFKNm3UKcgv7pzIf9piij65Piv6DIhwV95DwSaAAF5Tochir9t4qx5Wopq+/v9XcN41HC7Kl6vxlEbTVAEr8oGE1NxmOvV8lt0BSxeIiLb1RSuv2ZcoQogb9dairiNIWmvAa6JiBeXO42CEaqZLrWwby4z3tvVTp49hKIGA4FKAU9g5ey+lwT~-1~-1~-1; Domain=.usbank.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:10 GMT; Max-Age=31536000
+

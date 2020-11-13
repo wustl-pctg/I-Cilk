@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Retry-After: 0
+Location: https://www.thecut.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 11 Feb 2020 03:56:21 GMT
+Connection: close
+X-Served-By: cache-mdw17338-MDW
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1581393381.381601,VS0,VE0
+X-NYM-Debug-Backend: synth
+Set-Cookie: first-nymcid=df9e68e9193f7a6e1a9ee09ea4fbd78e.1581393381382;Expires=Sun, 09 Feb 2025 03:56:21 GMT;Domain=www.thecut.com;Path=/;
+Strict-Transport-Security: max-age=31557600
+
+ntent-Security-Policy: frame-ancestors *; report-uri /csp-report?source%5Baction%5D=index&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=251ce736-3b0c-455b-9dae-1afac4852407
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+X-XSS-Protection: 1; mode=block; report=/xss-report?source%5Baction%5D=index&source%5Bapp%5D=Shopify&source%5Bcontroller%5D=storefront_section%2Fshop&source%5Bsection%5D=storefront&source%5Buuid%5D=251ce736-3b0c-455b-9dae-1afac4852407
+X-Dc: gcp-us-east1,gcp-us-central1,gcp-us-central1
+NEL: {"report_to":"network-errors","max_age":2592000,"failure_fraction":0.01,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifycloud.com/v1/reports/nel/20190325/shopify"}]}
+X-Request-ID: 251ce736-3b0c-455b-9dae-1afac4852407
+NEL: {"report_to":"network-errors","max_age":2592000,"failure_fraction":0.01,"success_fraction":0.0001}
+Report-To: {"group":"network-errors","max_age":2592000,"endpoints":[{"url":"https://monorail-edge.shopifycloud.com/v1/reports/nel/20190325/shopify"}]}
+CF-Cache-Status: DYNAMIC
+Alt-Svc: h3-24=":443"; ma=86400, h3-23=":443"; ma=86400
+Server: cloudflare
+CF-RAY: 563364509b3ba613-IND
+
+58
+<html><body>You are being <a href="https://colourpop.com/">redirected</a>.</body></html>
+0
+

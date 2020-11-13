@@ -1,0 +1,19 @@
+HTTP/1.0 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.sc.com/
+Cache-Control: max-age=604800
+Expires: Tue, 18 Feb 2020 04:02:25 GMT
+Date: Tue, 11 Feb 2020 04:02:25 GMT
+Connection: close
+Content-Security-Policy: frame-ancestors 'self' *.sc.com *.standardchartered.com *.standardchartered.co.in *.standardchartered.co.th *.standardchartered.com.hk *.standardchartered.com.my *.standardchartered.com.sg *.standardchartered.co.id *.standardchartered.com.tw
+
+1 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://ojooo.com/">here</a>.</p>
+</body></html>
+
+0
+
+"™b¡¤Ğ}­·ñ!µ7S–çŸ¡	mawôùw+§ó«_Ti7õ¹5}ú„vfª|úiùòQmj£²²<ÿƒvş˜¶úB›}ú£êü„6ÿ¸2ÿ°2»¨?]Ö¯.î©®Ü¨,œØ£[ÜX»«;DŸŒ?‹×ÊÓ«¸¶G›¼‡®Í/Õ[×ènùíiíÎ1}ù¢>s{öø¥öl²|émeOŸ¾§z ¯LêË‡öè‹§*·&«WOT¯,ï)?~¦œÜƒáê‹kúù§åëhgş‡ÊÑ3{´§³h_öTŞÍi3÷ô©WÚí{ô'§´ûË{

@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://shop.nordstrom.com/
+Date: Tue, 11 Feb 2020 03:16:22 GMT
+Connection: close
+Set-Cookie: bm_sz=4669AA02B755244AC922358ADE85DFE8~YAAQlfhmaDO5oCtwAQAAYm0/MgaF7FteP0xzRwiK0MLIzWYHNFdl9Y7spOVQIW/3CFdTdnLrzKiu9IRvUjZUIo+/H5puuVRAETdw3xl5KMlgWE0RFEuelg37AmVhJA4s/fjuu+GEZOGrsJthcOObrlO2tD7hbKlqEZlSO0MHxQ/O1gmK/6d+8uEeoyZG1YoX22uE; Domain=.nordstrom.com; Path=/; Expires=Tue, 11 Feb 2020 07:16:22 GMT; Max-Age=14400; HttpOnly
+Set-Cookie: _abck=3EED8C8382D39731C0D64CD78883849A~-1~YAAQlfhmaDS5oCtwAQAAYm0/MgOkM1KhXCRwBJvqKewpxwseT9m1kICAOVAbdu3zV4wL2BUHZ7Zh3tCeE98PJoK4ls+Ti975SNPyIXTfBH5z3CsMYneLjzkcuANjDvoR0lUjTV0APtJvrNjXr+6Ai4dhWv5gp83NOCFhhABP10BkQ/Tf56T/YZTXdMpXelpnFO0LcKd8BGYe+PgiJXti2bQxmxGkHNnBRBoxUjrynOAOfbFx8g1QR4ur1EybHMY6pHLCAjUTAdk9Kg9eSewVusv4ykr14DXl~-1~-1~-1; Domain=.nordstrom.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:22 GMT; Max-Age=31536000
+
+00
+

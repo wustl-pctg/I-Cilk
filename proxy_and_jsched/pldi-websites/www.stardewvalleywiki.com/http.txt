@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 04:14:22 GMT
+Content-Type: text/html; charset=iso-8859-1
+Connection: close
+Set-Cookie: __cfduid=d18ff330f4838c6b3fa3064abb59dab741581394462; expires=Thu, 12-Mar-20 04:14:22 GMT; path=/; domain=.stardewvalleywiki.com; HttpOnly; SameSite=Lax
+Location: https://www.stardewvalleywiki.com/
+Cache-Control: public
+Age: 0
+X-Cache: MISS
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 56337eddbfa6a60d-IND
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.stardewvalleywiki.com/">here</a>.</p>
+<hr>
+<address>Apache/2.4.10 (Debian) Server at www.stardewvalleywiki.com Port 80</address>
+</body></html>
+7JkB7Å˜,î|¸¯Šıw´Îç
+3cÛÁo½ÙÜnø‘ÑËòäWŸ÷*ëÂ¶{ŞÏí$âì_ß/«·Ïg°¬&ÈÔHãn±­Ë¾ïX¦K¹T§Ç á}]HúIªaz»`¢qZŒµ¨¬Q½&|tóÕQ4VFÖ–´’ñ|èõ|¥â4”}më;åBû©°[˜
+ûÙ™¿ÍÎüƒœZ€kK“­q5©ÆïÒ˜Ï]¶÷uã3ÿ8û9±+¿%İ…¡.ZºÄ­±¸PK8

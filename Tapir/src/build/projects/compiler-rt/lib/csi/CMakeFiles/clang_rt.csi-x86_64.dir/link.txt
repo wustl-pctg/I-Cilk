@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/clang/5.0.0/lib/linux/libclang_rt.csi-x86_64.a  CMakeFiles/clang_rt.csi-x86_64.dir/csirt.c.o
+/usr/bin/ranlib ../../../../lib/clang/5.0.0/lib/linux/libclang_rt.csi-x86_64.a

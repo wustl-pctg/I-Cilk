@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/cilk-plus-futures/Tapir/src/lib/Fuzzer/FuzzerDefs.h
+cassert
+-
+cstddef
+-
+cstdint
+-
+cstring
+-
+string
+-
+vector
+-
+
+/mnt/cilk-plus-futures/Tapir/src/lib/Fuzzer/FuzzerMain.cpp
+FuzzerDefs.h
+/mnt/cilk-plus-futures/Tapir/src/lib/Fuzzer/FuzzerDefs.h
+

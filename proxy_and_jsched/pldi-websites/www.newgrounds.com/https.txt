@@ -1,0 +1,14 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:22:31 GMT
+Server: Apache
+Access-Control-Allow-Origin: none
+Set-Cookie: ng_adcode_country_id=9999; expires=Wed, 12-Feb-2020 03:22:31 GMT; Max-Age=86400
+Location: https://www.newgrounds.com/
+Set-Cookie: ng_user0=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/
+Set-Cookie: ng_user0=a%3A1%3A%7Bs%3A7%3A%22default%22%3Ba%3A0%3A%7B%7D%7D; path=/; domain=.newgrounds.com
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: SERVERID_D=web-d05; path=/
+Cache-control: private
+

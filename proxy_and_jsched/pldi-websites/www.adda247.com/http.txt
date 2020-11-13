@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 11 Feb 2020 03:22:26 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: close
+Location: https://www.adda247.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 e257dc69f95c31210d80daf337acd889.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD50-C1
+X-Amz-Cf-Id: FgJbFMOWtH20MP_NNjLyh8vdUc0hczAr9vfEirPGMSamMMhsw-30KQ==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

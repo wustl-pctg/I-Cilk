@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 11 Feb 2020 04:05:57 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: close
+Location: https://www.latercera.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 2614aff6912f836d77ae243b9dbf5dd6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD52-C2
+X-Amz-Cf-Id: B7pYvakiXrQbeyIdSE_hPu3PChlRpZ8Q2f0MO2c3QFicMTH7XPo9ug==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>

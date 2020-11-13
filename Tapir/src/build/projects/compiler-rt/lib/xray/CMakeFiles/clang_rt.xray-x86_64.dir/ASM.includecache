@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/assembly.h
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/xray/xray_trampoline_x86_64.S
+../builtins/assembly.h
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/builtins/assembly.h
+

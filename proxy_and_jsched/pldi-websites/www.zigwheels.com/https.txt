@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:44:02 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 234
+Connection: close
+Server: Apache
+Location: https://www.zigwheels.com/
+Cache-Control: max-age=2592000
+Expires: Thu, 12 Mar 2020 03:44:02 GMT
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.zigwheels.com/">here</a>.</p>
+</body></html>
+he-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 5633525b6f72a619-IND
+
+(0 0 0 0) r(0 0) U5
+X-Cache: Miss from cloudfront
+Via: 1.1 e385fbaea7c648ad7e4ea77cdc0acd94.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD52-C2
+X-Amz-Cf-Id: xGDUjYSF9Hw1K-a-lf6oyjHXFtma9W_ErvP69RWxABghFtnuxUpTpQ==
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.cox.com/residential/home.html">here</a>.</p>
+</body></html>
+›®Nª7üeÀ¡Dı¥\p ˇ∆Û»wBT¥11‚%Üø

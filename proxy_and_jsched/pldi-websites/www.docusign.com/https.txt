@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:16:19 GMT
+Transfer-Encoding: chunked
+Connection: close
+Cache-Control: max-age=3600
+Expires: Tue, 11 Feb 2020 04:16:19 GMT
+Location: https://www.docusign.com/
+Server: cloudflare
+CF-RAY: 563329d2cf78a63d-IND
+
+0
+
+>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<h1>301 Moved Permanently</h1>
+<p>The requested resource has been assigned a new permanent URI.</p>
+<hr/>Powered by Tengine/Aserver</body>
+</html>
+TERNAL=0; expires=Tue, 11 Feb 2020 03:21:14 GMT; path=/; domain=.cbsnews.com
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+kZ7w+p7hPPQpgima7~-1~-1~-1; Domain=.usbank.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:10 GMT; Max-Age=31536000
+

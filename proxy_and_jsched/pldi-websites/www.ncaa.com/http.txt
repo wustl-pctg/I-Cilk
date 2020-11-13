@@ -1,0 +1,12 @@
+HTTP/1.0 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.ncaa.com/
+Date: Tue, 11 Feb 2020 04:12:25 GMT
+Connection: close
+Set-Cookie: countryCode=US; path=/
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Set-Cookie: akacd_ncaa_prod=1581394465~rv=85~id=bcba9ef402a85bf2fcc6048ef4ffb0dd; path=/; Expires=Tue, 11 Feb 2020 04:14:25 GMT; HttpOnly
+
+T*$¥'ççäÙ*•gd–¤*Ä“êS‹ìl2q™”±Ñ‡*ÙTåå¥gæU Ëéƒl3 .

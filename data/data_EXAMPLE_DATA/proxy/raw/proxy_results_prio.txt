@@ -1,0 +1,52 @@
+Using dedicated core IO mode!
+Offset: 40
+----------------------------------------------------
+Run: 0
+./proxy-prio --seed 90 --test --port 6005 --cons 90 --bgsec 10000000 --rnum 0 --quantlen 500 --cilkrho 2 --cilkutil .9 items,time(us)
+
+Highest prio level: 4
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Stat Timing (avg of 934), 387.944, 1366.33, 19.292, 426.694, 109.989, 31.985, 938.383, 959.782, 1004.73
+Stat Timing (avg of 934) [NORMALIZED], 0.130461, 4.63611, 0, 0.210225, 161.14, 0, 0.320445, 0.374063, 0.471355
+Avg Util: 0.176534
+Max Util: 7.27916
+Avg L(us): 1342.37
+Using dedicated core IO mode!
+Offset: 40
+----------------------------------------------------
+Run: 1
+./proxy-prio --seed 90 --test --port 6005 --cons 120 --bgsec 10000000 --rnum 1 --quantlen 500 --cilkrho 2 --cilkutil .9 items,time(us)
+
+Highest prio level: 4
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Stat Timing (avg of 918), 384.371, 1711.01, 19.338, 431.7, 112.313, 31.587, 939.634, 965.344, 1061.47
+Stat Timing (avg of 918) [NORMALIZED], 0.128959, 3.99506, 0, 0.194868, 151.108, 0, 0.328061, 0.383701, 0.460909
+Avg Util: 0.207515
+Max Util: 9
+Avg L(us): 1338.17
+Using dedicated core IO mode!
+Offset: 40
+----------------------------------------------------
+Run: 2
+./proxy-prio --seed 90 --test --port 6005 --cons 150 --bgsec 10000000 --rnum 2 --quantlen 500 --cilkrho 2 --cilkutil .9 items,time(us)
+
+Highest prio level: 4
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Stat Timing (avg of 928), 388.766, 1256.42, 19.206, 430.1, 110.632, 31.743, 948.267, 968.578, 1043.48
+Stat Timing (avg of 928) [NORMALIZED], 0.127561, 2.34563, 0, 0.163561, 128.221, 0, 0.317908, 0.380722, 0.460697
+Avg Util: 0.213318
+Max Util: 9
+Avg L(us): 1343.15
+Using dedicated core IO mode!
+Offset: 40
+----------------------------------------------------
+Run: 3
+./proxy-prio --seed 90 --test --port 6005 --cons 180 --bgsec 10000000 --rnum 3 --quantlen 500 --cilkrho 2 --cilkutil .9 items,time(us)
+
+Highest prio level: 4
+Event, Avg(us), Max(us), Min(us), Stdev(us), Stdev(%), 50%(us), 90%(us), 95%(us), 99%(us)
+Stat Timing (avg of 1032), 376.401, 15668.8, 19.286, 644.581, 171.248, 31.252, 976.309, 1020.15, 1059.18
+Stat Timing (avg of 1032) [NORMALIZED], 0.123261, 4.745, 0, 0.235023, 190.672, 0, 0.317272, 0.376593, 0.460408
+Avg Util: 0.183708
+Max Util: 9
+Avg L(us): 1332.09

@@ -1,0 +1,14 @@
+HTTP/1.0 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.foxbusiness.com/
+Date: Tue, 11 Feb 2020 03:22:26 GMT
+Connection: close
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+
+oudflare
+CF-RAY: 563332c70d36a619-IND
+
+0
+

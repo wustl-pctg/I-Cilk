@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Location: https://www.cbsnews.com/
+Expires: Tue, 11 Feb 2020 03:16:44 GMT
+Cache-Control: max-age=60
+Via: 1.1 varnish-v4
+Content-Length: 178
+Accept-Ranges: bytes
+Date: Tue, 11 Feb 2020 03:16:14 GMT
+Via: 1.1 varnish
+Age: 29
+Connection: close
+Set-Cookie: fly_device=desktop; expires=Tue, 11 Feb 2020 03:21:14 GMT; path=/; domain=.cbsnews.com
+Set-Cookie: fly_geo={"countryCode": "US","dma": "609", "connection": { "type": "broadband"}}; expires=Tue, 11 Feb 2020 03:21:14 GMT; path=/; domain=.cbsnews.com
+Set-Cookie: CBS_INTERNAL=0; expires=Tue, 11 Feb 2020 03:21:14 GMT; path=/; domain=.cbsnews.com
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+kZ7w+p7hPPQpgima7~-1~-1~-1; Domain=.usbank.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:10 GMT; Max-Age=31536000
+

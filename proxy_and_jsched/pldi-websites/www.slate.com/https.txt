@@ -1,0 +1,16 @@
+HTTP/1.1 302 https://slate.com/
+Server: Varnish
+Retry-After: 0
+Content-Length: 0
+Location: https://slate.com/
+Accept-Ranges: bytes
+Date: Tue, 11 Feb 2020 03:29:24 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-mdw17364-MDW
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1581391765.836672,VS0,VE0
+
+=0, must-revalidate, private
+

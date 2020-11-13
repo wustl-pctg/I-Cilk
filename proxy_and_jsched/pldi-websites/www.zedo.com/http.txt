@@ -1,0 +1,12 @@
+HTTP/1.0 302 Moved Temporarily
+Content-Encoding: gzip
+Content-Type: text/html; charset=iso-8859-1
+Location: https://www.zedo.com/
+Server: Apache
+Content-Length: 184
+Cache-Control: no-cache
+Expires: Tue, 11 Feb 2020 03:56:26 GMT
+Date: Tue, 11 Feb 2020 03:56:26 GMT
+Connection: close
+
+‹

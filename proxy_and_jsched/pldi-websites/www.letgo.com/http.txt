@@ -1,0 +1,446 @@
+HTTP/1.0 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.letgo.com/
+Expires: Tue, 11 Feb 2020 03:57:41 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 11 Feb 2020 03:57:41 GMT
+Connection: close
+Set-Cookie: letgo-debug=http2https
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Access-Control-Max-Age: 1000
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: x-requested-with, Content-Type, origin, authorization, accept, client-security-token, x-xsrf-token
+Access-Control-Allow-Methods: OPTIONS,PATCH,POST,GET,PUT
+AKAMAI_ORIGIN_IS_BOT: false
+Referrer-Policy: strict-origin
+X-XSS-Protection: 1; mode=block
+Set-Cookie: bm_sz=EAF71444B20C6DB2D3749613646E85B4~YAAQhEg/F1UUwiVwAQAAn0FlMga1xQl5i/65f1Ht7kut21zOt2p4nLZurbs5UYDx1GSHXmzihgp3BXe2MV+steLKIDGbLsfNBXZPOeqFspdBZpOQ6E8GKJtWNs2MG1HQMXocUAUL7TheEieNAJhHlfXzi6vfgTXnaTJHUVq1yb+KlqxvyjL601D8hMdvq9g=; Domain=.letgo.com; Path=/; Expires=Tue, 11 Feb 2020 07:57:41 GMT; Max-Age=14400; HttpOnly
+Set-Cookie: _abck=09F0DC63FE7AED195CBB2AB425FEE9E4~-1~YAAQhEg/F1YUwiVwAQAAn0FlMgN/5XytdCvdT9ELKBZx7As1KdZgeZLRRIpXqVQwFr9GvDfnrldTb/6x1WpF73Hm6WCYarxzDSAs8w46HEOjXT2Gy5W7EiGrwaV2eDIv6xoDYOiBY+NSVqls/MIUfsC4vE6zPNd7d4yn0ilHrHYZ3iKDNiThpyQAF7yDMqNQ/potcAW8+vjN1q3xaf7nMzZzI0EQH5J2vuBfZXx5hZn63jxasNFsmBBLk/RuUheWJs6DZgQplqWt2tozaOEbvmmHAcc=~-1~-1~-1; Domain=.letgo.com; Path=/; Expires=Wed, 10 Feb 2021 03:57:41 GMT; Max-Age=31536000
+
+, sans-serif'><B>Basic Upload</B></font></style></A> &nbsp; &nbsp;</td><td class='headerNavigation'> <A style='line-height:12px; font-size:11px; font-family:verdana,arial,sans-serif;' HREF='http://users.imagevenue.com/register.php'><FONT FACE='Geneva, Arial, sans-serif'>Register</font></style></A> &nbsp; &nbsp;</td><td class='headerNavigation'> <A style='line-height:12px; font-size:11px; font-family:verdana,arial,sans-serif;' HREF='http://users.imagevenue.com/login.php'><FONT FACE='Geneva, Arial, sans-serif'>LogIn</font></style></A> &nbsp; &nbsp;</td></TR>
+		</TABLE><TR><TD COLSPAN=10><TABLE><TR><TD ALIGN=CENTER><font color='blue' face='Verdana'>Free image hosting for auction sites, message boards and bloggers</TABLE>
+	</tr></table></center> 
+
+<script language=Javascript>
+<!--
+var copytoclip=1
+function HighlightAll(theField) {
+var tempval=eval("document."+theField)
+tempval.focus()
+tempval.select()
+ if (document.all&&copytoclip==1){
+  therange=tempval.createTextRange()
+  therange.execCommand("Copy")
+  window.status="Contents highlighted and copied to clipboard!"
+  setTimeout("window.status=''",2400);
+  }
+}
+
+var url = "http://www.imagevenue.com/";
+var title = "ImageVenue.com - Image Hosting";
+
+function highlight(field) {
+       field.focus();
+       field.select();
+}
+
+function favorites(){
+if(document.all)
+window.external.AddFavorite(url,title)
+}
+function assign_val (num1, num2)
+ {
+       return num1 * 5 + num2;
+}
+
+-->
+</script>
+
+
+
+ 
+
+
+
+<script type="text/javascript">
+function selectAll(x) {
+for(var i=0,l=x.form.length; i<l; i++)
+if(x.form[i].type == 'checkbox' && x.form[i].name != 'sAll')
+x.form[i].checked=x.form[i].checked?false:true
+}
+</script>
+
+
+<style>
+  .red
+    {
+       color: CC0033;
+	    }
+	     </style> 
+
+<SCRIPT LANGUAGE="JavaScript">
+function openWin2() {
+    win2 = window.open("te.html", "Window2", "width=300,height=500,scrollbars=yes");
+}
+function openWin3() {
+    win2 = window.open("interlink.html", "Window3", "width=300,height=500,scrollbars=yes");
+}
+function openWin4 () {
+    win2 = window.open("user_bw_stats.php", "Window4", "width=350,height=300,scrollbars=yes");
+}
+
+function change_text_dirval() {
+var Tester = document.forms.uploadmain
+document.getElementById('up_dir_text').innerHTML =Tester.dirdropmenu.value
+}
+
+function setCookie (name, value, time) {
+var expires = new Date();
+expires.setTime( expires.getTime() + time );
+document.cookie = name + '=' + value;
+}
+
+				
+function getCookie(c_name) {
+if (document.cookie.length>0)
+  {
+    c_start=document.cookie.indexOf(c_name + "=");
+      if (c_start!=-1)
+       {           
+       c_start=c_start + c_name.length+1; 
+	c_end=document.cookie.indexOf(";",c_start);
+	if (c_end==-1) c_end=document.cookie.length;
+	return unescape(document.cookie.substring(c_start,c_end));
+	} 
+     }
+     return "";
+   }
+
+function generateRandomNum ()
+{
+var randomnumber=Math.floor(Math.random()*100000);
+document.cookie = 'tsctr' + '=' + randomnumber;
+}
+
+function validateInterlinkCookie()
+{
+var Tester = document.forms.uploadmain
+setCookie('b_interlink', Tester.interlinkimage.value, (11*3600*1000))
+return true;
+}
+
+
+function setAdultCookie() {
+var Tester = document.forms.uploadmain
+setCookie('b_adult', Tester.imgcontent.value, (11*3600*1000))
+}
+
+function setHotlinkCookie() {
+var Tester = document.forms.uploadmain
+setCookie('b_hotlink', Tester.hotlinkimage.value, (11*3600*1000))
+}
+
+function setHotlinkCookieFalse() {
+//MultiPowUpload.setParameter("removeButtonVisible", "true");
+
+var Tester = document.forms.uploadmain
+setCookie('b_hotlink', 0, (11*3600*1000))
+
+}
+
+function validateImgMaxDim() {
+var Tester = document.forms.uploadmain
+setCookie('maximg_dim',  Tester.img_resize.value, (11*3600*1000))
+return true;
+}
+
+function setTrafficDriveCookie() {
+var Tester = document.forms.uploadmain
+setCookie('b_traffic_drive',Tester.traffic_drive_container.value,(11*3600*1000))
+}
+
+function validateTrafficDrive() {
+
+if( !document.getElementById("traffic_drive"))
+return true;
+
+var Tester = document.forms.uploadmain
+setCookie('b_traffic_drive',Tester.traffic_drive_container.value,(11*3600*1000))
+return true;
+}
+
+function setMaxImgDim(val) {
+
+if (eval(val) == 0 ) {
+setCookie('maximg_dim', val , (11*3600*1000))
+return;
+}
+var Tester = document.forms.uploadmain
+setCookie('maximg_dim',  Tester.img_resize.value, (11*3600*1000))
+}
+
+function setThumbCookie()
+{
+var Tester = document.forms.uploadmain
+setCookie('thumb_size',  Tester.thumb_size_contaner.value, (11*3600*1000))
+//alert('The new cookie val is ' +  Tester.thumb_size_contaner.value +  '.')
+}
+
+function privUser()
+{
+var flag = true
+var Tester = document.forms.uploadmain
+var user = document.getElementById("priv_user")
+if (user == null)
+{
+return false;
+}
+return true;
+}
+function b_User() {
+var flag = true
+var Tester = document.forms.uploadmain
+var user = document.getElementById("my_user")
+
+if (user == null)
+	return false;
+
+if ( Tester.user_id.value!=null && Tester.user_id.value!="")
+	return true;
+
+return false;
+}
+
+function validateDirUploadMenu() {
+
+if (! b_User())
+	return true;
+
+var flag = true
+var Tester = document.forms.uploadmain
+
+if (Tester.dirdropmenu.value=="contentnone") {
+alert('You need to specify DIRECTORY/FOLDER to which files will be uploaded');
+return false;
+}
+
+if (Tester.dirdropmenu.value!="contentnone") {
+Tester.upload_dir.value=Tester.dirdropmenu.value
+setCookie('cur_upload_dir', Tester.dirdropmenu.value, (11*3600*1000));	
+return true;
+}
+
+return false;
+}
+
+function validateUserDir()
+{
+
+if (!b_User())
+{
+return true;
+}
+dir=getCookie('cur_upload_dir');
+if (dir==null || dir=="")
+{
+alert('You need to specify DIRECTORY/FOLDER to which files will be uploaded');
+return false;
+}
+
+return true;
+}
+function validateUploaderCookie() {
+
+uploader=getCookie('tsctr');
+if (uploader==null || uploader=="") {
+alert('You need to allow cookies from www.imagevenue.com to use this upload method. Try reloading your browser....  Otherwise use Basic Upload.');
+return false;
+}
+return true;
+}
+
+
+function validateTester() {
+	var flag = true
+        var Tester = document.forms.uploadmain
+
+	if (Tester.imgcontent.value=="contentnone") {
+		alert("Please specify content type of your file/files!")
+                flag = false
+                return false
+	}
+
+        if (flag)
+		return true;
+
+}
+
+
+function validateHotlink() {
+var flag = true
+var Tester = document.forms.uploadmain
+if (!privUser())
+{
+return true;
+}
+return true;
+}
+
+
+function ModifyFleshObj() {
+var Flash;
+if(document.embeds && document.embeds.length>=1 && navigator.userAgent.indexOf("Safari") == -1)
+	Flash = document.getElementById("FlashFilesUpload");
+else
+	Flash = document.getElementById("FlashFilesUploadIE");
+
+Flash.setParameter("uploadButtonVisible","Yes");
+return;
+}
+
+
+function MultiPowUpload_onMovieLoad() {
+	MultiPowUpload.setParameter("uploadButton.visible", "false");
+}
+
+
+function MultiPowUpload_onStart() {
+	MultiPowUpload.addPostField("realTotalFilesCount",
+	MultiPowUpload.getFilesCount()); 
+} 
+
+
+function ValidateContent() {
+	if (!validateTrafficDrive() || !validateInterlinkCookie() ||  !validateImgMaxDim() || !validateTester() || !validateDirUploadMenu() || !validateUploaderCookie() || ! validateHotlink() )
+		return;
+	else
+		MultiPowUpload.uploadAll();
+}
+</script>
+
+<table cellpadding=0 cellspacing=0 width=828 bgcolor=#EAEAEA border=0 ALIGN=CENTER><TR><TD ALIGN=CENTER><BR>
+	<table cellpadding=10 cellspacing=0 ALIGN=CENTER width=750 bgcolor=#FFFFFF border=1><tr><td> 
+
+	<TABLE WIDTH=100%><TR><TD><OBJECT id="MultiPowUpload" name="MultiPowUpload" codeBase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0"
+width="420" height="250" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" VIEWASTEXT>
+<PARAM NAME="FlashVars" VALUE="uploadUrl=flashup_v3.php&redirectUploadUrl=uploadflash.php&formName=uploadmain&uploadButtonVisible=false&useExternalInterface=Yes&maxFileCount=100&maxFileSizeTotal=500000000&maxFileSize=5145728&sendFilesCount=yes&serialNumber=008133184181176189113281715517914726110188&fileFilter.types=Images|*.jpg\;*.jpeg">
+
+<PARAM NAME="BGColor" VALUE="#F8F6E6">
+<PARAM NAME="Movie" VALUE="ElementITMultiPowUpload.3.1.swf">
+<PARAM NAME="Src" VALUE="ElementITMultiPowUpload.3.1.swf">
+<PARAM NAME="WMode" VALUE="Window">
+<PARAM NAME="Play" VALUE="-1">
+<PARAM NAME="Loop" VALUE="-1">
+<PARAM NAME="Quality" VALUE="High">
+<PARAM NAME="SWLIVECONNECT" VALUE="true">
+<PARAM NAME="AllowScriptAccess" VALUE="always">
+<PARAM NAME="fileFilter.types" VALUE="Images|*.jpg\;*.jpeg">
+
+<embed bgcolor="#FFFFFF" id="MultiPowUpload" name="MultiPowUpload" src="ElementITMultiPowUpload.3.1.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" allowscriptaccess="always" width="400" height="250" 
+flashvars="uploadUrl=flashup_v3.php&redirectUploadUrl=uploadflash.php&formName=uploadmain&uploadButtonVisible=false&useExternalInterface=Yes&maxFileCount=100&maxFileSizeTotal=500000000&maxFileSize=5145728&sendFilesCount=yes&useExternalInterface=yes&serialNumber=008133184181176189113281715517914726110188&fileFilter.types=Images|*.jpg\;*.jpeg">
+</embed>
+</OBJECT>
+	<form id=uploadmain name=uploadmain action=hostflash.php method=post>
+	<TD VALIGN=TOP><TABLE ALIGN=RIGHT><TR ALIGN=RIGHT>
+		<TD><B>Image type</B> <SPAN STYLE="COLOR:RED;">*</SPAN> &nbsp;&nbsp;
+			<SELECT NAME="imgcontent" size=1 onChange="setAdultCookie()">
+				<OPTION value=contentnone>Choose</OPTION>
+				<OPTION value=notsafe class="red">ADULT content</OPTION>
+				<OPTION value=safe>FAMILY safe</OPTION>
+			</SELECT>
+			<IMG SRC=/icons/FAQ-icon-16.png BORFER=0 STYLE="CURSOR:POINTER" TITLE=
+"In our effort to comply with server hosting requirements,
+we implemented a new scheme for storing images containing nudity.
+
+From now on, images that contain nudity need to be marked clearly
+by selecting 'ADULT content'.
+
+Images that contain nudity but have not been marked so, will be deleted.
+
+The new policy has no effect on images previously uploaded to ImageVenue servers.
+That means that all images previously stored will not be deleted.
+
+Please, help us provide quality hosting by complying with this new policy."></IMG>
+	</TD></TR>
+	<TR><TD ALIGN=RIGHT>Thumbnail size &nbsp;&nbsp;
+	<SELECT NAME='thumb_size_contaner' size=1 onChange='setThumbCookie()'>
+		<OPTION value=100 >100x100 (small)</OPTION>
+		<OPTION value=180 SELECTED>180x180 (standard)</OPTION>
+		<OPTION value=250 >250x250 (large)</OPTION>
+		<OPTION value=300 >300x300 (super-sized)</OPTION>
+	</SELECT>
+	<IMG SRC=/icons/empty.png WIDTH=16></IMG>
+	</TD></TR>	<TR><TD ALIGN=RIGHT>Link images &nbsp;&nbsp;
+		<SELECT NAME="interlinkimage">
+			<OPTION value=1 SELECTED>Yes</OPTION>
+			<OPTION value=0 class="green">No</OPTION>
+		</SELECT>
+		<IMG SRC=/icons/FAQ-icon-16.png STYLE="CURSOR:POINTER" TITLE=
+"Connect images to each other
+with << Prev + Next >> links
+at the bottom of each image"></IMG>
+	</TD></TR>
+	<TR><TD ALIGN=RIGHT>Resize image(s) &nbsp;&nbsp;
+		<INPUT TYPE="text" NAME="img_resize" SIZE="4" MAXLENGTH="4">
+		<IMG SRC=/icons/FAQ-icon-16.png STYLE="CURSOR:POINTER" TITLE=
+"Enter the largest dimension for the new image
+For example: if you have a 2255x3500 image,
+For better viewing you want to resize it to 451x700
+To achieve this, you would enter 700 in the field
+Good news: Image quality and aspect ratio
+are preserved upon resizing!"></IMG>
+	</TD></TR>	</TABLE>
+	<TR><TD COLSPAN=2 ALIGN=RIGHT><input type='image' SRC=/images/main_upload_200.png value='UPLOAD' onclick='ValidateContent(); return false;'>
+	</TD></TR>
+	<TR><TD><font color=black face=Verdana size=-1>
+<ul>
+<li>Image types allowed: jpeg, jpg</li>
+<li>Max file size: 10MB</li>
+<li>Unlimited storage hosting period</li>
+<li>Unlimited bandwidth</li>
+<li>No registration required</li>
+</ul>
+</font></TD>
+		<TD>	<BR><font color=gray face=Verdana size=-2>Create a gallery from your images:</font>
+		<A style='line-height:11px; font-size:15px; font-family:verdana,arial,sans-serif;' HREF=http://users.imagevenue.com/login.php><FONT FACE='Geneva, Arial, sans-serif'>LOGIN</font></style></A>
+		<font color=gray face=Verdana size=-2> to begin</font><BR><BR>	<font size=-1>Can't Upload? Download latest
+	<A style='line-height:11px; font-size:12px;font-family:verdana,arial,sans-serif;' HREF='http://get.adobe.com/flashplayer'><FONT FACE='Geneva, Arial, sans-serif'>FlashPlayer</font></style></A> or use <A style='line-height:11px; font-size:12px;font-family:verdana,arial,sans-serif;' HREF='/host.php'><FONT FACE='Geneva, Arial, sans-serif'> Basic </font> </style></A>
+<!--	</TD></TR>
+	<TR><TD COLSPAN=2 ALIGN=RIGHT><FONT SIZE=-2>Today : &lt;busy&gt; || Total : &lt;busy&gt;</FONT>
+-->	</TD></TR></table></TD></TR></table>
+	<INPUT TYPE=HIDDEN NAME=MAX_FILE_SIZE VALUE=10485760>
+	<INPUT TYPE=HIDDEN NAME=action VALUE=1>
+	</form>
+<BR></TD></TR></TABLE>	<BR><TABLE ALIGN=CENTER><td class='headerNavigation'> <A style='line-height:12px; font-size:11px; font-family:verdana,arial,sans-serif;' HREF='/hostflash.php'><FONT FACE='Geneva, Arial, sans-serif'>Home</font></style></A> &nbsp; &nbsp;</td><td class='headerNavigation'> <A style='line-height:12px; font-size:11px; font-family:verdana,arial,sans-serif;' HREF='hostflash.php'><FONT FACE='Geneva, Arial, sans-serif'><B>Flash Upload</B></font></style></A> &nbsp; &nbsp;</td><td class='headerNavigation'> <A style='line-height:12px; font-size:11px; font-family:verdana,arial,sans-serif;' HREF='host.php'><FONT FACE='Geneva, Arial, sans-serif'><B>Basic Upload</B></font></style></A> &nbsp; &nbsp;</td><td class='headerNavigation'> <A style='line-height:12px; font-size:11px; font-family:verdana,arial,sans-serif;' HREF='http://main72.imagevenue.com/busy-poster.php'><FONT FACE='Geneva, Arial, sans-serif'><b>Busy Poster Tool</b></font></style></A> &nbsp; &nbsp;</td><td class='headerNavigation'> <A style='line-height:12px; font-size:11px; font-family:verdana,arial,sans-serif;' HREF='faq.php'><FONT FACE='Geneva, Arial, sans-serif'>FAQ</font></style></A> &nbsp; &nbsp;</td><td class='headerNavigation'> <A style='line-height:12px; font-size:11px; font-family:verdana,arial,sans-serif;' HREF='http://www.free-webhosts.com'><FONT FACE='Geneva, Arial, sans-serif'>Free Web Hosting</font></style></A> &nbsp; &nbsp;</td><td class='headerNavigation'> <A style='line-height:12px; font-size:11px; font-family:verdana,arial,sans-serif;' HREF='tos.php'><FONT FACE='Geneva, Arial, sans-serif'>Terms of Use</font></style></A> &nbsp; &nbsp;</td><td class='headerNavigation'> <A style='line-height:12px; font-size:11px; font-family:verdana,arial,sans-serif;' HREF='linkus.php'><FONT FACE='Geneva, Arial, sans-serif'>Link to Us</font></style></A> &nbsp; &nbsp;</td></TABLE>
+	<BR><center><font size=-1>Copyright @ 2018
+		<ABBR TITLE='Server IP : 174.142.46.216
+Total : 
+Today : 
+Yesterday : 
+'>ImageVenue</abbr>.
+		All images belong to their respective uploaders</font></CENTER><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-117336-1";
+urchinTracker();
+</script>
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-78-9ZoeNPEQ9I"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-78-9ZoeNPEQ9I.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+</BODY>
+</HTML>

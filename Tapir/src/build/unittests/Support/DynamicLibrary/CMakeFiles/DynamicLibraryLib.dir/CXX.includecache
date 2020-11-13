@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/cilk-plus-futures/Tapir/src/unittests/Support/DynamicLibrary/ExportedFuncs.cxx
+PipSqueak.h
+/mnt/cilk-plus-futures/Tapir/src/unittests/Support/DynamicLibrary/PipSqueak.h
+
+/mnt/cilk-plus-futures/Tapir/src/unittests/Support/DynamicLibrary/PipSqueak.h
+string
+-
+vector
+-
+string
+-
+vector
+-
+

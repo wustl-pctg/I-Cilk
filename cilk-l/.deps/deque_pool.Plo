@@ -1,0 +1,268 @@
+deque_pool.lo: runtime/deque_pool.c /usr/include/string.h \
+  /usr/include/features.h /usr/include/stdc-predef.h \
+  /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+  /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+  /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stddef.h \
+  /usr/include/xlocale.h /usr/include/x86_64-linux-gnu/bits/string.h \
+  /usr/include/x86_64-linux-gnu/bits/string2.h /usr/include/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/endian.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
+  /usr/include/x86_64-linux-gnu/bits/types.h \
+  /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+  /usr/include/x86_64-linux-gnu/bits/byteswap-16.h /usr/include/stdlib.h \
+  runtime/deque_pool.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+  /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+  /usr/include/x86_64-linux-gnu/sys/types.h /usr/include/time.h \
+  /usr/include/x86_64-linux-gnu/sys/select.h \
+  /usr/include/x86_64-linux-gnu/bits/select.h \
+  /usr/include/x86_64-linux-gnu/bits/sigset.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/sys/sysmacros.h \
+  /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+  /usr/include/alloca.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
+  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h runtime/deque.h \
+  runtime/rts-common.h runtime/cilk_fiber.h include/cilk/common.h \
+  /usr/include/assert.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdint.h \
+  /usr/include/stdint.h /usr/include/x86_64-linux-gnu/bits/wchar.h \
+  runtime/bug.h runtime/cilk-tbb-interop.h runtime/spin_mutex.h \
+  runtime/cilk_malloc.h include/internal/abi.h runtime/pedigrees.h \
+  runtime/global_state.h runtime/frame_malloc.h runtime/worker_mutex.h \
+  runtime/stats.h /usr/include/stdio.h /usr/include/libio.h \
+  /usr/include/_G_config.h /usr/include/wchar.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdarg.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+  /usr/include/x86_64-linux-gnu/bits/sys_errlist.h \
+  /usr/include/x86_64-linux-gnu/bits/stdio.h runtime/cilk_fiber_pool.h \
+  runtime/full_frame.h runtime/os.h runtime/cilk_str_mem.h \
+  runtime/sslib/safe_lib.h runtime/sslib/safe_types.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/inttypes.h \
+  /usr/include/inttypes.h /usr/include/errno.h \
+  /usr/include/x86_64-linux-gnu/bits/errno.h /usr/include/linux/errno.h \
+  /usr/include/x86_64-linux-gnu/asm/errno.h \
+  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
+  /mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdbool.h \
+  runtime/sslib/safe_lib_errno.h runtime/sslib/safe_str_lib.h \
+  runtime/sslib/snprintf_s.h runtime/config/x86/os-fence.h \
+  runtime/local_state.h runtime/record-replay.h runtime/signal_node.h \
+  /usr/include/setjmp.h /usr/include/x86_64-linux-gnu/bits/setjmp.h \
+  runtime/cilk-io-queue.h include/cilk/cilk_io.h \
+  /usr/include/x86_64-linux-gnu/sys/socket.h \
+  /usr/include/x86_64-linux-gnu/sys/uio.h \
+  /usr/include/x86_64-linux-gnu/bits/uio.h \
+  /usr/include/x86_64-linux-gnu/bits/socket.h \
+  /usr/include/x86_64-linux-gnu/bits/socket_type.h \
+  /usr/include/x86_64-linux-gnu/bits/sockaddr.h \
+  /usr/include/x86_64-linux-gnu/asm/socket.h \
+  /usr/include/asm-generic/socket.h \
+  /usr/include/x86_64-linux-gnu/asm/sockios.h \
+  /usr/include/asm-generic/sockios.h runtime/cilk-io-op.h \
+  /usr/include/pthread.h /usr/include/sched.h \
+  /usr/include/x86_64-linux-gnu/bits/sched.h \
+  /usr/include/x86_64-linux-gnu/bits/timex.h runtime/scheduler.h \
+  runtime/reducer_impl.h
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/stdc-predef.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stddef.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/x86_64-linux-gnu/bits/string.h:
+
+/usr/include/x86_64-linux-gnu/bits/string2.h:
+
+/usr/include/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
+
+/usr/include/stdlib.h:
+
+runtime/deque_pool.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
+/usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/select.h:
+
+/usr/include/x86_64-linux-gnu/bits/sigset.h:
+
+/usr/include/x86_64-linux-gnu/bits/time.h:
+
+/usr/include/x86_64-linux-gnu/sys/sysmacros.h:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+runtime/deque.h:
+
+runtime/rts-common.h:
+
+runtime/cilk_fiber.h:
+
+include/cilk/common.h:
+
+/usr/include/assert.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+runtime/bug.h:
+
+runtime/cilk-tbb-interop.h:
+
+runtime/spin_mutex.h:
+
+runtime/cilk_malloc.h:
+
+include/internal/abi.h:
+
+runtime/pedigrees.h:
+
+runtime/global_state.h:
+
+runtime/frame_malloc.h:
+
+runtime/worker_mutex.h:
+
+runtime/stats.h:
+
+/usr/include/stdio.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdarg.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdio.h:
+
+runtime/cilk_fiber_pool.h:
+
+runtime/full_frame.h:
+
+runtime/os.h:
+
+runtime/cilk_str_mem.h:
+
+runtime/sslib/safe_lib.h:
+
+runtime/sslib/safe_types.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/inttypes.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/errno.h:
+
+/usr/include/x86_64-linux-gnu/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/x86_64-linux-gnu/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:
+
+/mnt/cilk-plus-futures/Tapir/src/build/lib/clang/5.0.0/include/stdbool.h:
+
+runtime/sslib/safe_lib_errno.h:
+
+runtime/sslib/safe_str_lib.h:
+
+runtime/sslib/snprintf_s.h:
+
+runtime/config/x86/os-fence.h:
+
+runtime/local_state.h:
+
+runtime/record-replay.h:
+
+runtime/signal_node.h:
+
+/usr/include/setjmp.h:
+
+/usr/include/x86_64-linux-gnu/bits/setjmp.h:
+
+runtime/cilk-io-queue.h:
+
+include/cilk/cilk_io.h:
+
+/usr/include/x86_64-linux-gnu/sys/socket.h:
+
+/usr/include/x86_64-linux-gnu/sys/uio.h:
+
+/usr/include/x86_64-linux-gnu/bits/uio.h:
+
+/usr/include/x86_64-linux-gnu/bits/socket.h:
+
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:
+
+/usr/include/x86_64-linux-gnu/bits/sockaddr.h:
+
+/usr/include/x86_64-linux-gnu/asm/socket.h:
+
+/usr/include/asm-generic/socket.h:
+
+/usr/include/x86_64-linux-gnu/asm/sockios.h:
+
+/usr/include/asm-generic/sockios.h:
+
+runtime/cilk-io-op.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sched.h:
+
+/usr/include/x86_64-linux-gnu/bits/sched.h:
+
+/usr/include/x86_64-linux-gnu/bits/timex.h:
+
+runtime/scheduler.h:
+
+runtime/reducer_impl.h:

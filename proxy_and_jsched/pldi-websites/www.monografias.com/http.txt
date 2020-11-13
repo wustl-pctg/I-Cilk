@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 11 Feb 2020 03:16:23 GMT
+Content-Type: text/html
+Content-Length: 183
+Connection: close
+Location: https://www.monografias.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 d86a278943c32398c969905c38681025.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD50-C1
+X-Amz-Cf-Id: 9N7Xasc4JoPXpP8ORH8NrI9IwKxak1demFLOQpZORvxtMshwb_IHuQ==
+
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>
+wAQAAYm0/MgOkM1KhXCRwBJvqKewpxwseT9m1kICAOVAbdu3zV4wL2BUHZ7Zh3tCeE98PJoK4ls+Ti975SNPyIXTfBH5z3CsMYneLjzkcuANjDvoR0lUjTV0APtJvrNjXr+6Ai4dhWv5gp83NOCFhhABP10BkQ/Tf56T/YZTXdMpXelpnFO0LcKd8BGYe+PgiJXti2bQxmxGkHNnBRBoxUjrynOAOfbFx8g1QR4ur1EybHMY6pHLCAjUTAdk9Kg9eSewVusv4ykr14DXl~-1~-1~-1; Domain=.nordstrom.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:22 GMT; Max-Age=31536000
+
+00
+

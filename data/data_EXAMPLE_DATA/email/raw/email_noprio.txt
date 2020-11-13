@@ -1,0 +1,44 @@
+Clients 90, Messages 270000, CompPeriod 250000, CompChunk 10
+Using dedicated core IO mode!
+Offset: 40
+9005
+Max messages in mailbox: 1273
+Avg messages in mailbox: 1201.577778
+comp (raw), 9809.2, 1.64123e+07, 4723.49, 112306, 1144.9, 5298, 6075.32, 11807.5, 92456.2
+comp (us/byte), 0.119741, 200.345, 0.0576598, 1.37092, 1144.9, 0.0646728, 0.0741617, 0.144134, 1.12862
+Total Execution Time: 83.683527
+Missed compression periods: 147
+Total compression periods hit: 30241
+Clients 120, Messages 270000, CompPeriod 250000, CompChunk 10
+Using dedicated core IO mode!
+Offset: 40
+9006
+Max messages in mailbox: 988
+Avg messages in mailbox: 899.533333
+comp (raw), 9389.09, 1.47117e+07, 4745.18, 72131.9, 768.252, 5314.44, 6120.57, 11824, 99251.8
+comp (us/byte), 0.114613, 179.586, 0.0579245, 0.880516, 768.252, 0.0648736, 0.074714, 0.144336, 1.21157
+Total Execution Time: 79.567587
+Missed compression periods: 97
+Total compression periods hit: 38407
+Clients 150, Messages 270000, CompPeriod 250000, CompChunk 10
+Using dedicated core IO mode!
+Offset: 40
+9007
+Max messages in mailbox: 799
+Avg messages in mailbox: 719.586667
+comp (raw), 10612.2, 4.88918e+07, 4743.69, 222182, 2093.65, 5318.59, 6051.09, 11262.4, 101555
+comp (us/byte), 0.129543, 596.823, 0.0579063, 2.71219, 2093.65, 0.0649242, 0.0738658, 0.137481, 1.23968
+Total Execution Time: 75.009047
+Missed compression periods: 305
+Total compression periods hit: 45063
+Clients 180, Messages 270000, CompPeriod 250000, CompChunk 10
+Using dedicated core IO mode!
+Offset: 40
+9008
+Max messages in mailbox: 689
+Avg messages in mailbox: 599.850000
+comp (raw), 10723.7, 4.64319e+07, 4736.84, 282671, 2635.95, 5297.89, 6018.69, 10336.1, 90805.4
+comp (us/byte), 0.130905, 566.796, 0.0578227, 3.45058, 2635.95, 0.0646714, 0.0734704, 0.126173, 1.10846
+Total Execution Time: 70.204100
+Missed compression periods: 395
+Total compression periods hit: 51821

@@ -1,0 +1,17 @@
+HTTP/1.0 302 Found
+Cache-Control: max-age=0, no-cache, no-store
+Date: Tue, 11 Feb 2020 03:56:09 GMT
+ec-rule-version: v7.5
+Expires: Tue, 11 Feb 2020 04:00:09 GMT
+Location: http://www.straitstimes.com/global
+Pragma: no-cache
+Server: ECD (ord/4CC4)
+Content-Length: 0
+Connection: close
+
+atus: BYPASS
+Set-Cookie: __cfruid=c1c016ea7751592bb45cdc84e14f67f563e27215-1581393369; path=/; domain=.oanda.com; HttpOnly
+Set-Cookie: __cf_bm=ab711b4eaadc32c2a07812f0856f37a582bfc136-1581393369-1800-ARvkCV9R5gCOLPxInuqr9O8JWwJ6GtGWwKN6Iozkb7lST5Z+hQEjXl5SrSC/Tn/3jT+Ko6IUmECIF3kPx4QC6bk=; path=/; expires=Tue, 11-Feb-20 04:26:09 GMT; domain=.oanda.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 5633642d5ae6a63d-IND
+

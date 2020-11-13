@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.digitaltrends.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 11 Feb 2020 03:03:57 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-stl4849-STL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1581390238.937545,VS0,VE0
+
+png.com/
+Cache-Control: max-age=259200
+CF-Cache-Status: HIT
+Age: 6154
+Server: cloudflare
+CF-RAY: 563317a57b41a619-IND
+
+b2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+
+Àg¬%lH.ó™”kì“£v%Ÿ…¬/®C¤uGü+€…÷?1üy(8}qrIñkß§-'BDàfÒPÚi¥Åª`Ø]8²¶±–õ#3

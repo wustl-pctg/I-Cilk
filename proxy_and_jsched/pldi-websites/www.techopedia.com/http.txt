@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 04:02:20 GMT
+Connection: close
+Cache-Control: max-age=3600
+Expires: Tue, 11 Feb 2020 05:02:20 GMT
+Location: https://www.techopedia.com/
+Server: cloudflare
+CF-RAY: 56336d411c5ba619-IND
+
+ontrol: max-age=60, s-maxage=90
+Content-Encoding: gzip
+X-Ser: BC51_dx-lt-yd-shandong-jinan-5-cache-6, BC131_lt-jiangsu-zhenjiang-1-cache-2
+
+3c2c
+‹

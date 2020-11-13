@@ -1,0 +1,20 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Server: nginx
+Location: https://www.vox.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 11 Feb 2020 03:16:14 GMT
+Via: 1.1 varnish
+Age: 0
+Connection: close
+Set-Cookie: _chorus_geoip_continent=NA; expires=Wed, 12 Feb 2020 03:16:14 GMT; path=/;
+X-Served-By: cache-stl4843-STL
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1581390974.461799,VS0,VE1
+Vary: X-Forwarded-Proto, Cookie, X-Chorus-Unison-Testing, X-Chorus-Require-Privacy-Consent, X-Chorus-Restrict-In-Privacy-Consent-Region
+
+
+94315B15CD436CDCB1~-1~YAAQDwnorL46RyBwAQAA2T8/MgMEZJQ4scXGdnvEiiVgZvaC2aFnm+N88oYm2uMub9d2JQ47bSa7if4tL9vkYwTc8g3Hu+EaBJ6mOEBygKhI6org93FBUkSECkNk56UqouW0EELmgH7cq2p373NLNMLV4E1vUWWJVIoI0FASnkY7iVEI55FI8IXedPvd7AWPA61UQYsgq/87/7K1CHZvsUjsdMS5sj4CZroheTp+dJHgXtJCYrf7u/fRaMgNs4Ymg/TXID2dowZkZ7w+p7hPPQpgima7~-1~-1~-1; Domain=.usbank.com; Path=/; Expires=Wed, 10 Feb 2021 03:16:10 GMT; Max-Age=31536000
+

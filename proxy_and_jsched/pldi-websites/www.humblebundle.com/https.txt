@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=utf-8
+Cache-Control: no-cache
+Location: https://www.humblebundle.com/
+X-Cloud-Trace-Context: 0007a5eb4dc394f06d4fde0e88bb3258
+Date: Tue, 11 Feb 2020 03:03:55 GMT
+Server: Google Frontend
+Content-Length: 0
+Connection: close
+
+Location: https://www.cleanpng.com/
+Cache-Control: max-age=259200
+CF-Cache-Status: HIT
+Age: 6154
+Server: cloudflare
+CF-RAY: 563317a57b41a619-IND
+
+b2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+
+Àg¬%lH.ó™”kì“£v%Ÿ…¬/®C¤uGü+€…÷?1üy(8}qrIñkß§-'BDàfÒPÚi¥Åª`Ø]8²¶±–õ#3

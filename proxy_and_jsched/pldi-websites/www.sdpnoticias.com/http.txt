@@ -1,0 +1,15 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:16:10 GMT
+Connection: close
+Cache-Control: max-age=3600
+Expires: Tue, 11 Feb 2020 04:16:10 GMT
+Location: https://www.sdpnoticias.com/
+Server: cloudflare
+CF-RAY: 5633299b4dd7a62b-IND
+
+title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>

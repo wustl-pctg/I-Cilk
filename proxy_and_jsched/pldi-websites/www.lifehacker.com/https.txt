@@ -1,0 +1,35 @@
+HTTP/1.1 301 Moved Permanently
+Server: Varnish
+Retry-After: 0
+Location: https://www.lifehacker.com/
+Content-Length: 0
+Accept-Ranges: bytes
+Date: Tue, 11 Feb 2020 03:04:00 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-stl4820-STL
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1581390241.909624,VS0,VE0
+Set-Cookie: geocc=US;path=/;
+
+ity: max-age=63072000; includeSubDomains; preload
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 563317c699c1a637-IND
+
+b2
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+0
+
+à_hxôﬁü¢‡O≤v

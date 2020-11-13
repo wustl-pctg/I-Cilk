@@ -1,0 +1,132 @@
+General Note: When running benchmarks, we restrict the number of cores in order
+              to control the number of threads as well as force the cores to be
+              assigned linearly such that we stay on the least number of NUMA
+              nodes. However, it is possible to change the number of threads
+              for any of our benchmarks by running
+              `CILK_NWORKERS=<nthreads> <benchmark> <arguments>`
+
+
+[Proxy]
+
+	proxy-prio.c	- priority version of the proxy
+	proxy-noprio.c	- vanilla cilk version of the proxy
+
+	These benchmarks are located in ./proxy_and_jsched/
+	
+	Proxy Priority
+
+	./proxy-prio: [-v <int>] [--test] [--real] [--port <string>]
+	[--cons <int>] [--rnum <int>] [--bgsec <int>] [--seed <int>]
+	[--quantlen <int>] [--cilkrho <double>] [--cilkutil <double>]
+	[--cilkinit <double>] [--cilkWrks <int>] [--cilkres <int>]
+
+        [-v <int>]		- Turn on verbosity			(default: 0)
+        [--test]		- Send back hit/miss/error only		(default: false)
+        [--real]		- Send back all data			(default: false)
+	[--port <string>]	- Port to listen on			(default: "6005")
+        [--cons <int>]		- Number of clients			(default: 0)
+        [--rnum <int>]		- Run num (for data collect)		(default: 0)
+        [--bgsec <int>]		- Interval for stats collection task    (default: 0)
+        [--seed <int>]		- Random number seed			(default: 0)
+	[--quantlen <int>]	- Set cilk quantum length in us		(default: 1000)
+	[--cilkrho <double>]	- Set cilk rho value			(default: 2.000000)
+	[--cilkutil <double>]	- Set cilk util bound			(default: 0.900000)
+	[--cilkinit <double>]	- Set cilk initial desire		(default: 1.000000)
+	[--cilkWrks <int>]	- Set cilk round robin worker count     (default: 0)
+	[--cilkres <int>]	- Set cilk reserverd work per level     (default: 0)
+
+
+	Proxy Nopriority
+
+	./proxy-prio: [-v <int>] [--test] [--real] [--port <string>]
+	[--cons <int>] [--rnum <int>] [--bgsec <int>] [--seed <int>]
+	[--quantlen <int>] [--cilkrho <double>] [--cilkutil <double>]
+	[--cilkinit <double>] [--cilkWrks <int>] [--cilkres <int>]
+
+        [-v <int>]		- Turn on verbosity			(default: 0)
+        [--test]		- Send back hit/miss/error only		(default: false)
+        [--real]		- Send back all data			(default: false)
+	[--port <string>]	- Port to listen on			(default: "6005")
+        [--cons <int>]		- Number of clients			(default: 0)
+        [--rnum <int>]		- Run num (for data collect)		(default: 0)
+        [--bgsec <int>]		- Interval for stats collection task    (default: 0)
+        [--seed <int>]		- Random number seed			(default: 0)
+	[--quantlen <int>]	- Set cilk quantum length in us		(default: 1000)
+	[--cilkrho <double>]	- Set cilk rho value			(default: 2.000000)
+	[--cilkutil <double>]	- Set cilk util bound			(default: 0.900000)
+	[--cilkinit <double>]	- Set cilk initial desire		(default: 1.000000)
+	[--cilkWrks <int>]	- Set cilk round robin worker count     (default: 0)
+	[--cilkres <int>]	- Set cilk reserverd work per level     (default: 0)
+
+	Note: For the non-priority version the cilk runtime parameters
+	have no effect.
+
+	For premade scripts with all the arguments already set as
+	described in the paper run:
+
+	$> ./run_proxy.sh
+
+	To run both the job scheduler and proxy at once run:
+
+	$> ./run.sh
+
+[Job Scheduler]
+
+	jsched-prio.c	- priority version of the proxy
+	jsched-noprio.c	- vanilla cilk version of the proxy
+
+	These benchmarks are located in ./proxy_and_jsched/
+	
+	Job Scheduler Priority:
+	
+	./jsched-prio: [-v <int>] [-f0 <double>] [-f1 <double>] [-f2
+	<double>] [-f3 <double>] [--seed <int>] [--duration <int>]
+	[--quantlen <int>] [--cilkrho <double>] [--cilkutil <double>]
+	[--cilkinit <double>] [--cilkWrks <int>] [--cilkres <int>]
+
+	[-v <int>]		- Turn on verbosity (0-2)		(default: 0)
+        [-f0 <double>]		- Calls to Smith-Waternman per seconds	(default: 0.000000)
+        [-f1 <double>]		- Calls to Fib per second		(default: 0.000000)
+        [-f2 <double>]		- Calls to Matrix-Multiply per second	(default: 0.000000)
+        [-f3 <double>]		- Calls to Sort per second		(default: 0.000000)
+        [--seed <int>]		- Random number seed			(default: 0)
+	[--duration <int>]	- Time in seconds to run		(default: 0)
+	[--quantlen <int>]	- Set cilk quantum length in us		(default: 1000)
+	[--cilkrho <double>]	- Set cilk rho value			(default: 2.000000)
+	[--cilkutil <double>]	- Set cilk util bound			(default: 0.900000)
+	[--cilkinit <double>]	- Set cilk initial desire		(default: 1.000000)
+	[--cilkWrks <int>]	- Set cilk round robin worker count	(default: 0)
+	[--cilkres <int>]	- Set cilk reserverd work per level	(default: 0)
+
+
+	Job Scheduler Nopriority
+	./jsched-noprio: [-v <int>] [-f0 <double>] [-f1 <double>] [-f2
+	<double>] [-f3 <double>] [--seed <int>] [--duration <int>]
+	[--quantlen <int>] [--cilkrho <double>] [--cilkutil <double>]
+	[--cilkinit <double>] [--cilkWrks <int>] [--cilkres <int>]
+
+	[-v <int>]		- Turn on verbosity (0-2)		(default: 0)
+        [-f0 <double>]		- Calls to Smith-Waternman per seconds	(default: 0.000000)
+        [-f1 <double>]		- Calls to Fib per second		(default: 0.000000)
+        [-f2 <double>]		- Calls to Matrix-Multiply per second	(default: 0.000000)
+        [-f3 <double>]		- Calls to Sort per second		(default: 0.000000)
+        [--seed <int>]		- Random number seed			(default: 0)
+	[--duration <int>]	- Time in seconds to run		(default: 0)
+	[--quantlen <int>]	- Set cilk quantum length in us		(default: 1000)
+	[--cilkrho <double>]	- Set cilk rho value			(default: 2.000000)
+	[--cilkutil <double>]	- Set cilk util bound			(default: 0.900000)
+	[--cilkinit <double>]	- Set cilk initial desire		(default: 1.000000)
+	[--cilkWrks <int>]	- Set cilk round robin worker count	(default: 0)
+	[--cilkres <int>]	- Set cilk reserverd work per level	(default: 0)
+
+	Note: For the non-priority version the cilk runtime parameters
+	have no effect.
+
+	For premade scripts with all the arguments already set as
+	described in the paper run:
+
+	$> ./run_jsched.sh
+	
+	To run both the job scheduler and proxy at once run:
+
+	$> ./run.sh

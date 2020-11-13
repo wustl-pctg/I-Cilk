@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 11 Feb 2020 03:03:58 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: close
+Set-Cookie: __cfduid=d651c7e0558e085c1a77bbd4a90b25b0a1581390238; expires=Thu, 12-Mar-20 03:03:58 GMT; path=/; domain=.testbook.com; HttpOnly; SameSite=Lax
+Location: http://testbook.com/
+X-Frame-Options: SAMEORIGIN
+Via: 1.1 google
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 563317bf897ba63d-IND
+
+bb
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx/1.10.3 (Ubuntu)</center>
+</body>
+</html>
+
+0
+
+.ó™”kì“£v%Ÿ…¬/®C¤uGü+€…÷?1üy(8}qrIñkß§-'BDàfÒPÚi¥Åª`Ø]8²¶±–õ#3

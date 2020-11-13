@@ -1,0 +1,23 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Date: Tue, 11 Feb 2020 03:43:42 GMT
+Content-Type: text/html
+Content-Length: 278
+Connection: close
+Location: https://www.cifnews.com/
+Cache-Control: private
+Via: cache2.us16[,0]
+Timing-Allow-Origin: *
+EagleId: 2ff6119615813926221977565e
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<h1>301 Moved Permanently</h1>
+<p>The requested resource has been assigned a new permanent URI.</p>
+<hr/>Powered by Tengine</body>
+</html>
+ml>
+òë¯¦øMÍâYe=X!ğ™&ŒFå³}O™¡$L¨ÒÌÌz…™{g½½ıŒ¦lÖS2F÷H(3Ã2€æYÄÖ}2—BÈÕ¡SKÎV¹T¦qnÅ#“Ì"¶ä!óìKŸğŒN…§C*Øl4ö‰NÏ‘Şœ›Y&‘Â£GSÃ`—Œb4%ïY(UÄÔÔwËÂÉTQÛì•|Yø^×ë„‘TjCr™‚*ÉU&$…Ã «"¯ŒÉÉ¾dÄ¡æYL¼zóÁO‹³£
+Ät¨xn¸Ì:©THûºBÒ€³ˆúl0NöiÁùå‚mV ƒnâË•Ì™2›YOÆf“³†©2<lÙ·*8¬©Cçš¢}1µ"ÆS7™L

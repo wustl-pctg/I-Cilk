@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/csi/csi.h
+stdint.h
+-
+stdbool.h
+-
+
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/csi/csirt.c
+stdlib.h
+-
+stdio.h
+-
+assert.h
+-
+csi.h
+/mnt/cilk-plus-futures/Tapir/src/projects/compiler-rt/lib/csi/csi.h
+
